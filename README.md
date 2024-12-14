@@ -45,17 +45,17 @@ via [quizgecko/](https://quizgecko.com/) (free quizgecko account required)
 
 ESC HSE Assessment sections.
 
-[section 01](https://quizgecko.com/learn/cdm-acronyms-quiz-v7odgk)
-[section 02](https://quizgecko.com/learn/safety-in-load-lifting-hazards-sjfylw)
-[section 03](https://quizgecko.com/learn/manual-handling-injury-protocol-n5udx2)
-[section 04](https://quizgecko.com/learn/dust-safety-quiz-dsim6j)
-[section 05](https://quizgecko.com/learn/asbestos-awareness-and-safety-regulations-kqvpcx)
-[section 06](https://quizgecko.com/learn/fire-safety-and-emergency-procedures-quiz-keivsw)
-[section 07](https://quizgecko.com/learn/construction-site-safety-quiz-b7ztwm)
-[section 08](https://quizgecko.com/learn/safety-guidelines-for-machinery-operation-w5gh36)
-[section 09](https://quizgecko.com/learn/confined-space-safety-permit-systems-p69sw7)
-[section 10](https://quizgecko.com/learn/electricity-at-work-regulations-quiz-510znd)
-[section 11](https://quizgecko.com/learn/hazardous-waste-disposal-procedures-oswtjt)
+- [section 01](https://quizgecko.com/learn/cdm-acronyms-quiz-v7odgk)
+- [section 02](https://quizgecko.com/learn/safety-in-load-lifting-hazards-sjfylw)
+- [section 03](https://quizgecko.com/learn/manual-handling-injury-protocol-n5udx2)
+- [section 04](https://quizgecko.com/learn/dust-safety-quiz-dsim6j)
+- [section 05](https://quizgecko.com/learn/asbestos-awareness-and-safety-regulations-kqvpcx)
+- [section 06](https://quizgecko.com/learn/fire-safety-and-emergency-procedures-quiz-keivsw)
+- [section 07](https://quizgecko.com/learn/construction-site-safety-quiz-b7ztwm)
+- [section 08](https://quizgecko.com/learn/safety-guidelines-for-machinery-operation-w5gh36)
+- [section 09](https://quizgecko.com/learn/confined-space-safety-permit-systems-p69sw7)
+- [section 10](https://quizgecko.com/learn/electricity-at-work-regulations-quiz-510znd)
+- [section 11](https://quizgecko.com/learn/hazardous-waste-disposal-procedures-oswtjt)
 
 ## Data sources
 
