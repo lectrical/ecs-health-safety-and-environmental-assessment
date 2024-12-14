@@ -99,3 +99,7 @@ https://www.remnote.com/
 `quiz.py` in `tests` will run a quiz via terminal from the generated tests/ecs-test.json.
 
 requires `pip install colorama`
+
+## codespaces
+
+You can fork the repo and run a [preconfigured](devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.
