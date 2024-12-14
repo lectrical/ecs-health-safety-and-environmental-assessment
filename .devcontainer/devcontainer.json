@@ -4,6 +4,9 @@
   "postAttachCommand": "reset && cd tests && python quiz.py",
   "settings": {
     "workbench.panel.defaultLocation": "bottom",
-    "workbench.action.toggleMaximizedPanel": true
+    "terminal.integrated.defaultLocation": "panel",
+    "window.menuBarVisibility": "toggle",
+    "workbench.panel.opensMaximized": "always",
+    "workbench.panel.defaultHeight": 80
   }
 }
