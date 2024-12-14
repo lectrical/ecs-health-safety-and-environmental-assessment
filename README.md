@@ -41,7 +41,7 @@ via github codespaces (free github account required)
 
 You can fork the repo and run a [preconfigured](.devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.
 
-via [quizgecko/](https://quizgecko.com/) (free quizgecko account required)
+via [quizgecko](https://quizgecko.com/) (free quizgecko account required)
 
 ESC HSE Assessment sections.
 
@@ -97,7 +97,7 @@ python process_questions.py sections txt-full
 
 This just makes it easy to update the text file as and when the official revision guide is updated and the changed can easily be propagated to the json files.
 
-`create-test.py` will generate a 50 question quiz with randomly selected questions from `json-full/ECS-HSE-Revision-Guide-24.json` in the same format as the official one. Every time it is run it will create file `tests/ecs-test.json`
+`create-test.py` will generate a 50 question quiz with randomly selected questions from `json-full/ECS-HSE-Revision-Guide-24.json` in the same format as the official one. Every time it is runs it will create file `tests/ecs-test.json` overwriting the existing file.
 
 `test_json_to_text.py` will convert `tests/ecs-test.json` to a human readable text file.
 
