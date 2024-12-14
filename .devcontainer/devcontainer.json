@@ -4,9 +4,20 @@
   "postAttachCommand": "reset && cd tests && python quiz.py",
   "settings": {
     "workbench.panel.defaultLocation": "bottom",
-    "terminal.integrated.defaultLocation": "panel",
+    "terminal.integrated.defaultLocation": "editor",
     "window.menuBarVisibility": "toggle",
-    "workbench.panel.opensMaximized": "always",
-    "workbench.panel.defaultHeight": 80
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "overrideName": true,
+        "icon": "terminal-powershell"
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.enablePersistentSessions": false,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.fontSize": 14,
+    "editor.minimap.enabled": false
   }
 }
