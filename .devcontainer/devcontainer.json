@@ -1,6 +1,5 @@
 {
   "name": "A quiz codespace",
-  "image": "mcr.microsoft.com/vscode/devcontainers/python:3",
-  "postCreateCommand": "pip install colorama && cd scripts && python create-test.py",
+  "postCreateCommand": "cd scripts && python create-test.py",
   "postAttachCommand": "cd tests && python quiz.py"
 }
