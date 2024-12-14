@@ -95,3 +95,7 @@ The check the `tests` directory for the outputs. You can feed the txt version to
 
 https://quizgecko.com/
 https://www.remnote.com/
+
+`quiz.py` in `tests` will run a quiz via terminal from the generated tests/ecs-test.json.
+
+requires `pip install colorama`
