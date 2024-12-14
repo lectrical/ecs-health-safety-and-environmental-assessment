@@ -1,0 +1,257 @@
+{
+  "section_number": 11,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "You are on site and you need to dispose of some waste liquid which has oil in it and you are not sure what to do with it. What should you do?",
+      "options": {
+        "A": "Dispose of it in a sealed container into the site skip",
+        "B": "Pour it onto the ground, it will soak away",
+        "C": "Take it outside and set light to it",
+        "D": "Ask your supervisor about the correct way to deal with this waste."
+      },
+      "correct_answer": "D",
+      "explanation": "Dealing with hazardous/special waste will include proper storage and segregation before it is taken away by an authorised waste carrier as required by environmental legislation. An oil spillage could also get into the ground or drains, which may also be an offence under environmental law. Burning waste on site is also an offence, under air pollution legislation, and can lead to local complaints."
+    },
+    {
+      "question_number": 2,
+      "question": "How should you get rid of hazardous/special waste?",
+      "options": {
+        "A": "Put it at the bottom of any site skip",
+        "B": "In accordance with the correct site waste rules",
+        "C": "Take it home, they wont want it on site",
+        "D": "Take it to the nearest local authority waste tip"
+      },
+      "correct_answer": "B",
+      "explanation": "The Hazardous Waste Regulations (Special Waste Regulations in Scotland) require hazardous/special waste to be properly segregated or otherwise treated, and then recovered or disposed of in an officially approved way."
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following is classed as hazardous/special waste?",
+      "options": {
+        "A": "Non-asbestos Insulation",
+        "B": "Polythene and shrink wrap",
+        "C": "Empty cement bags",
+        "D": "Fluorescent light tubes"
+      },
+      "correct_answer": "D",
+      "explanation": "Hazardous wastes (special wastes in Scotland) are specified in waste legislation. Fluorescent tubes are included because of their mercury content."
+    },
+    {
+      "question_number": 4,
+      "question": "Which of the following should be disposed of as hazardous/special waste?",
+      "options": {
+        "A": "Timber, plywood and MDF off-cuts",
+        "B": "Glass fibre insulation",
+        "C": "Aerosol sealant canisters",
+        "D": "Used nuisance dust masks"
+      },
+      "correct_answer": "C",
+      "explanation": "Hazardous wastes (special wastes in Scotland) are specified in waste legislation. Aerosol sealants are included because they can explode if not recovered or disposed of properly, and they may still contain hazardous solvents."
+    },
+    {
+      "question_number": 5,
+      "question": "You need to clean up some oil that has leaked from machinery onto the ground. What is the right way to do this?",
+      "options": {
+        "A": "Put the oily contaminated soil into the general waste skip",
+        "B": "Put the oily contaminated soil into a suitable container that takes hazardous waste",
+        "C": "Put it under some off-cuts so that the oil cannot be seen",
+        "D": "Wash the oil away with water and detergent"
+      },
+      "correct_answer": "B",
+      "explanation": "Oil-contaminated wastes are classified as hazardous/ special waste in waste legislation. The Hazardous Waste Regulations (Special Waste Regulations in Scotland) require such waste to be properly segregated or otherwise treated, and then recovered or disposed of in an approved way. Following the other options would be an offence under waste legislation."
+    },
+    {
+      "question_number": 6,
+      "question": "Other site workers are complaining that you are generating too much dust. What should you do?",
+      "options": {
+        "A": "Tell them you have nearly finished",
+        "B": "Stop work and inform your supervisor",
+        "C": "Ignore them it's none of their business",
+        "D": "Issue the other site workers with dust masks"
+      },
+      "correct_answer": "B",
+      "explanation": "Excessive dust may be a health hazard to you and those around you, but even if it is not a health hazard, excessive dust can be a statutory nuisance (under the Environmental Protection Act). Even when it is not a statutory nuisance, it can lead to complaints from neighbours and possible damage to neighbouring property."
+    },
+    {
+      "question_number": 7,
+      "question": "Who needs to understand relevant environmental risks on a construction site?",
+      "options": {
+        "A": "Only the principal contractor",
+        "B": "Only the subcontractors",
+        "C": "Everyone working on the site",
+        "D": "Only the environmental clerk of works"
+      },
+      "correct_answer": "C",
+      "explanation": "The actions of everyone on site determine how well the risks to the environment (such as water pollution, or creating a local nuisance) are controlled."
+    },
+    {
+      "question_number": 8,
+      "question": "Under environmental law, which statement is true?",
+      "options": {
+        "A": "Companies and individuals can be prosecuted if they do not follow the law",
+        "B": "Companies can be prosecuted, but not individuals",
+        "C": "It is legal to transport business waste without proper paperwork",
+        "D": "It is legal to disturb protected species habitats"
+      },
+      "correct_answer": "A",
+      "explanation": "Most environmental law is enforced against companies, but the regulator in the relevant part of the UK (the Environment Agency, SEPA or NIEA) can also prosecute company officers and even have powers to prosecute employees if they wilfully contribute to environmental harm."
+    },
+    {
+      "question_number": 9,
+      "question": "Do individuals have any responsibility for sustainability when on site?",
+      "options": {
+        "A": "No, it is dealt with by the site manager",
+        "B": "No, it is a matter for the Environment Agency/NIEA/SEPA",
+        "C": "Only on sites where there is asbestos",
+        "D": "Yes, on every site"
+      },
+      "correct_answer": "D",
+      "explanation": "Your responsibility is to follow the site and company rules aimed at environmental protection and sustainability, and to help your company to comply with relevant legal requirements, such as the need to segregate waste properly (e.g. so that it can be recovered)."
+    },
+    {
+      "question_number": 10,
+      "question": "Which of the following is NOT best practice from a sustainability point of view?",
+      "options": {
+        "A": "Saving materials, fuel, water and energy",
+        "B": "Looking after the people working on or near the site",
+        "C": "Protecting the environment",
+        "D": "Sending unused and waste copper cables to landfill"
+      },
+      "correct_answer": "D",
+      "explanation": "Option D would be wasting a valuable natural resource (copper) that could be effectively recovered for later use or recycling. Reusing or recycling copper has less environmental impact than mining and extracting new copper reserves."
+    },
+    {
+      "question_number": 11,
+      "question": "Which of the following does NOT help sustainability during construction projects?",
+      "options": {
+        "A": "Leaving engines and motors running when they are not needed",
+        "B": "Segregating waste",
+        "C": "Vehicle sharing or using public transport to get to work",
+        "D": "Avoiding overheating site huts"
+      },
+      "correct_answer": "A",
+      "explanation": "Option A generates local air pollution and carbon dioxide emissions (which contribute to global warming), and also increases the noise nuisance."
+    },
+    {
+      "question_number": 12,
+      "question": "Which of the following should you do on site in the interest of sustainability?",
+      "options": {
+        "A": "Run plant and equipment when they are not needed",
+        "B": "Bury waste material",
+        "C": "Comply with site instructions on handling waste materials",
+        "D": "Pour waste liquids down a drain off-site"
+      },
+      "correct_answer": "C",
+      "explanation": "Your actions will help your company, and others working on site, to achieve more sustainable work practices, such as waste recovery."
+    },
+    {
+      "question_number": 13,
+      "question": "Which of the following is NOT part of environmentally-friendly construction?",
+      "options": {
+        "A": "Creating a dust nuisance to residents in neighbouring properties",
+        "B": "Preventing water and soil pollution",
+        "C": "Saving energy",
+        "D": "Minimising the amount of waste you create during a job"
+      },
+      "correct_answer": "A",
+      "explanation": "Neighbours outside the site are an important part of the wider environment. They may be affected by nuisance (such as noise, dust or even light at night), and they may complain to the client, main contractor or the local enforcing authority. Creating certain types of nuisance is an offence under the Environmental Protection Act."
+    },
+    {
+      "question_number": 14,
+      "question": "From an environmental point of view, why should materials be reused, where possible?",
+      "options": {
+        "A": "To save the client money",
+        "B": "A lot of energy and raw materials go into making most construction products",
+        "C": "It makes less mess on site",
+        "D": "Its a European Union Law"
+      },
+      "correct_answer": "B",
+      "explanation": "Although reducing the amount of waste is the first priority, the re-use of materials can also contribute to effective waste management."
+    },
+    {
+      "question_number": 15,
+      "question": "Which action will help to minimise waste?",
+      "options": {
+        "A": "Only take or open what you need and return or reseal anything left over",
+        "B": "Use new materials/packs at the beginning of each day",
+        "C": "Leave materials unprotected in the rain",
+        "D": "Always order much more than usually required just in case you need it"
+      },
+      "correct_answer": "A",
+      "explanation": "The hierarchy for managing waste is to reduce/reuse/recover. Reducing the amount of waste is therefore the first priority."
+    },
+    {
+      "question_number": 16,
+      "question": "Which of the following is good environmental practice?",
+      "options": {
+        "A": "Over-ordering materials",
+        "B": "Segregating waste into different types",
+        "C": "Leaving skips uncovered in wet weather",
+        "D": "Leaving motors running when they are not needed"
+      },
+      "correct_answer": "B",
+      "explanation": "This is good practice, since it will help with waste recovery. If the waste is classified as hazardous waste (special waste in Scotland) proper segregation is also a legal requirement."
+    },
+    {
+      "question_number": 17,
+      "question": "Do individuals have any responsibility for minimising the amount of waste created on site?",
+      "options": {
+        "A": "Only if asbestos removal is being carried out",
+        "B": "Yes, everyone on site has this responsibility",
+        "C": "No, it's the responsibility of the client",
+        "D": "Only during site clean-up, at the end of the project"
+      },
+      "correct_answer": "B",
+      "explanation": "Your actions will help your company, and others on site, to procure sensibly and to organise the job so that materials and substances are not wasted. Waste reduction is the best option when trying to manage site waste."
+    },
+    {
+      "question_number": 18,
+      "question": "If you have unused material left, what should you do before you consider putting non-hazardous waste items into a skip?",
+      "options": {
+        "A": "Make sure there is a label on it",
+        "B": "Put it in a plastic bag and put it in a skip",
+        "C": "Check whether someone else on your team can make use of it",
+        "D": "Weigh it"
+      },
+      "correct_answer": "C",
+      "explanation": "Although reducing the amount of waste is the first priority, the reuse of waste materials is much better than disposal, which is the most expensive option and which should be the last resort. Reuse is a better waste management option than recovery."
+    },
+    {
+      "question_number": 19,
+      "question": "Why should different types of waste be separated on site?",
+      "options": {
+        "A": "It will take up less room in the skip",
+        "B": "So the local council can charge Landfill Tax",
+        "C": "So the main contractor can check what's being thrown away",
+        "D": "So waste can be recovered more easily"
+      },
+      "correct_answer": "D",
+      "explanation": "This is good practice, since waste recovery can save both energy and materials, compared to creating brand new materials or items. It will also cut the amount of waste that goes to landfill. If the waste is classed as hazardous (special waste in Scotland) then the effective separation of different wastes is a legal requirement."
+    },
+    {
+      "question_number": 20,
+      "question": "When storing liquids (such as oils, fuels or chemicals) on-site, what must you do?",
+      "options": {
+        "A": "Always use the nearest container",
+        "B": "Use a transparent container so you can check how much liquid is in it",
+        "C": "Ensure the liquid material is stored safely and securely, and out of the way of site traffic",
+        "D": "Keep the tops off, to prevent pressure from building up"
+      },
+      "correct_answer": "C",
+      "explanation": "Any spillage could get into the ground or drains, which is likely to be an offence under environmental legislation."
+    },
+    {
+      "question_number": 21,
+      "question": "What can help to prevent harm to the environment from oil spillages?",
+      "options": {
+        "A": "A supply of water to flush the spill away",
+        "B": "Cover the spillage with soil",
+        "C": "Turning liquid containers upside down so the top can't come off",
+        "D": "Store oils in an area that can catch any spills, such as a bund or a drip tray."
+      },
+      "correct_answer": "D",
+      "explanation": "The use of a bund (fully walled storage area) or a drip tray will help any spillage to be contained in a small area for clear up. Any spillage could get into the ground or drains, which is likely to be an offence under environmental legislation."
+    }
+  ]
+}

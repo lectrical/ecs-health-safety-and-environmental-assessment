@@ -1,0 +1,348 @@
+QUESTION 5.1
+
+Exposure to asbestos fibres may cause which one of the following?
+
+A. Dermatitis
+B. Asthma
+C. Glandular fever
+D. Asbestosis
+
+Right Answer: D
+
+Breathing in asbestos fibres can also lead to a number of other diseases, including lung cancer and mesothelioma.
+
+QUESTION 5.2
+
+Asbestos is suspected in the workplace, during renovation do you:
+
+A. Remove it
+B. Paint it
+C. Ignore it
+D. Seek guidance immediately
+
+Right Answer: D
+
+Competent advice must be sought, to prevent exposure to the worker or others, either at the time, or subsequently.
+
+QUESTION 5.3
+
+Which of the following statements about asbestos is TRUE?
+
+A. Asbestos is not really a hazard to health
+B. White asbestos is safe to use
+C. All asbestos can be a hazard to health
+D. Only brown and blue asbestos are a hazard to health
+
+Right Answer: C
+
+All forms of asbestos can cause fatal diseases.
+
+QUESTION 5.4
+
+While working you discover material you think could be asbestos. What should you do?
+
+A. Clear any dust and fragments, put them in a bin then carry on working
+B. Inform the site nurse
+C. Stop working immediately and report your suspicions to your supervisor
+D. Dampen the material to prevent further dust being created, then carry on working
+
+Right Answer: C
+
+It is essential to stop work if asbestos is found or suspected, and await competent advice on what to do next.
+
+QUESTION 5.5
+
+Can you tell by the smell of a product whether it is likely to cause harm?
+
+A. No
+B. Only within an enclosed space
+C. Yes
+D. Only if you have been trained
+
+Right Answer: A
+
+Many harmful substances have no smell.
+
+QUESTION 5.6
+
+How would you recognise a hazardous substance?
+
+A. By a symbol on the container
+B. By its smell
+C. The colour of the label on the container
+D. It will be in a suitable container
+
+Right Answer: A
+
+A supplier of a packaged hazardous substance must include a label on the packaging incorporating one or more hazard symbols alerting users to the dangers posed by the chemical.
+
+QUESTION 5.7
+
+Which of the following does NOT cause skin problems?
+
+A. Bitumens
+B. Solvents
+C. Asbestos
+D. Epoxy resins
+
+Right Answer: C
+
+Asbestos is potentially very harmful if inhaled, but does not affect the skin significantly.
+
+QUESTION 5.8
+
+When an assessment of hazardous substances has been carried out under the COSHH Regulations, the risks and control measures should be explained to:
+
+A. The operatives using the substance
+B. All employees on site
+C. The accounts department
+D. The person in charge of the stores
+
+Right Answer: A
+
+All those working with the hazardous substances in question need to know about any risks.
+
+QUESTION 5.9
+
+If your hands are very dirty, what should you use to get them clean?
+
+A. White Spirit
+B. Paraffin
+C. Soap and water
+D. Thinners
+
+Right Answer: C
+
+The other substances can remove natural oils from the skin.
+
+QUESTION 5.10
+
+The presence of rats on site creates a risk of catching Weil's disease. What is the EASIEST PRACTICAL MEASURE that you can take to discourage the presence of rats?
+
+A. Avoid leaving scraps of food lying about
+B. Lay traps containing rat poison
+C. Contact the local Environmental Health Officer
+D. Bring a large cat on site
+
+Right Answer: A
+
+The easiest solution is to avoid leaving food around, since this is what attracts vermin.
+
+QUESTION 5.11
+
+Why is personal hygiene so important?
+
+A. So you don't smell
+B. Because the COSHH regulations require it
+C. To protect your own and others' health
+D. To stop you catching something nasty
+
+Right Answer: C
+
+QUESTION 5.12
+
+If you have been handling lead, how is it most likely to get into your blood stream?
+
+A. By not wearing safety goggles
+B. By not reporting the matter to the HSE
+C. By not using the correct safety footwear
+D. By not washing your hands before eating
+
+Right Answer: D
+
+The route into the body is ingestion, normally from lead contamination on the hands.
+
+QUESTION 5.13
+
+The number of toilets provided on site depends on:
+
+A. The type of work being completed
+B. The ratio of male and female workers on site
+C. The duration of the work on site
+D. The number of personnel on site
+
+Right Answer: D
+
+Guidance on the provision of welfare facilities is given in HSE publication 'Health and Safety in Construction'.
+
+QUESTION 5.14
+
+Which of the following is not required to be provided under the Construction (Design and Management) Regulations?
+
+A. Toilet facilities
+B. Washing facilities
+C. Hot food
+D. Drinking water
+
+Right Answer: C
+
+Guidance on the provision of welfare facilities as required by COM is given in HSE publication 'Health and Safety in Construction'.
+
+QUESTION 5.15
+
+The extended use of powered hand-held tools and equipment may lead to which medical condition?
+
+A. Vibration white finger
+B. Weil's disease
+C. Asbestosis
+D. Dermatitis
+
+Right Answer: A
+
+Hand-arm vibration can cause a range of conditions (including vibration white finger) collectively known as hand-arm vibration syndrome, as well as diseases such as carpal tunnel syndrome.
+
+QUESTION 5.16
+
+What must your employer do if the daily personal noise exposure is at or exceeds 85 db(A)?
+
+A. Provide hearing protection to those employees who ask for it
+B. Issue hearing protection to those exposed and ensure that it is worn
+C. Tell employees to buy their own hearing protection
+D. Report it to the Health and Safety Executive
+
+Right Answer: B
+
+This is an interim measure under the Control of Noise at Work Regulations 2005 when the daily personal noise exposure is at or exceeds the upper exposure action value of 85 dB(A). Exposure should subsequently be reduced by implementing organizational or technical measures.
+
+QUESTION 5.17
+
+What are the lower and upper action values with regard to daily personal noise exposure, as defined in the Control of Noise at Work Regulations 2005?
+
+A. 85 dB(A) and 90 dB(A)
+B. 80 dB(A) and 85 dB(A)
+C. 70 dB(A) and 80 dB(A)
+D. 75 dB(A) and 85dB(A)
+
+Right Answer: B
+
+Daily personal noise exposure is the average noise level experienced by an individual over an 8 hour period.
+
+QUESTION 5.18
+
+At or above what level of daily personal noise exposure does an employer have to provide hearing protection if it is requested by an employee?
+
+A. 90 dB(A)
+B. 95 dB(A)
+C. 80 dB(A)
+D. 85 dB(A)
+
+Right Answer: C
+
+This is one of the duties of employers under the Control of Noise at Work Regulations 2005 when the lower exposure action value of 80 dB(A) is reached or exceeded.
+
+QUESTION 5.19
+
+The effects of damage to your hearing by long-term exposure to high noise levels:
+
+A. Can be corrected by an operation
+B. Are permanent
+C. Will be reduced when you change jobs
+D. Can be reversed to near normal with time
+
+Right Answer: B
+
+Hearing damage due to long-term noise exposure is irreversible.
+
+QUESTION 5.20
+
+Hearing protection should be worn:
+
+A. In designated areas
+B. In noisy internal areas only
+C. At any workplace
+D. Only on building sites
+
+Right Answer: A
+
+Employees must wear hearing protectors when exposed at or above the upper exposure action values and within hearing protection zones.
+
+QUESTION 5.21
+
+Wearing suitable hearing protection:
+
+A. Stops you hearing distracting conversations
+B. Stops you hearing all noise
+C. Brings noise down to an acceptable level
+D. Repairs damaged hearing
+
+Right Answer: C
+
+Hearing protection still allows some noise to reach the ear, but, if it has been correctly chosen, will reduce noise levels to an acceptable level.
+
+QUESTION 5.22
+
+Which of the following is one of the recommended means of protecting your hearing?
+
+A. Rolled tissue paper
+B. Cotton wool pads
+C. Soft cloth pads
+D. Ear defenders
+
+Right Answer: D
+
+The others are not considered to be suitable types of hearing protection.
+
+QUESTION 5.23
+
+Which of the following would NOT reduce the risks from hand-arm vibration when using a hammer action tool?
+
+A. Selecting the lowest vibration tool that is suitable and which can do the work efficiently
+B. Wearing gloves to keep the hands warm
+C. Working as a team to share the work out
+D. Making sure one person does all the work with the tool
+
+Right Answer: D
+
+Where tools require constant or frequent use, rotas will avoid individuals having long exposure to vibration. The use of low-vibration tools and keeping the hands warm in cold conditions will also reduce the risks.
+
+QUESTION 5.24
+
+Which of the following animals can carry Weil's disease?
+
+A. Snake
+B. Sheep
+C. Rat
+D. Pig
+
+Right Answer: C
+
+Weil's disease is a serious and sometimes fatal infection that can be transmitted to humans by contact with infected rats. Another form of Leptospirosis infection can be transmitted from cattle to humans.
+
+QUESTION 5.25
+
+You are most likely to catch Weil's disease (Leptospirosis) if you:
+
+A. Work near wet ground, waterways or sewers
+B. Work near air conditioning units
+C. Fix showers or baths
+D. Drink water from a standpipe
+
+Right Answer: A
+
+Anyone who is exposed to rat urine is at risk, particularly sewer workers and farmers. Those in contact with canal or river water are also at risk.
+
+QUESTION 5.26
+
+What should you do if the toilets on your site are continually dirty?
+
+A. Ignore the problem - its normal on a construction site
+B. Make sure you tell someone who can sort it out
+C. Find some cleaning materials and clean it up yourself
+D. Ask in a nearby cafe or pub if you can use their toilets
+
+Right Answer: B
+
+How often welfare facilities on site require cleaning will depend on the number of people on site and how quickly they get dirty. The person in control of the site should make sure someone is responsible for keeping the facilities clean and tidy.
+
+QUESTION 5.27
+
+Excessive sunlight on bare skin can cause which serious health problem?
+
+A. Dermatitis
+B. Rickets
+C. Acne
+D. Skin cancer
+
+Right Answer: D
+
+Ultraviolet rays in sunlight can cause sunburn and premature ageing of the skin. The most serious effect, however, is an increased chance of developing skin cancer.
