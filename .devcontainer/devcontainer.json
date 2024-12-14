@@ -1,7 +1,7 @@
 {
   "name": "A quiz codespace",
   "postCreateCommand": "cd scripts && python create-test.py",
-  "postAttachCommand": "reset && cd tests && python quiz.py",
+  "postAttachCommand": "reset && cd scripts && python quiz.py",
   "settings": {
     "workbench.panel.defaultLocation": "bottom",
     "terminal.integrated.defaultLocation": "editor",

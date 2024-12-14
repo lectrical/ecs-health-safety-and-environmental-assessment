@@ -1,0 +1,657 @@
+[
+  {
+    "section_number": 1,
+    "questions": [
+      {
+        "question_number": 1,
+        "question": "What do the letters CDM stand for?",
+        "options": {
+          "A": "Control of Demolition and Management Regulations",
+          "B": "Control of Dangerous Materials Regulations",
+          "C": "Construction (Demolition Management) Regulations",
+          "D": "Construction (Design and Management) Regulations"
+        },
+        "correct_answer": "D",
+        "explanation": "The CDM Regulations impose duties to manage construction projects, ensure physical safeguards are provided to prevent danger during such projects and that adequate welfare facilities are provided."
+      },
+      {
+        "question_number": 26,
+        "question": "In the context of a risk assessment, what do you understand by the term risk?",
+        "options": {
+          "A": "An unsafe act or condition",
+          "B": "Something with the potential to cause injury",
+          "C": "Any work activity that can be described as dangerous",
+          "D": "The likelihood that harm from a particular hazard will occur"
+        },
+        "correct_answer": "D",
+        "explanation": "Hazard and risk are not the same. Risk reflects the chance of being harmed by a hazard."
+      },
+      {
+        "question_number": 14,
+        "question": "What do the letters HSE stand for?",
+        "options": {
+          "A": "Highly Safe Electrician",
+          "B": "Health and Safety Exercise",
+          "C": "Health and Safety Examiner",
+          "D": "Health and Safety Executive"
+        },
+        "correct_answer": "D",
+        "explanation": "The Health and Safety Executive was established under the Health and Safety at Work Act 1974."
+      },
+      {
+        "question_number": 3,
+        "question": "What happens if a Prohibition Notice is issued by an Inspector of the local authority or the HSE?",
+        "options": {
+          "A": "The work in hand can be completed, but no new work started",
+          "B": "The work can continue if adequate safety precautions are put in place",
+          "C": "The work that is subject to the notice must cease",
+          "D": "The work can continue, provided a risk assessment is carried out"
+        },
+        "correct_answer": "C",
+        "explanation": "The work activity covered by a prohibition notice must cease, until the identified danger is removed."
+      },
+      {
+        "question_number": 4,
+        "question": "Health and Safety Executive Inspector can?",
+        "options": {
+          "A": "Only visit if they have made an appointment",
+          "B": "Visit at any time",
+          "C": "Only visit if accompanied by the principal contractor",
+          "D": "Only visit to interview the site manager"
+        },
+        "correct_answer": "B",
+        "explanation": "Inspectors have a range of powers, including the right to visit premises at any time."
+      },
+      {
+        "question_number": 24,
+        "question": "Who of the following would you expect to be responsible for managing health and safety on site?",
+        "options": {
+          "A": "Foreman",
+          "B": "Your employer",
+          "C": "Main sub-contractor",
+          "D": "HSE Inspector"
+        },
+        "correct_answer": "B",
+        "explanation": "The responsibility for management of health and safety at work rests with the employer."
+      }
+    ]
+  },
+  {
+    "section_number": 2,
+    "questions": [
+      {
+        "question_number": 11,
+        "question": "Which of the following is advisable when lifting a load manually?",
+        "options": {
+          "A": "Keep legs straight, bend back, use power of legs",
+          "B": "Bend the knees, keep the back straight, use power of back",
+          "C": "Bend the knees, keep the back as straight as possible, use power of legs",
+          "D": "Keep legs and back straight, use power of legs"
+        },
+        "correct_answer": "C",
+        "explanation": "Stooping can increase the stress on the lower back. However, stooping slightly may be preferable to adopting a squatting posture, which can place excessive loads on knees and hips."
+      },
+      {
+        "question_number": 12,
+        "question": "In manual handling, which of the following general statements is true?",
+        "options": {
+          "A": "You should keep your back bent when lifting",
+          "B": "Anyone can carry any load as long as they are strong enough",
+          "C": "Large loads should be broken down into smaller loads where possible",
+          "D": "Loads should be held at arm's length while carrying"
+        },
+        "correct_answer": "C",
+        "explanation": "This is a recommendation (INDG143)."
+      },
+      {
+        "question_number": 19,
+        "question": "What does 'Kinetic lifting' mean?",
+        "options": {
+          "A": "Using a crane or some other mechanical means",
+          "B": "Using a forklift truck or pallet truck",
+          "C": "Lifting in the most safe and effective way",
+          "D": "Getting a friend to help you with the load"
+        },
+        "correct_answer": "C",
+        "explanation": ""
+      },
+      {
+        "question_number": 1,
+        "question": "If there is a risk of injury from lifting loads what should you think about first?",
+        "options": {
+          "A": "Whether the load needs to be lifted at all",
+          "B": "What the weight of the load is",
+          "C": "Where to hold the load when lifting",
+          "D": "How to lift the load"
+        },
+        "correct_answer": "A",
+        "explanation": "If possible, it is best to avoid the risks from lifting altogether. This is the preferred requirement laid down in the Manual Handling Operations Regulations 1992."
+      }
+    ]
+  },
+  {
+    "section_number": 3,
+    "questions": [
+      {
+        "question_number": 21,
+        "question": "If there is a fatal accident on site, when must the Health and Safety Executive be informed?",
+        "options": {
+          "A": "Without delay",
+          "B": "Within 10 days",
+          "C": "Within 7 days",
+          "D": "Within 5 days"
+        },
+        "correct_answer": "A",
+        "explanation": "The enforcing authority must be notified by the quickest practicable means."
+      },
+      {
+        "question_number": 32,
+        "question": "You have witnessed a serious accident on your site and are interviewed by an HSE inspector. You should:",
+        "options": {
+          "A": "Tell the inspector what your mates said you should say",
+          "B": "Ask your supervisor what you should say to the inspector",
+          "C": "Co-operate fully with the inspector and tell them exactly what you saw",
+          "D": "Don't tell them anything"
+        },
+        "correct_answer": "C",
+        "explanation": "This is good practice, but it can also be an offence to withhold important information from an inspector."
+      },
+      {
+        "question_number": 6,
+        "question": "Which of the following should be recorded in the accident book following an accident?",
+        "options": {
+          "A": "The date and time the accident occurred",
+          "B": "Your date of birth",
+          "C": "The weather conditions",
+          "D": "Your National Insurance Number"
+        },
+        "correct_answer": "A",
+        "explanation": "The information to be entered in an accident book (BI 510) includes when and where the accident happened, the name and address and occupation of the person who had the accident and details of how the accident happened and the injuries suffered. The weather conditions would only be included if they contributed to the accident."
+      }
+    ]
+  },
+  {
+    "section_number": 4,
+    "questions": [
+      {
+        "question_number": 18,
+        "question": "Which one of the following must apply to any hard hat provided?",
+        "options": {
+          "A": "It is CE or UKCA marked",
+          "B": "It is less than 5 years old",
+          "C": "It is less than 1 year old",
+          "D": "It is less than 2 years old"
+        },
+        "correct_answer": "A",
+        "explanation": "All PPE should be CE - marked, indicating that it meets the basic health and safety requirements."
+      },
+      {
+        "question_number": 21,
+        "question": "When should a safety helmet be worn on site?",
+        "options": {
+          "A": "At all times unless there is no foreseeable risk of injury to the head other than by falling",
+          "B": "When you are out in the open air",
+          "C": "When walking to and from a place of work",
+          "D": "Only when something may fall"
+        },
+        "correct_answer": "A",
+        "explanation": "The circumstances when there is no foreseeable risk of head injury from falling or swinging objects or striking the head against something will be very limited in most construction work."
+      },
+      {
+        "question_number": 24,
+        "question": "When would it be appropriate to wear a bump-cap instead of a safety helmet?",
+        "options": {
+          "A": "When there is no foreseeable risk of injury from falling or swinging objects",
+          "B": "In warm weather",
+          "C": "When working in excavations",
+          "D": "When working on a ladder"
+        },
+        "correct_answer": "A",
+        "explanation": "Industrial scalp protectors (bump caps) can protect against striking fixed obstacles, scalping or entanglements. They do not provide suitable protection against falling or swinging objects."
+      },
+      {
+        "question_number": 1,
+        "question": "When working in dusty conditions, what of the following would give the LEAST level of protection?",
+        "options": {
+          "A": "Compressed airline breathing helmet",
+          "B": "Positive pressure powered respirator",
+          "C": "Self-contained breathing apparatus",
+          "D": "Half mask dust respirator"
+        },
+        "correct_answer": "D",
+        "explanation": "Protection factors are given in HSE publication HSG53 Respiratory protective equipment at work - A practical guide."
+      }
+    ]
+  },
+  {
+    "section_number": 5,
+    "questions": [
+      {
+        "question_number": 23,
+        "question": "Which of the following would NOT reduce the risks from hand-arm vibration when using a hammer action tool?",
+        "options": {
+          "A": "Selecting the lowest vibration tool that is suitable and which can do the work efficiently",
+          "B": "Wearing gloves to keep the hands warm",
+          "C": "Working as a team to share the work out",
+          "D": "Making sure one person does all the work with the tool"
+        },
+        "correct_answer": "D",
+        "explanation": "Where tools require constant or frequent use, rotas will avoid individuals having long exposure to vibration. The use of low-vibration tools and keeping the hands warm in cold conditions will also reduce the risks."
+      },
+      {
+        "question_number": 6,
+        "question": "How would you recognise a hazardous substance?",
+        "options": {
+          "A": "By a symbol on the container",
+          "B": "By its smell",
+          "C": "The colour of the label on the container",
+          "D": "It will be in a suitable container"
+        },
+        "correct_answer": "A",
+        "explanation": "A supplier of a packaged hazardous substance must include a label on the packaging incorporating one or more hazard symbols alerting users to the dangers posed by the chemical."
+      },
+      {
+        "question_number": 14,
+        "question": "Which of the following is not required to be provided under the Construction (Design and Management) Regulations?",
+        "options": {
+          "A": "Toilet facilities",
+          "B": "Washing facilities",
+          "C": "Hot food",
+          "D": "Drinking water"
+        },
+        "correct_answer": "C",
+        "explanation": "Guidance on the provision of welfare facilities as required by COM is given in HSE publication 'Health and Safety in Construction'."
+      }
+    ]
+  },
+  {
+    "section_number": 6,
+    "questions": [
+      {
+        "question_number": 13,
+        "question": "When discharging carbon dioxide fire extinguishers, the nozzle:",
+        "options": {
+          "A": "Becomes warm",
+          "B": "Becomes very hot",
+          "C": "Becomes very cold",
+          "D": "Doesn't change temperature"
+        },
+        "correct_answer": "C",
+        "explanation": "The expansion of CO2 gas coming out of the nozzle causes rapid cooling."
+      },
+      {
+        "question_number": 17,
+        "question": "A workmate burns their hand on a piece of very hot metal. What should you do first?",
+        "options": {
+          "A": "Rub some cream or Vaseline into the burn",
+          "B": "Cover the burn with something dry",
+          "C": "Warn other people about the piece of hot metal",
+          "D": "Put their hand in cold water if it is available"
+        },
+        "correct_answer": "D",
+        "explanation": "Burns need immediate and sustained cooling."
+      },
+      {
+        "question_number": 8,
+        "question": "All new fire extinguishers are coloured red or of bright self-coloured metal. How do you know the difference between types?",
+        "options": {
+          "A": "A different colour panel or band is on the body of the extinguishers",
+          "B": "During site induction, you will be told where the different types of extinguishers are",
+          "C": "The weight and shape of the extinguisher",
+          "D": "The type of extinguisher is written on a sign next to it"
+        },
+        "correct_answer": "A",
+        "explanation": "Different coloured bands show extinguisher types e.g. black for CO2 and blue for dry powder."
+      },
+      {
+        "question_number": 19,
+        "question": "How often should a first-aider qualified in First Aid at Work (FAW) or Emergency First Aid at Work (EFAW) receive retraining?",
+        "options": {
+          "A": "Every six months",
+          "B": "Every two years",
+          "C": "Every three years",
+          "D": "Every four years"
+        },
+        "correct_answer": "C",
+        "explanation": "First Aid at Work (FAW) and Emergency First Aid at Work (EFAW) certificates are valid for three years and first-aiders are required to undertake retraining at the end of this period. However, the HSE also strongly recommends that first-aiders undertake annual (half-day) refresher training."
+      },
+      {
+        "question_number": 22,
+        "question": "A labourer gets an electric shock; looks a bit pale but says they are alright. What should you do?",
+        "options": {
+          "A": "Send someone for the first-aider",
+          "B": "Tell them to report it to their supervisor",
+          "C": "Go and check the electrics so it cannot happen again",
+          "D": "See if they want a drink or a cigarette"
+        },
+        "correct_answer": "A",
+        "explanation": "Competent first-aid treatment is essential, and should be summoned immediately."
+      },
+      {
+        "question_number": 35,
+        "question": "In addition to preserving fire separation between areas of a building, which other important fire safety function can fire-stopping achieve?",
+        "options": {
+          "A": "Preventing premature structural collapse",
+          "B": "Reducing nuisance fire alarms",
+          "C": "Reducing noise transmission",
+          "D": "Saving energy"
+        },
+        "correct_answer": "A",
+        "explanation": "During a fire it is essential that the load-bearing capacity of elements of the building structure are maintained until occupants have escaped. Timber studs, joists or 'I' beams, for example, may only have a short survival time if exposed to fire and may rely on linings, such as a plasterboard ceiling, for fire-resistance. Services passing through such linings should therefore be fire-stopped."
+      },
+      {
+        "question_number": 46,
+        "question": "What is a key consideration for individuals to ensure safety at work?",
+        "options": {
+          "A": "Pushing personal limits to complete a job at any cost",
+          "B": "Having a go at jobs without proper training",
+          "C": "Recognising the limitations of competence and not exceeding your own limitations",
+          "D": "Ignoring boundaries to complete a job in the quickest manner possible"
+        },
+        "correct_answer": "C",
+        "explanation": "Competence includes the recognition and awareness of the limitations of your own competence, and not undertaking jobs or tasks for which you haven't received proper training as this will lead to unsafe and potentially dangerous practices."
+      },
+      {
+        "question_number": 39,
+        "question": "Which one of the following is associated with a Higher Risk Building (HRBs) in England?",
+        "options": {
+          "A": "At least 18 metres in height or seven storeys",
+          "B": "At least 15 metres in height or seven storeys",
+          "C": "At least 15 metres in height or six storeys",
+          "D": "At least 18 metres in height or six storeys"
+        },
+        "correct_answer": "A",
+        "explanation": "At least 18 meters in height or seven storeys is the height at which the Building Safety Regulator regime will apply in England."
+      },
+      {
+        "question_number": 10,
+        "question": "What is a blue-labelled fire extinguisher filled with?",
+        "options": {
+          "A": "Water",
+          "B": "Foam",
+          "C": "Dry powder",
+          "D": "Carbon dioxide"
+        },
+        "correct_answer": "C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "section_number": 7,
+    "questions": [
+      {
+        "question_number": 16,
+        "question": "What is the minimum height of the top guard-rail of a scaffold above the edge from which someone is liable to fall?",
+        "options": {
+          "A": "470mm",
+          "B": "910mm",
+          "C": "950mm",
+          "D": "2 metres"
+        },
+        "correct_answer": "C",
+        "explanation": "This is a requirement of the Work at Height Regulations 2005."
+      },
+      {
+        "question_number": 9,
+        "question": "A ladder giving access to a scaffold can generally be safely used, provided that:",
+        "options": {
+          "A": "The foot of the ladder is firmly wedged",
+          "B": "It does not move when you climb up it",
+          "C": "Any broken rungs are clearly marked",
+          "D": "It is tied and extends at least 1 metre above the platform"
+        },
+        "correct_answer": "D",
+        "explanation": "Access ladders should extend at least 1 metre above the landing point to provide a safe handhold."
+      },
+      {
+        "question_number": 6,
+        "question": "Why should aluminium ladders be kept away from wet lime or cement?",
+        "options": {
+          "A": "It will stain your clothes",
+          "B": "The ladder may become statically charged",
+          "C": "It may corrode the ladder",
+          "D": "It will stain the aluminium"
+        },
+        "correct_answer": "C",
+        "explanation": "Aluminium can corrode in certain situations, notably if in prolonged contact with lime or cement."
+      },
+      {
+        "question_number": 20,
+        "question": "If you have to work at height and it is not possible to erect a scaffold, or use any other type of working platform or mobile elevating work platform, then you should:",
+        "options": {
+          "A": "Work without fall protection, provided you have a mate with you",
+          "B": "Wear a harness and lanyard at all times",
+          "C": "Work without fall protection, provided the weather is not too windy",
+          "D": "Work without fall protection at all times when no one else is about"
+        },
+        "correct_answer": "B",
+        "explanation": "The harness will greatly reduce the likelihood of injury if you fall."
+      },
+      {
+        "question_number": 19,
+        "question": "You have been asked to operate a cherry-picker (mobile elevated work platform) when it is very windy. What should your FIRST consideration be?",
+        "options": {
+          "A": "Wear a safety harness and clip it to the structure that you are working on",
+          "B": "Does the wind-speed make it unsafe to use the machine",
+          "C": "Wear an extra layer of clothing to keep warm",
+          "D": "Tie all light-weight objects to the hand-rails of the basket"
+        },
+        "correct_answer": "B",
+        "explanation": "The priority in safety is eliminating risk at source in this case by not working in dangerous conditions rather than trying to stay safe by using protective equipment."
+      }
+    ]
+  },
+  {
+    "section_number": 8,
+    "questions": [
+      {
+        "question_number": 2,
+        "question": "Who should operate plant and equipment on site?",
+        "options": {
+          "A": "Only people over 18 years of age",
+          "B": "Trained and authorised employees only",
+          "C": "An employee holding a full driving licence",
+          "D": "Any experienced employee"
+        },
+        "correct_answer": "B",
+        "explanation": "Never operate plant or equipment unless you have been trained and are authorised to do so."
+      },
+      {
+        "question_number": 17,
+        "question": "What is the preferred nominal voltage for local lighting up to 2 kW on construction sites?",
+        "options": {
+          "A": "55 volts",
+          "B": "110 volts",
+          "C": "400 volts",
+          "D": "230 volts"
+        },
+        "correct_answer": "B",
+        "explanation": "110 volt reduced low voltage systems are strongly preferred for the supply to such equipment."
+      },
+      {
+        "question_number": 22,
+        "question": "If an extension cable is to be run across a site road, what action should you take?",
+        "options": {
+          "A": "Throw wooden boards over it",
+          "B": "Place a rubber protection ramp over it and put up a sign stating Ramp Ahead",
+          "C": "Don't do anything to protect the cable",
+          "D": "Lay the cable over wooden boards"
+        },
+        "correct_answer": "B",
+        "explanation": "It is essential that the cable is protected from damage caused by passing traffic. A sign will warn road traffic of the ramp."
+      },
+      {
+        "question_number": 5,
+        "question": "The electric drill you are about to use has a faulty on/off switch. What action should you take?",
+        "options": {
+          "A": "Try and fix the fault",
+          "B": "Find another machine and carry on working",
+          "C": "Remove it from use and tell your supervisor",
+          "D": "Tape the switch on to keep it running and carry on working"
+        },
+        "correct_answer": "C",
+        "explanation": "It is essential that supervisors are aware of faulty or damaged equipment."
+      }
+    ]
+  },
+  {
+    "section_number": 9,
+    "questions": [
+      {
+        "question_number": 3,
+        "question": "When working in a confined space, such as a sewer, what danger may occur?",
+        "options": {
+          "A": "Getting wet through",
+          "B": "Boredom",
+          "C": "Not enough time for the job to be done",
+          "D": "Build-up of harmful gases"
+        },
+        "correct_answer": "D",
+        "explanation": "Sewer gases can be inflammable and suffocating."
+      },
+      {
+        "question_number": 7,
+        "question": "Why may young people be more at risk on site?",
+        "options": {
+          "A": "There is no specific legislation applying to them",
+          "B": "They are usually left to work alone to gain experience",
+          "C": "There is no requirement to provide PPE to young people",
+          "D": "They are inexperienced and may not recognise danger"
+        },
+        "correct_answer": "D",
+        "explanation": "Health and Safety guidance lists young people as often being at particular risk , due to their lack of practical experience."
+      },
+      {
+        "question_number": 1,
+        "question": "Why may a confined space be dangerous to work in?",
+        "options": {
+          "A": "There may not be sufficient working space",
+          "B": "Air in the space may be unbreathable due to poisonous gas",
+          "C": "Temperature and poor ventilation may affect the worker",
+          "D": "All of the hazards mentioned"
+        },
+        "correct_answer": "D",
+        "explanation": "There can be a range of hazards associated with confined spaces, and these can include all of those mentioned."
+      }
+    ]
+  },
+  {
+    "section_number": 10,
+    "questions": [
+      {
+        "question_number": 6,
+        "question": "To prove a circuit or equipment is dead after isolation what is the FIRST activity in the sequence of events?",
+        "options": {
+          "A": "Make sure equipment is not working",
+          "B": "Check between line and earth",
+          "C": "Check that the voltage detector is working on a proving device, known live source or in built test feature",
+          "D": "Check between line and neutral"
+        },
+        "correct_answer": "C",
+        "explanation": "This will prove that that the voltage detector (such as a two-pole voltage detector or proprietary test lamp) is working, i.e. indicating voltage."
+      },
+      {
+        "question_number": 16,
+        "question": "Where there is no local means of isolation for equipment or circuits to be worked on, which of the following is the preferred method of isolation?",
+        "options": {
+          "A": "Use a suitable device such as a circuit breaker",
+          "B": "Isolation of the individual circuit breaker or fuse",
+          "C": "Pulling out the distributor's cut-out fuse",
+          "D": "Disconnecting the individual circuit from the DB"
+        },
+        "correct_answer": "A",
+        "explanation": "Isolating the whole installation or distribution board is the safest method."
+      },
+      {
+        "question_number": 22,
+        "question": "What is the most serious effect that electric shock can have if you come into contact with a live part?",
+        "options": {
+          "A": "The electric current can cause a slight tingling in the fingers",
+          "B": "The electric current can cause burn marks on the fingers",
+          "C": "The electric current can cause the heart to stop, resulting in death",
+          "D": "The electric current can cause the finger muscles to twitch"
+        },
+        "correct_answer": "C",
+        "explanation": "Contact with live electrical parts can be fatal. If you do not know otherwise, always assume that electrical parts are live."
+      },
+      {
+        "question_number": 27,
+        "question": "Which of the following does the Electricity at Work (EAW) regulations apply to?",
+        "options": {
+          "A": "All persons engaged for work purposes",
+          "B": "Self employed persons only",
+          "C": "Employees only",
+          "D": "Employers only"
+        },
+        "correct_answer": "A",
+        "explanation": "The EAW Regulations impose duties on employers, employees and the self employed."
+      },
+      {
+        "question_number": 2,
+        "question": "The normal procedure for working on electrical equipment should be which one of the following?",
+        "options": {
+          "A": "Dead working",
+          "B": "Wearing insulated gloves",
+          "C": "Using insulated tools",
+          "D": "Live working"
+        },
+        "correct_answer": "A",
+        "explanation": "Dead working should be considered as the norm and work on or near live conductors should rarely be permitted."
+      },
+      {
+        "question_number": 4,
+        "question": "Under the Electricity at Work Regulations, live working is considered:",
+        "options": {
+          "A": "As entirely acceptable",
+          "B": "To be normally permitted",
+          "C": "Only to be allowed in exceptional circumstances",
+          "D": "Never to be allowed"
+        },
+        "correct_answer": "C",
+        "explanation": "Extra controls must be employed, including training, supervision and use of suitable tools and protective equipment."
+      }
+    ]
+  },
+  {
+    "section_number": 11,
+    "questions": [
+      {
+        "question_number": 3,
+        "question": "Which of the following is classed as hazardous/special waste?",
+        "options": {
+          "A": "Non-asbestos Insulation",
+          "B": "Polythene and shrink wrap",
+          "C": "Empty cement bags",
+          "D": "Fluorescent light tubes"
+        },
+        "correct_answer": "D",
+        "explanation": "Hazardous wastes (special wastes in Scotland) are specified in waste legislation. Fluorescent tubes are included because of their mercury content."
+      },
+      {
+        "question_number": 2,
+        "question": "How should you get rid of hazardous/special waste?",
+        "options": {
+          "A": "Put it at the bottom of any site skip",
+          "B": "In accordance with the correct site waste rules",
+          "C": "Take it home, they wont want it on site",
+          "D": "Take it to the nearest local authority waste tip"
+        },
+        "correct_answer": "B",
+        "explanation": "The Hazardous Waste Regulations (Special Waste Regulations in Scotland) require hazardous/special waste to be properly segregated or otherwise treated, and then recovered or disposed of in an officially approved way."
+      },
+      {
+        "question_number": 4,
+        "question": "Which of the following should be disposed of as hazardous/special waste?",
+        "options": {
+          "A": "Timber, plywood and MDF off-cuts",
+          "B": "Glass fibre insulation",
+          "C": "Aerosol sealant canisters",
+          "D": "Used nuisance dust masks"
+        },
+        "correct_answer": "C",
+        "explanation": "Hazardous wastes (special wastes in Scotland) are specified in waste legislation. Aerosol sealants are included because they can explode if not recovered or disposed of properly, and they may still contain hazardous solvents."
+      }
+    ]
+  }
+]
