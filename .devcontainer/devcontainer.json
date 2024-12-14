@@ -1,5 +1,9 @@
 {
   "name": "A quiz codespace",
   "postCreateCommand": "cd scripts && python create-test.py",
-  "postAttachCommand": "cd tests && python quiz.py"
+  "postAttachCommand": "reset && cd tests && python quiz.py",
+  "settings": {
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.action.toggleMaximizedPanel": true
+  }
 }
