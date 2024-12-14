@@ -41,6 +41,8 @@ via github codespaces (free github account required)
 
 You can fork the repo and run a [preconfigured](.devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.
 
+![](images/codespaces.jpg)
+
 via [quizgecko](https://quizgecko.com/) (free quizgecko account required)
 
 ESC HSE Assessment sections.
@@ -101,7 +103,7 @@ This just makes it easy to update the text file as and when the official revisio
 
 `test_json_to_text.py` will convert `tests/ecs-test.json` to a human readable text file.
 
-example Usage
+example Usage:
 
 > [!WARNING]
 > The script `quiz.py`requires `pip install colorama`
