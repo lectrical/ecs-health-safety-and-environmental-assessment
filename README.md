@@ -27,16 +27,35 @@ The ECS HSE assessment comprises questions covering eleven topics. The numbers o
 
 ## Free revision
 
-A Socrative room for all 317 questions across all 11 sections.
+A Socrative room for all 317 questions across all 11 sections. (no account required)
 
-https://b.socrative.com/login/student/
-
-Use `SMITH1980` to login.
+https://api.socrative.com/rc/gGX8Gp
 
 > [!WARNING]
 > It will not remember your progress if you close the session
 
-Import link: https://b.socrative.com/teacher/#import-quiz/79399500
+> [!TIP]
+> Import link for Socrative quiz: https://b.socrative.com/teacher/#import-quiz/79399500
+
+via github codespaces (free github account required)
+
+You can fork the repo and run a [preconfigured](.devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.
+
+via [quizgecko/](https://quizgecko.com/) (free quizgecko account required)
+
+ESC HSE Assessment sections.
+
+[section 01](https://quizgecko.com/learn/cdm-acronyms-quiz-v7odgk)
+[section 02](https://quizgecko.com/learn/safety-in-load-lifting-hazards-sjfylw)
+[section 03](https://quizgecko.com/learn/manual-handling-injury-protocol-n5udx2)
+[section 04](https://quizgecko.com/learn/dust-safety-quiz-dsim6j)
+[section 05](https://quizgecko.com/learn/asbestos-awareness-and-safety-regulations-kqvpcx)
+[section 06](https://quizgecko.com/learn/fire-safety-and-emergency-procedures-quiz-keivsw)
+[section 07](https://quizgecko.com/learn/construction-site-safety-quiz-b7ztwm)
+[section 08](https://quizgecko.com/learn/safety-guidelines-for-machinery-operation-w5gh36)
+[section 09](https://quizgecko.com/learn/confined-space-safety-permit-systems-p69sw7)
+[section 10](https://quizgecko.com/learn/electricity-at-work-regulations-quiz-510znd)
+[section 11](https://quizgecko.com/learn/hazardous-waste-disposal-procedures-oswtjt)
 
 ## Data sources
 
@@ -69,11 +88,11 @@ Usage: python process_questions.py <mode> [input_directory]
 ```
 
 ```bash
-python .\process_questions.py full
-python .\process_questions.py sections
+python process_questions.py full
+python process_questions.py sections
 
-python .\process_questions.py full .\txt-full\
-python .\process_questions.py sections .\txt-full\
+python process_questions.py full txt-full
+python process_questions.py sections txt-full
 ```
 
 This just makes it easy to update the text file as and when the official revision guide is updated and the changed can easily be propagated to the json files.
@@ -84,22 +103,19 @@ This just makes it easy to update the text file as and when the official revisio
 
 example Usage
 
+> [!WARNING]
+> The script `quiz.py`requires `pip install colorama`
+
 ```bash
 git clone https://github.com/lectrical/ecs-health-safety-and-environmental-assessment.git
 cd ecs-health-safety-and-environmental-assessment/scripts
 python create-test.py
-python test_json_to_text.py
+python quiz.py
 ```
 
-The check the `tests` directory for the outputs. You can feed the txt version to ai quiz generators and revision platforms like:
+`quiz.py` will run a quiz via terminal from the randomly generated `tests/ecs-test.json` quiz. A simple, free and effective way to mimic the exam.
+
+`test_json_to_text.py` will convert the `tests/ecs-test.json` to a text file `tests/ecs-test.txt`. The check the `tests` directory for the outputs. You can feed the txt version to ai quiz generators and revision platforms like:
 
 https://quizgecko.com/
 https://www.remnote.com/
-
-`quiz.py` in `tests` will run a quiz via terminal from the generated tests/ecs-test.json.
-
-requires `pip install colorama`
-
-## codespaces
-
-You can fork the repo and run a [preconfigured](.devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.

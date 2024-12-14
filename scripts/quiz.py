@@ -3,7 +3,7 @@ import random
 from colorama import init, Fore, Style
 
 def load_questions():
-    with open('ecs-test.json', 'r', encoding='utf-8') as f:
+    with open('../tests/ecs-test.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     questions = []
     for section in data:
