@@ -102,4 +102,4 @@ requires `pip install colorama`
 
 ## codespaces
 
-You can fork the repo and run a [preconfigured](devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.
+You can fork the repo and run a [preconfigured](.devcontainer/devcontainer.json) codespace that will generate a random 50 question quiz and launch it in the terminal.
