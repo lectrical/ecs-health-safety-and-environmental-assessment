@@ -1,0 +1,5 @@
+scripts/dist/*
+scripts/build/*
+dist/*
+build/*
+ECS_Quiz.spec

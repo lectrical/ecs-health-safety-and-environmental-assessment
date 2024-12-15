@@ -1,0 +1,56 @@
+name: Build Binary
+
+on: workflow_dispatch
+
+permissions:
+  contents: write
+  id-token: write
+  attestations: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller colorama
+
+      - name: Create Binary
+        run: python scripts/create-binary.py
+
+      - uses: actions/attest-build-provenance@v2
+        with:
+          subject-path: ECS_Quiz.exe
+
+      - name: VirusTotal Scan
+        uses: crazy-max/ghaction-virustotal@v4
+        with:
+          vt_api_key: ${{ secrets.VT_API_KEY }}
+          files: ECS_Quiz.exe
+
+      - name: Generate Version
+        run: echo "version=$(date +'%Y.%m.%d.%H%M')" >> $GITHUB_ENV
+
+      - name: Commit binary
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ECS_Quiz.exe
+          git commit -m "Auto-build binary v${{ env.version }}"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
