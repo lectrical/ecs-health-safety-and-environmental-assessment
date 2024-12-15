@@ -1,0 +1,463 @@
+QUESTION 10.1
+
+In accordance with the Electricity at Work regulations, when considering whether to work live a responsible person should:
+
+A. Carry out a risk assessment
+B. Only work dead
+C. Only work live
+D. Do as the client demands
+
+Right Answer: A
+
+To identify and assess the risks involved and the methods of controlling them.
+
+QUESTION 10.2
+
+The normal procedure for working on electrical equipment should be which one of the following?
+
+A. Dead working
+B. Wearing insulated gloves
+C. Using insulated tools
+D. Live working
+
+Right Answer: A
+
+Dead working should be considered as the norm and work on or near live conductors should rarely be permitted.
+
+QUESTION 10.3
+
+Test instruments used for working on electrical systems should:
+
+A. Be yellow in colour
+B. Be less than 10 years old
+C. Have non-insulated test probes
+D. Have insulated test probes
+
+Right Answer: D
+
+To protect the user from electric shock whilst using the instrument. i.e. handling the probes.
+
+QUESTION 10.4
+
+Under the Electricity at Work Regulations, live working is considered:
+
+A. As entirely acceptable
+B. To be normally permitted
+C. Only to be allowed in exceptional circumstances
+D. Never to be allowed
+
+Right Answer: C
+
+Extra controls must be employed, including training, supervision and use of suitable tools and protective equipment.
+
+QUESTION 10.5
+
+Which of the following would you use to replace the fuse in a plug if fuses were NOT available?
+
+A. A nail
+B. A piece of silver paper
+C. A bit of wire
+D. None of the options listed
+
+Right Answer: D
+
+A fuse is often the main safety device in an electrical circuit. A blown fuse must only be replaced by a fuse of the correct type and rating.
+
+QUESTION 10.6
+
+To prove a circuit or equipment is dead after isolation what is the FIRST activity in the sequence of events?
+
+A. Make sure equipment is not working
+B. Check between line and earth
+C. Check that the voltage detector is working on a proving device, known live source or in built test feature
+D. Check between line and neutral
+
+Right Answer: C
+
+This will prove that that the voltage detector (such as a two-pole voltage detector or proprietary test lamp) is working, i.e. indicating voltage.
+
+QUESTION 10.7
+
+The nominal single phase voltage in the UK is?
+
+A. 230 volts
+B. 240 volts
+C. 415 volts
+D. 400 volts
+
+Right Answer: A
+
+This is the nominal voltage for public electricity supply systems within Europe.
+
+QUESTION 10.8
+
+When is live working permissible?
+
+A. When the person carrying out the work is a competent person
+B. When it is unreasonable in all circumstances for the equipment to be made dead and suitable precautions are taken
+C. When the means of isolation cannot be identified
+D. When the person working on the equipment is wearing rubber gloves
+
+Right Answer: B
+
+This is a requirement under r.14 of the EAW Regulations. However, it does not mean that live working is then safe.
+
+QUESTION 10.9
+
+Which of the following is NOT a requirement of low voltage safe isolation practice?
+
+A. Ensuring that the correct point of isolation is identified
+B. The person carrying out the work is issued with insulating gloves
+C. A caution notice should be applied at the point of isolation
+D. The conductors are proved to be dead at the point of work
+
+Right Answer: B
+
+Safe isolation practice refers to dead working. The use of insulating gloves will generally only be applicable to live working.
+
+QUESTION 10.10
+
+The specific effects on the human body of a major electric shock are one of the following:
+
+A. Dermatitis
+B. Burns and cardiac arrest
+C. Broken bones
+D. Chest pains
+
+Right Answer: B
+
+QUESTION 10.11
+
+The lowest level of electrical current which can harm the human body is normally measured in:
+
+A. Microamps
+B. Kiloamps
+C. Amps
+D. Milliamps
+
+Right Answer: D
+
+Research has shown that a person is in serious danger of a fatal electric shock at. or above, approximately 30 milliamps.
+
+QUESTION 10.12
+
+With regard to the effect of electrical current on the human body, one of the following is correct:
+
+A. A 6 amp circuit breaker should prevent a person receiving a fatal electric shock
+B. A 3 amp fuse should prevent a person receiving a fatal electric shock
+C. A 30 mA Residual Current Device (RCD) should prevent a person receiving a fatal electric shock
+D. A 5 amp rewireable fuse should prevent a person receiving a fatal electric shock
+
+Right Answer: C
+
+An RCD is a mechanical switching device intended to cause the opening of the contacts when the residual current attains a given value under specified conditions.
+
+QUESTION 10.13
+
+Where mains voltage is used to supply portable equipment on a construction site, what additional protection is required?
+
+A. Step-down transformer
+B. Step-down generator
+C. Cable avoidance tool
+D. Residual current device (RCD)
+
+Right Answer: D
+
+Reduced low voltage systems (e.g. 110 volt centre point earthed) are strongly preferred in such circumstances. Where only mains voltage (230 V) equipment is available, however, a 30 mA RCD will give additional protection against fatal electric shock.
+
+QUESTION 10.14
+
+What colour cable USUALLY signifies 110 volt power supply on site?
+
+A. Black
+B. Red
+C. Blue
+D. Yellow
+
+Right Answer: D
+
+Yellow is the usual colour of cables, socket outlets, plugs and transformers etc which are used with a 110 volt supply.
+
+QUESTION 10.15
+
+A portable electric generator on site has two power outlets, 110 volts and 230 volts. What colour would the 110 volt outlet be?
+
+A. Black
+B. Yellow
+C. Red
+D. Blue
+
+Right Answer: B
+
+Yellow is the usual colour of cables, socket outlets, plugs and transformers etc which are used with a 110 volt supply.
+
+QUESTION 10.16
+
+Where there is no local means of isolation for equipment or circuits to be worked on, which of the following is the preferred method of isolation?
+
+A. Use a suitable device such as a circuit breaker
+B. Isolation of the individual circuit breaker or fuse
+C. Pulling out the distributor's cut-out fuse
+D. Disconnecting the individual circuit from the DB
+
+Right Answer: A
+
+Isolating the whole installation or distribution board is the safest method.
+
+QUESTION 10.17
+
+What action should you take if a workmate gets an electric shock?
+
+A. Phone the electricity board immediately
+B. Dial 999 and ask for the fire brigade
+C. Cut off the power and call for help
+D. Try to pull them to safety
+
+Right Answer: C
+
+If you can switch the power off, the electric hazard will be removed. First aid assistance will then probably be required. Do not touch someone who is still in contact with live electrical cables as you could also receive an electric shock.
+
+QUESTION 10.18
+
+A residual current device is designed to operate in the event of one of the following:
+
+A. Overload
+B. Earth fault
+C. Lightning strike on the supply
+D. Short-circuit
+
+Right Answer: B
+
+An RCD provides additional protection against the risk of electric shock.
+
+QUESTION 10.19
+
+Electrical installations on construction sites should be periodically inspected and tested:
+
+A. Every 3 months
+B. Every year
+C. Every 6 months
+D. Every month
+
+Right Answer: A
+
+Three monthly inspections of construction site installations are recommended in IET Guidance Note 3.
+
+QUESTION 10.20
+
+The maximum AC voltage which the human body can withstand without long term physiological effects in dry conditions is:
+
+A. 110 volts
+B. 230 volts
+C. 50 volts
+D. 400 volts
+
+Right Answer: C
+
+Regarded as a non-fatal voltage level.
+
+QUESTION 10.21
+
+Which of the following statements is true with regard to the dangers of electricity?
+
+A. Electricity is perfectly safe so long as you wear cotton gloves
+B. Electricity is only dangerous if you are not wearing wellington boots
+C. Electricity is only dangerous in wet weather
+D. Electricity is dangerous at any time because you cannot tell by looking at a cable whether or not it is live
+
+Right Answer: D
+
+The features which make electricity so dangerous are that you cannot see, hear or smell it. It can give you a very unpleasant surprise. Always assume that cables are live.
+
+QUESTION 10.22
+
+What is the most serious effect that electric shock can have if you come into contact with a live part?
+
+A. The electric current can cause a slight tingling in the fingers
+B. The electric current can cause burn marks on the fingers
+C. The electric current can cause the heart to stop, resulting in death
+D. The electric current can cause the finger muscles to twitch
+
+Right Answer: C
+
+Contact with live electrical parts can be fatal. If you do not know otherwise, always assume that electrical parts are live.
+
+QUESTION 10.23
+
+Your job involves you working near to hanging electrical cables which have bare ends. What should you do?
+
+A. Touch the cables to see if they are live
+B. Carry on working, as there shouldn't be a problem
+C. Inform your supervisor and keep well away
+D. Attempt to push the cables back into the ceiling void so that you can start work
+
+Right Answer: C
+
+You must always assume that exposed cables are live until you know they are not. Contact with live electrical cables can kill.
+
+QUESTION 10.24
+
+For all live working activities it is necessary to:
+
+A. Carry out a risk assessment as required by the EAW Regulations.
+B. Wear rubber gloves only
+C. Be accompanied
+D. Keep your fingers crossed
+
+Right Answer: A
+
+QUESTION 10.25
+
+An electrical Permit to Work is primarily a statement that:
+
+A. Someone else has taken responsibility for the work
+B. The circuit or equipment is live
+C. Certain instructions need to be followed
+D. The circuit or equipment has been isolated and is safe to work on
+
+Right Answer: D
+
+Permits to work describe the procedures that prevent a major hazard, such as electricity or moving machinery, from causing harm, usually by isolation to effectively ensure (in the case of electricity) dead working with no chance of it going live.
+
+QUESTION 10.26
+
+The probes of voltage detectors and test instruments used on electrical systems should be:
+
+A. Manufactured in the UK
+B. Accompanied by a calibration certificate
+C. Shaped or have barriers to prevent finger contact with the tips
+D. Coloured red
+
+Right Answer: C
+
+In addition, to protect against damage by overcurrent whilst in use, the probes or instrument should incorporate suitable high breaking capacity (hbc) fuses with a low current rating (usually not exceeding 500 mA). or current-limiting resistors.
+
+QUESTION 10.27
+
+Which of the following does the Electricity at Work (EAW) regulations apply to?
+
+A. All persons engaged for work purposes
+B. Self employed persons only
+C. Employees only
+D. Employers only
+
+Right Answer: A
+
+The EAW Regulations impose duties on employers, employees and the self employed.
+
+QUESTION 10.28
+
+The Electricity at Work Regulations require that:
+
+A. Persons working with electricity must have the appropriate level of knowledge and experience
+B. A training course is necessary before anyone can work with electricity
+C. Only electricians can work with electricity
+D. Anyone supervised can work with electricity
+
+Right Answer: A
+
+Competency is a requirement of r.16 of the EAW Regulations.
+
+QUESTION 10.29
+
+The Electricity at Work Regulations apply to:
+
+A. Only low voltage systems
+B. Only extra-low voltage systems
+C. All voltage systems
+D. Only high voltage systems
+
+Right Answer: C
+
+The EAW Regulations cover the safe use of electricity in work activities, irrespective of voltage.
+
+QUESTION 10.30
+
+Which of the following should be used to prove a circuit or equipment is dead after isolation?
+
+A. A lamp holder with a length of flex attached
+B. A proprietary test lamp or two-pole voltage detector
+C. A voltage stick
+D. A multimeter
+
+Right Answer: B
+
+Accident history has shown that using incorrectly set multimeters or makeshift devices for voltage detection has often caused accidents. The use of non-contact voltage indicators (voltage sticks) is also not advised as the sole means of proving dead.
+
+QUESTION 10.31
+
+Which of the following is NOT a suitable means of isolating a circuit?
+
+A. Removing a fuse and locking the distribution board
+B. Putting insulating tape over the circuit breaker
+C. Padlocking the isolating switch
+D. Fitting a padlocked circuit breaker lockout
+
+Right Answer: B
+
+The isolating device should be switched off or the fuse removed. The switch, circuit breaker or enclosure should then be locked and the key removed. A notice or label should also be posted to warn that someone is working on the circuit or apparatus.
+
+QUESTION 10.32
+
+Which of the following work procedures on electrical systems will always require a permit-to-work to be issued?
+
+A. Dead working on low-voltage systems
+B. Live working on low-voltage systems
+C. Dead working on high-voltage systems
+D. Live working on high-voltage systems
+
+Right Answer: C
+
+An electrical permit-to-work should state what circuit or equipment has been made safe, how that has been achieved and what work is to be done. A permit should not, therefore, be used for live working. Such a permit is always required for work on high-voltage systems, but can also be used for low-voltage systems.
+
+QUESTION 10.33
+
+Optical fibre cable remnants should not be left lying around on site because:
+
+A. They can be hot and burn upon contact
+B. Laser beams still exist in the cut pieces
+C. They can pierce the skin or eyes
+D. They are toxic
+
+Right Answer: C
+
+Fibre fragments can enter the bloodstream and cause infections in the skin or eyes. All fibre waste, particularly small pieces, should be placed in suitable receptacles.
+
+QUESTION 10.34
+
+Why should the end of an optical fibre cable never be pointed towards your own or anyone else's eyes?
+
+A. The beam can transfer a strong electric current
+B. The colour of the beam is very hypnotic
+C. The beam can bore a hole through the skin
+D. The beam can damage the eyes
+
+Right Answer: D
+
+Exposure to light sources such as lasers or highly concentrated visible or infrared light beams, associated with the testing or use of optical fibres, can cause damage to the eyes, or even blindness.
+
+QUESTION 10.35
+
+The use of a multi-lock hasp with the appropriate number of padlocks is a recommended method of safe isolation where:
+
+A. Individual circuit breaker locking off devices are not available
+B. Individual circuit breakers are not identified at the distribution board
+C. More than one person will be working on circuits supplied from the same distribution board
+D. You know the health and safety inspector is in the area
+
+Right Answer: C
+
+A multi-lock hasp can be used to prevent operation of the isolator until such time that all persons working on the electrical installation have completed their work and removed their padlocks from the hasp.
+
+QUESTION 10.36
+
+Which of the following procedures should be used when more than one person will be working on circuits supplied from a distribution board which has been switched off?
+
+A. The use of a multi-lock hasp on the isolator with a padlock for each operative
+B. Blowing a horn before the power is switched on again
+C. Giving each operative a volt stick
+D. Telling everyone what time the power will be switched on again
+
+Right Answer: A
+
+A multi-lock hasp can be used to prevent operation of the isolator until such time that all persons working on the electrical installation have completed their work and removed their padlocks from the hasp.
