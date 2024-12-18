@@ -11,7 +11,8 @@ def create_binary():
         script_path = os.path.join(base_path, 'utilities', 'quiz.py')
         data_file = os.path.join(
             base_path, 'question-bank/full/json', 'ECS-HSE-Revision-Guide-24.json')
-        icon_path = os.path.join(base_path, '.github', 'images', 'icon.ico')
+        icon_path = os.path.join(base_path, '.github',
+                                 'media', 'images', 'icon.ico')
 
         print(f"Creating binary from: {script_path}")
         print(f"Including data from: {data_file}")
