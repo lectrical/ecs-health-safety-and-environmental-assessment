@@ -1,0 +1,311 @@
+QUESTION 8.1
+
+What do the letters SWL stand for?
+
+A. Safe working level
+B. Satisfactory weight limit
+C. Satisfactory working limit
+D. Safe working load
+
+Right Answer: D
+
+Machinery and accessories for lifting loads should be clearly marked to indicate their safe working loads.
+
+QUESTION 8.2
+
+Who should operate plant and equipment on site?
+
+A. Only people over 18 years of age
+B. Trained and authorised employees only
+C. An employee holding a full driving licence
+D. Any experienced employee
+
+Right Answer: B
+
+Never operate plant or equipment unless you have been trained and are authorised to do so.
+
+QUESTION 8.3
+
+What hazard is created when the head of a cold chisel mushrooms?
+
+A. Reduced striking area
+B. Softens the impact
+C. Flying steel splinters
+D. Damage to the hammer head
+
+Right Answer: C
+
+This question is looking for the hazard, which is the situation that can cause harm to people.
+
+QUESTION 8.4
+
+Any damaged equipment must be:
+
+A. Reported to your supervisor
+B. Thrown away immediately
+C. Labelled as damaged before use
+D. Locked up so no one can use it
+
+Right Answer: A
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.5
+
+The electric drill you are about to use has a faulty on/off switch. What action should you take?
+
+A. Try and fix the fault
+B. Find another machine and carry on working
+C. Remove it from use and tell your supervisor
+D. Tape the switch on to keep it running and carry on working
+
+Right Answer: C
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.6
+
+The power hand tool you are about to use has burn marks visible on the cable. What should you do?
+
+A. Tape over the affected area and continue
+B. Tell your supervisor about the defect and do not use the tool
+C. Obtain another machine and carry on, but don't tell anyone
+D. Carry on and get the job done
+
+Right Answer: B
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.7
+
+Your supervisor asks you to use a powered hand-tool which has a rotating blade. You notice that the guard is missing from the blade. What do you do?
+
+A. Use the tool anyway, you haven't had an accident with it before
+B. Remove it from use and tell your supervisor
+C. Try to make an improvised guard yourself
+D. Contact the manufacturer of the tool
+
+Right Answer: B
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.8
+
+Hand and power tools must be:
+
+A. The best that you can buy
+B. Made available when needed
+C. In the company's colours
+D. Suitable for the task and regularly inspected
+
+Right Answer: D
+
+Tools must not create a risk to the user or others. This means they must be suitable and kept in good condition. This requires inspection before use.
+
+QUESTION 8.9
+
+When should visual checks of portable hand-held equipment be made by the user?
+
+A. When a replacement is needed
+B. Monthly
+C. Weekly
+D. Each time it is used
+
+Right Answer: D
+
+The user needs to be satisfied that the tool has no obvious defect before use.
+
+QUESTION 8.10
+
+What precaution should you take before adjusting an electrical tool?
+
+A. Check the lead is not twisted or knotted
+B. Wear safety footwear with steel toe caps
+C. Disconnect from the power source
+D. Wear the correct personal protective equipment
+
+Right Answer: C
+
+Do not adjust tools which could still be live or operate.
+
+QUESTION 8.11
+
+An electric drill is to be used. Before use, who should carry out a check on the tool?
+
+A. Storeman
+B. Electrician
+C. Foreman
+D. User
+
+Right Answer: D
+
+The user needs to be satisfied that the tool has no obvious defect before use.
+
+QUESTION 8.12
+
+What action should you take if an electric drill cuts out while you are using it?
+
+A. Shake it about a bit
+B. Put it back into the tool box
+C. Switch the power off and on
+D. Remove it from use and tell your supervisor
+
+Right Answer: D
+
+The drill may be faulty. If so, tell your supervisor and remove the drill from service.
+
+QUESTION 8.13
+
+If an electric drill gives off blue smoke from the motor, you should:
+
+A. Pour water over it
+B. Use a CO2 extinguisher
+C. Switch it off and report it
+D. Stop work for 30 minutes
+
+Right Answer: C
+
+Defective electric hand tools must not be used. Stop what you are doing and inform your supervisor.
+
+QUESTION 8.14
+
+How often should user (visual) checks be carried out on portable electrical equipment?
+
+A. Every time you use it
+B. Every day
+C. Once a week
+D. At least once a year
+
+Right Answer: A
+
+All items of portable electrical equipment should be visually checked for safety by the user before being put into use.
+
+QUESTION 8.15
+
+What is the preferred nominal voltage for portable hand lamps for general use on construction sites?
+
+A. 110 volts
+B. 150 volts
+C. 230 volts
+D. 400 volts
+
+Right Answer: A
+
+110 volt reduced low voltage systems are strongly preferred for the supply to such equipment.
+
+QUESTION 8.16
+
+What is the preferred nominal voltage for portable hand tools on construction sites?
+
+A. 12 volts
+B. 24 volts
+C. 110 volts
+D. 230 volts
+
+Right Answer: C
+
+110 volt reduced low voltage systems are strongly preferred for the supply to such equipment.
+
+QUESTION 8.17
+
+What is the preferred nominal voltage for local lighting up to 2 kW on construction sites?
+
+A. 55 volts
+B. 110 volts
+C. 400 volts
+D. 230 volts
+
+Right Answer: B
+
+110 volt reduced low voltage systems are strongly preferred for the supply to such equipment.
+
+QUESTION 8.18
+
+What is the recommended maximum voltage for portable hand lamps when working in confined or damp locations?
+
+A. 50 volts
+B. 110 volts
+C. 230 volts
+D. 400 volts
+
+Right Answer: A
+
+Where the environment is damp, or restricting and conductive, the magnitude of any electric shock will be higher than under normal conditions. Hand lamps in such locations should therefore be supplied from a SELV (separated extra-low voltage) system, i.e. having a maximum voltage of 50 volts and which is electrically separated from earth.
+
+QUESTION 8.19
+
+If you only have a mains voltage (230 V) hand drill and you want to use it on a construction site which only has yellow (110 V) socket-outlets, what should you do?
+
+A. Use a transformer to boost the voltage
+B. Cut the plug off and fit a yellow one instead
+C. Obtain a 110 V drill or a cordless one for the work
+D. Make up an extension cable with a yellow plug on one end and a standard socket on the other end
+
+Right Answer: C
+
+Electrical equipment must not be modified or operated at voltages other than their design voltage.
+
+QUESTION 8.20
+
+What is most commonly used to reduce 230 volts to 110 volts on site?
+
+A. Residual current device
+B. Transformer
+C. Circuit breaker
+D. Step-down generator
+
+Right Answer: B
+
+A transformer, usually coloured yellow, will transform 230 volts (mains voltage) down to a relatively safe 110 volts.
+
+QUESTION 8.21
+
+When using an extension cable reel, which of the following statements is correct?
+
+A. Leave as much as possible coiled up on the reel
+B. Uncoil it fully every time
+C. Do not exceed the reeled or unreeled rating as appropriate
+D. Only uncoil what you need
+
+Right Answer: C
+
+The rating of a partially unreeled extension cable is much lower than when fully unreeled. Overheating of the cable will occur if the rating is exceeded. Care should also be taken to prevent extension cables becoming a tripping hazard.
+
+QUESTION 8.22
+
+If an extension cable is to be run across a site road, what action should you take?
+
+A. Throw wooden boards over it
+B. Place a rubber protection ramp over it and put up a sign stating Ramp Ahead
+C. Don't do anything to protect the cable
+D. Lay the cable over wooden boards
+
+Right Answer: B
+
+It is essential that the cable is protected from damage caused by passing traffic. A sign will warn road traffic of the ramp.
+
+QUESTION 8.23
+
+To operate a powered hand tool you must be:
+
+A. 16 years old or over
+B. 18 years old or over
+C. 21 years old or over
+D. Trained and competent
+
+Right Answer: D
+
+There are no general age restrictions in legislation relating to the use of work equipment. Any person using work equipment. however, must be competent to do so, which will require initial and refresher training.
+
+QUESTION 8.24
+
+If you are about to use a power tool and discover the guard is missing, you should:
+
+A. Make up a temporary guard yourself
+B. Use the tool but try to work quickly
+C. Not use the tool until a proper guard has been fitted
+D. Use the tool but work carefully and slowly
+
+Right Answer: C
+
+Visual checks should be carried out before using equipment. Any faults should be reported immediately and rectified before use.

@@ -1,0 +1,4220 @@
+QUESTION 1.1
+
+What do the letters CDM stand for?
+
+A. Control of Demolition and Management Regulations
+B. Control of Dangerous Materials Regulations
+C. Construction (Demolition Management) Regulations
+D. Construction (Design and Management) Regulations
+
+Right Answer: D
+
+The CDM Regulations impose duties to manage construction projects, ensure physical safeguards are provided to prevent danger during such projects and that adequate welfare facilities are provided.
+
+QUESTION 1.2
+
+Identify one method of enforcing regulations that are available to the Health and Safety Executive:
+
+A. Health Notice
+B. Improvement Notice
+C. Obstruction Notice
+D. Increasing insurance premiums
+
+Right Answer: B
+
+Improvement notices require action to achieve standards which meet health and safety law.
+
+QUESTION 1.3
+
+What happens if a Prohibition Notice is issued by an Inspector of the local authority or the HSE?
+
+A. The work in hand can be completed, but no new work started
+B. The work can continue if adequate safety precautions are put in place
+C. The work that is subject to the notice must cease
+D. The work can continue, provided a risk assessment is carried out
+
+Right Answer: C
+
+The work activity covered by a prohibition notice must cease, until the identified danger is removed.
+
+QUESTION 1.4
+
+Health and Safety Executive Inspector can?
+
+A. Only visit if they have made an appointment
+B. Visit at any time
+C. Only visit if accompanied by the principal contractor
+D. Only visit to interview the site manager
+
+Right Answer: B
+
+Inspectors have a range of powers, including the right to visit premises at any time.
+
+QUESTION 1.5
+
+Prohibition Notice means:
+
+A. When you finish the work you must not start again
+B. The work must stop immediately
+C. Work is to stop for that day only
+D. Work may continue until the end of the day
+
+Right Answer: B
+
+The work activity covered by the prohibition notice must cease, until the identified danger is removed.
+
+QUESTION 1.6
+
+In what circumstances can an HSE Improvement Notice be issued?
+
+A. If there is a breach of legal requirements
+B. By warrant through the police
+C. Only between Monday and Friday on site
+D. Through the prosecution office
+
+Right Answer: A
+
+Improvement notices require action to achieve standards which meet health and safety law.
+
+QUESTION 1.7
+
+What is an Improvement Notice?
+
+A. A notice issued by the site principal contractor to tidy up the site
+B. A notice from the client to the principal contractor to speed up the work
+C. A notice issued by a Building Control Officer to deepen foundations
+D. A notice issued by an HSE/local authority Inspector to enforce compliance with health and safety legislation
+
+Right Answer: D
+
+Improvement notices require action to achieve standards which meet health and safety law.
+
+QUESTION 1.8
+
+If a Health and Safety Executive Inspector issues a Prohibition Notice, this means that:
+
+A. The Site Manager can choose whether or not to ignore the notice
+B. Specific work activities, highlighted on the notice, must stop
+C. The HSE must supervise the work covered by the notice
+D. The HSE must supervise all work from then on
+
+Right Answer: B
+
+Prohibition notices are intended to stop activities which can cause serious injury.
+
+QUESTION 1.9
+
+Employers are required to provide information to their employees on their health and safety rights and responsibilities and how to get advice by:
+
+A. Telling them verbally when they start work for them
+B. Displaying a poster or giving them leaflets approved by the HSE
+C. Making them read the company health and safety policy
+D. E-mailing the information to them
+
+Right Answer: B
+
+This is a requirement of the Health and Safety Information for Employees Regulations (as amended).
+
+QUESTION 1.10
+
+Who is responsible for signing a Company Safety Policy?
+
+A. Site Manager
+B. Company Safety Officer
+C. Company Secretary
+D. Managing Director
+
+Right Answer: D
+
+The Health and Safety at Work Act requires the most senior member of management to sign the health and safety policy statement.
+
+QUESTION 1.11
+
+Which one of the following must be in a company's written Health and Safety Policy?
+
+A. Aims and objectives of the company
+B. Organisation and arrangements in force for carrying out the health and safety policy
+C. Name of the Health and Safety Adviser
+D. Company Director's home address
+
+Right Answer: B
+
+This is a specific requirement of the Health and Safety at Work Act.
+
+QUESTION 1.12
+
+Employers have to produce a written Health and Safety Policy statement when:
+
+A. A contract commences
+B. They employ five people or more
+C. The safety representative requests it
+D. The HSE notifies them
+
+Right Answer: B
+
+This is a specific requirement of the Health and Safety at Work Act.
+
+QUESTION 1.13
+
+Companies employing five or more people must have a written Health and Safety Policy because:
+
+A. The principal contractor gives them work on site
+B. The HSAWA 1974 requires it
+C. The Social Security Act requires it
+D. The trade unions require it
+
+Right Answer: B
+
+QUESTION 1.14
+
+What do the letters HSE stand for?
+
+A. Highly Safe Electrician
+B. Health and Safety Exercise
+C. Health and Safety Examiner
+D. Health and Safety Executive
+
+Right Answer: D
+
+The Health and Safety Executive was established under the Health and Safety at Work Act 1974.
+
+QUESTION 1.15
+
+The Health and Safety Executive is:
+
+A. Part of the National Health Service
+B. The regulatory body for the promotion of health and safety at work
+C. The jury in health and safety court cases
+D. Part of the police force
+
+Right Answer: B
+
+The Health and Safety Executive is part of the Department for Work and Pensions.
+
+QUESTION 1.16
+
+The Health and Safety at Work Act requires employers to provide what for their employees?
+
+A. Adequate rest periods
+B. Payment for work done
+C. A safe place of work
+D. Suitable transport to work
+
+Right Answer: C
+
+This is a specific requirement of Section 2 of the Health and Safety at Work Act.
+
+QUESTION 1.17
+
+The Health and Safety at Work Act 1974 and any regulations made under the Act are:
+
+A. Not compulsory, but should be complied with if convenient
+B. Advisory to companies and individuals
+C. Practical advice for the employer to follow
+D. Legally binding
+
+Right Answer: D
+
+The requirements of health and safety law are mandatory and failure to follow them can lead to prosecution.
+
+QUESTION 1.18
+
+Under the Health and Safety at Work Act 1974, which of the following have a duty to work safely?
+
+A. Employees only
+B. The general public
+C. Employers only
+D. All people at work
+
+Right Answer: D
+
+Employers, employees and the self-employed all have duties to work safely under the Act.
+
+QUESTION 1.19
+
+What is the MAXIMUM penalty that a Higher Court, can currently impose for a breach of the Health and Safety at Work Act?
+
+A. £20,000 fine and two years' imprisonment
+B. £15,000 fine and three years' imprisonment
+C. £1,000 fine and six months imprisonment
+D. Unlimited fine and two years' imprisonment
+
+Right Answer: D
+
+A Lower Court can impose a fine of up to £20,000 and/or up to six months imprisonment for certain offences. The potential fine in a Higher Court, however, is unlimited and the term of imprisonment can be up to 2 years.
+
+QUESTION 1.20
+
+What do the letters ACOP stand for?
+
+A. Accepted Code of Provisions
+B. Approved Condition of Practice
+C. Approved Code of Practice
+D. Accepted Code of Practice
+
+Right Answer: C
+
+An ACOP is a code of practice approved by the Health and Safety Executive (or the Health and Safety Commission prior to April 2008).
+
+QUESTION 1.21
+
+Where should you look for official advice on health and safety matters?
+
+A. A set of health and safety guidelines provided by suppliers
+B. The health and safety rules as laid down by the employer
+C. Guidance issued by the Health and Safety Executive
+D. A professionally approved guide book on regulations
+
+Right Answer: C
+
+The HSE is the UK enforcing body and its guidance can be regarded as 'official'.
+
+QUESTION 1.22
+
+Regulations that govern health and safety on construction sites:
+
+A. Apply only to inexperienced workers
+B. Do not apply during 'out of hours' working
+C. Apply only to large companies
+D. Are mandatory (that is, compulsory)
+
+Right Answer: D
+
+The requirements of health and safety law are mandatory, and failure to follow them can lead to prosecutions.
+
+QUESTION 1.23
+
+Which of the following statements is correct?
+
+A. The duty for health and safety falls only on the employer
+B. All employees must take reasonable care, not only to protect themselves but also their colleagues
+C. Employees have no responsibility for Health and Safety on site
+D. Only the client is responsible for safety on site
+
+Right Answer: B
+
+This is a legal requirement under Section 7 of the Health & Safety at Work Act.
+
+QUESTION 1.24
+
+Who of the following would you expect to be responsible for managing health and safety on site?
+
+A. Foreman
+B. Your employer
+C. Main sub-contractor
+D. HSE Inspector
+
+Right Answer: B
+
+The responsibility for management of health and safety at work rests with the employer.
+
+QUESTION 1.25
+
+Which of the following is correct for risk assessment?
+
+A. It is a good idea but not essential
+B. Only required to be done for hazardous work
+C. Must always be done
+D. Only required on major jobs
+
+Right Answer: C
+
+There is a legal requirement for all work to be suitably risk assessed.
+
+QUESTION 1.26
+
+In the context of a risk assessment, what do you understand by the term risk?
+
+A. An unsafe act or condition
+B. Something with the potential to cause injury
+C. Any work activity that can be described as dangerous
+D. The likelihood that harm from a particular hazard will occur
+
+Right Answer: D
+
+Hazard and risk are not the same. Risk reflects the chance of being harmed by a hazard.
+
+QUESTION 1.27
+
+Who would you expect to carry out a risk assessment on your working site?
+
+A. The CDM Co-ordinator
+B. A visiting HSE Inspector
+C. The construction project designer
+D. A competent person
+
+Right Answer: D
+
+A risk assessment must be conducted by a 'competent person'.
+
+QUESTION 1.28
+
+What is a HAZARD?
+
+A. Where an accident is likely to happen
+B. An accident waiting to happen
+C. Something with the potential to cause harm
+D. The likelihood of something going wrong
+
+Right Answer: C
+
+Examples of hazards include: a drum of acid, breeze blocks on an elevated plank; cables running across a floor.
+
+QUESTION 1.29
+
+What must be done before any work begins?
+
+A. Emergency plan
+B. Assessment of risk
+C. Soil assessment
+D. Geological survey
+
+Right Answer: B
+
+This is a legal requirement of the Management of Health and Safety at Work Regulations.
+
+QUESTION 1.30
+
+Complete the following sentence: A risk assessment:
+
+A. Is a piece of paper required by law
+B. Prevents accidents
+C. Is a means of analysing what might go wrong
+D. Isn't particularly useful
+
+Right Answer: C
+
+Risk assessment involves a careful review of what can cause harm and the practical measures to be taken to reduce the risk of harm.
+
+QUESTION 1.31
+
+Why would your supervisor ask you to read the method statement and risk assessment before you start your next job?
+
+A. They think you have got nothing better to do
+B. The documents contain information on how to carry out the job in a safe manner
+C. They wouldn't as they think they are a waste of time
+D. As someone has taken the time and trouble to write them, you might as well read them
+
+Right Answer: B
+
+The supervisor must, by law, keep workers advised of significant risks, and control measures.
+
+QUESTION 1.32
+
+What do the blue and white health and safety signs tell you?
+
+A. Things you must do
+B. Where the nearest fire exit is
+C. The hazards in the area
+D. Things you must not do
+
+Right Answer: A
+
+Blue and white signs show a 'mandatory' requirement.
+
+QUESTION 1.33
+
+What colours are emergency exit signs?
+
+A. Green and white
+B. Red and yellow
+C. Red and white
+D. Blue and white
+
+Right Answer: A
+
+The colours are prescribed in the Health and Safety (Safety Signs and Signals) Regulations.
+
+QUESTION 1.34
+
+What is the main colour on a safety sign stating that you must NOT do something?
+
+A. Blue
+B. Green
+C. Red
+D. Yellow
+
+Right Answer: C
+
+Prohibitory signs are round and feature a black pictogram on a white background with red edging and diagonal line.
+
+QUESTION 1.35
+
+The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of signs. What colours are used on a sign indicating a warning, for example 'Fork-lift trucks operating'?
+
+A. Blue and white
+B. Green and white
+C. Yellow and black
+D. Red and white
+
+Right Answer: C
+
+Warning signs are triangular and feature a black pictogram on a yellow background with black edging.
+
+QUESTION 1.36
+
+The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of safety signs. What colours are used on a sign indicating a prohibited activity, for example 'No access for pedestrians'?
+
+A. Green and white
+B. Red, black and white
+C. Blue and white
+D. Yellow and black
+
+Right Answer: B
+
+Prohibitory signs are round and feature a black pictogram on a white background with red edging and diagonal line.
+
+QUESTION 1.37
+
+The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of safety signs. What colours are used on a sign indicating a mandatory activity, for example 'Safety helmets must be worn'?
+
+A. Green and white
+B. Red, black and white
+C. Blue and white
+D. Yellow and black
+
+Right Answer: C
+
+Mandatory signs are round and feature a white pictogram on a blue background.
+
+QUESTION 1.38
+
+The Health and Safety (Safety Signs and Signals) Regulations require the colour coding of safety signs. What colours are used on a sign indicating a safe condition, for example First Aid kit?
+
+A. Red, black and white
+B. Blue and white
+C. Yellow and black
+D. Green and white
+
+Right Answer: D
+
+Emergency escape and first-aid signs are rectangular or square and feature a white pictogram on a green background.
+
+QUESTION 1.39
+
+Why should regular inspections of the workplace take place?
+
+A. To check whether the working environment is safe
+B. To check that all employees are present
+C. To check that everyone is doing their job
+D. To prepare for a visit from an HSE Inspector
+
+Right Answer: A
+
+The Management of Health and Safety at Work Regulations require that routine inspections of workplaces are carried out to ensure that preventative and protective measures are in place and effective.
+
+QUESTION 1.40
+
+How can you help to prevent accidents?
+
+A. Don't report them
+B. Know how to get help quickly
+C. Report any unsafe conditions
+D. Know where the first-aid kit is kept
+
+Right Answer: C
+
+Action to improve safety can only be taken if the risk is known about. Employees have a duty of care to other employees.
+
+QUESTION 2.1
+
+If there is a risk of injury from lifting loads what should you think about first?
+
+A. Whether the load needs to be lifted at all
+B. What the weight of the load is
+C. Where to hold the load when lifting
+D. How to lift the load
+
+Right Answer: A
+
+If possible, it is best to avoid the risks from lifting altogether. This is the preferred requirement laid down in the Manual Handling Operations Regulations 1992.
+
+QUESTION 2.2
+
+Before performing manual lifting what is the first thing you should do?
+
+A. Check the headroom
+B. Weigh the article
+C. Assess the whole task
+D. Kick it to see if it is stable
+
+Right Answer: C
+
+If you assess the whole task first, you will have a clear idea of possible hazards and how to overcome them, before lifting.
+
+QUESTION 2.3
+
+Which is the part of your body MOST LIKELY to be injured during a manual handling activity which involves moving a heavy load?
+
+A. Knees
+B. Forearms
+C. Chest
+D. Back
+
+Right Answer: D
+
+HSE statistics show that most manual handling injuries are to the back.
+
+QUESTION 2.4
+
+What should you do if your supervisor asks you to move something that you find is too heavy to lift?
+
+A. Give it a try using correct lifting methods
+B. Ask your mates to assist in the lift
+C. Inform your supervisor that it is too heavy
+D. Get a forklift truck or lifting tackle
+
+Right Answer: C
+
+The HSE advises employees to inform the employer if they identify hazardous handling activities.
+
+QUESTION 2.5
+
+What would you NOT consider in making a judgement of the risks from a load?
+
+A. Its size and condition
+B. Its colour
+C. Its weight
+D. Its centre of gravity
+
+Right Answer: B
+
+A, C and D can all affect the difficulty of lifting an object.
+
+QUESTION 2.6
+
+When moving a load fitted with wheels which of the following is generally true?
+
+A. Pushing and pulling are equally risky
+B. Pulling is preferable to pushing
+C. Pushing is preferable to pulling
+D. It is safer to pick it up and carry it
+
+Right Answer: C
+
+The operator should try to push rather than pull when moving a load, provided they can see over it and control steering and stopping.
+
+QUESTION 2.7
+
+A manual handling operation is defined as which one of the following?
+
+A. Automated effort
+B. Human effort
+C. Mechanised and human effort
+D. Mechanised effort
+
+Right Answer: B
+
+Manual handling covers human effort only.
+
+QUESTION 2.8
+
+What is the MAXIMUM weight that an individual may lift?
+
+A. The weight they can lift comfortably
+B. Whatever the supervisor instructs
+C. 35kg provided that it has no sharp edges
+D. 15kg provided that it is a compact load
+
+Right Answer: A
+
+There are no strict weight limits - the priority is to avoid injury.
+
+QUESTION 2.9
+
+What is the most common type of injury resulting from lifting loads from the floor?
+
+A. Vibration white finger
+B. Grazes to the knees
+C. Head injuries
+D. Back injuries
+
+Right Answer: D
+
+As shown by HSE statistics.
+
+QUESTION 2.10
+
+Where a load has to be lifted manually, what is the employer required to do by law?
+
+A. Calculate the cost of the exercise
+B. Determine the number of people required
+C. Assess the risk of the task
+D. Assess the time the job will take
+
+Right Answer: C
+
+This is a specific requirement of the Manual Handling Operations regulations 1992.
+
+QUESTION 2.11
+
+Which of the following is advisable when lifting a load manually?
+
+A. Keep legs straight, bend back, use power of legs
+B. Bend the knees, keep the back straight, use power of back
+C. Bend the knees, keep the back as straight as possible, use power of legs
+D. Keep legs and back straight, use power of legs
+
+Right Answer: C
+
+Stooping can increase the stress on the lower back. However, stooping slightly may be preferable to adopting a squatting posture, which can place excessive loads on knees and hips.
+
+QUESTION 2.12
+
+In manual handling, which of the following general statements is true?
+
+A. You should keep your back bent when lifting
+B. Anyone can carry any load as long as they are strong enough
+C. Large loads should be broken down into smaller loads where possible
+D. Loads should be held at arm's length while carrying
+
+Right Answer: C
+
+This is a recommendation (INDG143).
+
+QUESTION 2.13
+
+What is the recommended limit for a compact load, that can be safely carried by a fit, male worker?
+
+A. 50kg
+B. 40kg
+C. 20kg
+D. 25kg
+
+Right Answer: D
+
+This figure is in HSE guidance, and relates to lifting and lowering at elbow height.
+
+QUESTION 2.14
+
+Where there has been a major change in a manual handling operation, what should the employer do?
+
+A. Monitor the operation being undertaken
+B. Review the number of people involved
+C. Review the original risk assessment
+D. Monitor the cost of change
+
+Right Answer: C
+
+This is a specific requirement of the Manual Handling Operations regulations 1992.
+
+QUESTION 2.15
+
+What should be the first consideration when you are about to lift a load on your own?
+
+A. Assess whether it is safe to lift it on your own
+B. Ensure you wear appropriate PPE
+C. Wear gloves and grip properly
+D. Ensure you lift with a bent back
+
+Right Answer: A
+
+Employees should assess whether there is a risk of injury before lifting. If they are not sure they should seek advice from their supervisor.
+
+QUESTION 2.16
+
+Which of the following would NOT make a load easier to handle manually?
+
+A. Painting it a bright colour
+B. Securing the load so that it does not shift unexpectedly
+C. Reducing its weight
+D. Providing suitable handles or hand grips
+
+Right Answer: A
+
+QUESTION 2.17
+
+If there is a risk of injury from moving loads what should you think about?
+
+A. Advising your supervisor
+B. Carrying it anyway
+C. Dragging it all the way
+D. Getting someone to assist you over the distance
+
+Right Answer: A
+
+This is a requirement of the Manual Handling Operations regulations 1992.
+
+QUESTION 2.18
+
+As an approximate guide the manual handling capacity of a two person team is:
+
+A. The sum of their individual capacities
+B. The capacity of the strongest individual
+C. The capacity of the weakest individual
+D. Two thirds the sum of their individual capacities
+
+Right Answer: D
+
+This is contained in HSE guidance on the Manual Handling Operations Regulations 1992.
+
+QUESTION 2.19
+
+What does 'Kinetic lifting' mean?
+
+A. Using a crane or some other mechanical means
+B. Using a forklift truck or pallet truck
+C. Lifting in the most safe and effective way
+D. Getting a friend to help you with the load
+
+Right Answer: C
+
+QUESTION 2.20
+
+What should you do first before lifting or moving a load?
+
+A. Put on gloves
+B. Assess the weight
+C. Keep a straight back
+D. Bend your knees
+
+Right Answer: B
+
+You or your employer must assess the risk of injury before lifting.
+
+QUESTION 2.21
+
+Before picking up a load, you should:
+
+A. Bend your knees
+B. Choose a pair of gloves
+C. Ask a work mate to help you
+D. Assess the risks
+
+Right Answer: D
+
+You or your employer must assess the risk of injury before lifting.
+
+QUESTION 2.22
+
+When picking up an object, you should:
+
+A. Bend your arms
+B. Bend your back
+C. Wear a back brace
+D. Bend your knees
+
+Right Answer: D
+
+Generally, the legs should do most of the work when lifting a load.
+
+QUESTION 2.23
+
+When judging 'individual capability' for manual handling, you should assume:
+
+A. All women are equally capable
+B. Young men are weak
+C. All people are different
+D. All men are equally capable
+
+Right Answer: C
+
+Assessing ability for manual handling must be done on an individual basis.
+
+QUESTION 2.24
+
+When an article has to be moved for a long distance, you should:
+
+A. Use a barrow or trolley
+B. Get someone else to do it for you
+C. Drag it all the way
+D. Carry it all the way
+
+Right Answer: A
+
+The use of handling aids can reduce the risk of injury.
+
+QUESTION 2.25
+
+Which is the correct way to lift a load?
+
+A. Squat near load, bend back and use leg muscles
+B. Squat near to the load, keeping the back as straight as possible and using leg muscles
+C. Keep feet apart and bend back
+D. Keep feet together and bend back
+
+Right Answer: B
+
+Handling techniques which allow the use of relatively strong leg muscles rather than those of the back are preferable.
+
+QUESTION 2.26
+
+Which would you consider to be generally correct when lifting a load?
+
+A. Larger loads should be split into smaller loads if possible
+B. Keep the load away from the body
+C. When lifting you should bend your back
+D. The feet should be together and the load lifted at arm's length
+
+Right Answer: A
+
+This is a recommendation in HSE guidance (INDG143).
+
+QUESTION 2.27
+
+If a load has an uneven centre of gravity, how should you lift it?
+
+A. Keep the heaviest side of the load away from you
+B. Keep the heaviest side of the load on the strongest arm
+C. Keep the heaviest side of the load towards you
+D. Keep the heaviest side of the load on the weakest arm
+
+Right Answer: C
+
+There is less risk of injury if a weight's centre of gravity is near the torso.
+
+QUESTION 3.1
+
+What should you ensure if you suffer an injury through a manual handling operation?
+
+A. You get paid for the job
+B. The injury is recorded
+C. You get help and carry on working
+D. You take time off work
+
+Right Answer: B
+
+All injuries must be recorded in the company accident book (BI 510).
+
+QUESTION 3.2
+
+Why should a serious accident be reported to the enforcing authority?
+
+A. It helps the site find out what caused it
+B. It is legal requirement
+C. So that the site manager can see who is to blame
+D. So that the company will be held responsible
+
+Right Answer: B
+
+Serious accidents (specified injuries or those resulting in an absence of over 7 days) must be reported to the enforcing authority under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR).
+
+QUESTION 3.3
+
+What immediate action should you take if you suffer an injury through carrying a load?
+
+A. Advise your doctor of your injury
+B. Tell your supervisor or employer
+C. Tell your working companion
+D. Carry on working as best you can
+
+Right Answer: B
+
+All injuries must be recorded in the company accident book (BI 510).
+
+QUESTION 3.4
+
+Under RIDDOR, which one of the following must be reported to the enforcing authority?
+
+A. Accidents where the injured person wishes to make a claim
+B. Fracture other than to fingers, thumbs or toes
+C. All 'near misses' even if no one is hurt
+D. All accidents casing injury
+
+Right Answer: B
+
+This is one of a number of reportable 'specified injuries' and must be reported to the enforcing authority under Reporting of injuries. Diseases and Dangerous Occurrences Regulations (RIDDOR).
+
+QUESTION 3.5
+
+Which of the following has the power to examine an accident record?
+
+A. An HSE inspector
+B. An Insurance company
+C. A doctor
+D. A workmate
+
+Right Answer: A
+
+HSE inspectors have a range of powers, including this one.
+
+QUESTION 3.6
+
+Which of the following should be recorded in the accident book following an accident?
+
+A. The date and time the accident occurred
+B. Your date of birth
+C. The weather conditions
+D. Your National Insurance Number
+
+Right Answer: A
+
+The information to be entered in an accident book (BI 510) includes when and where the accident happened, the name and address and occupation of the person who had the accident and details of how the accident happened and the injuries suffered. The weather conditions would only be included if they contributed to the accident.
+
+QUESTION 3.7
+
+Which one of the following accounts for most accidents each year on construction sites?
+
+A. Strikes by moving vehicles
+B. Electrocution
+C. Trench collapses
+D. Slips, trips and falls
+
+Right Answer: D
+
+HSE Statistics show clearly that there are more slips, trips and falls than any other types of accident on site.
+
+QUESTION 3.8
+
+Which of the following is NOT classified as a specified injury to a worker under RIDDOR?
+
+A. A fractured finger
+B. A fractured arm
+C. Amputation of a finger
+D. A broken wrist
+
+Right Answer: A
+
+Amputation of an arm, hand, finger, thumb, leg, foot or toe are classified as specified injuries, as are bone fractures other than to fingers, thumbs or toes.
+
+QUESTION 3.9
+
+Which one of the following should you do if you witness a serious accident on site?
+
+A. Pretend you saw nothing
+B. Say nothing in case you get in trouble
+C. Discuss what to do with your workmates
+D. Tell your supervisor what you saw happening
+
+Right Answer: D
+
+If the supervisor is aware of an accident he can take steps to prevent a recurrence. The employer also has legal duties to report certain incidents to the enforcing authority.
+
+QUESTION 3.10
+
+A workmate tells you that he witnessed an accident the previous day and the victim was taken to hospital. He asks you for advice on what he should do. Do you tell them to:
+
+A. Speak to the site nurse about what he saw
+B. Tell their supervisor that they saw what happened
+C. Telephone the hospital to find out how the injured person is
+D. Say nothing to anyone in case they get someone in trouble
+
+Right Answer: B
+
+If the supervisor is aware of an accident he can take steps to prevent a recurrence. The employer also has legal duties to report certain incidents to the enforcing authority.
+
+QUESTION 3.11
+
+If a person at work suffers an injury (other than a specified injury) due to an accident at work, it is reportable under RIDDOR if they are incapacitated for work for:
+
+A. Over 1 day
+B. Over 7 days
+C. Over half a day
+D. Over 2 days
+
+Right Answer: B
+
+An over-seven-day injury is one which is not a specified injury but results in the injured person being away from work or unable to do the full range of their normal duties for more than seven days (including any days they wouldn't normally be expected to work such as weekends, rest days or holidays) not counting the day of the injury itself.
+
+QUESTION 3.12
+
+What must an employer do with their accident records following completion of a construction project?
+
+A. They are sent to the Health and Safety Executive
+B. They are destroyed on site with other non-essential documents
+C. They are kept safe by the employer
+D. They are sent to the employer's insurance company
+
+Right Answer: C
+
+Accident records must be kept by an employer for at least three years.
+
+QUESTION 3.13
+
+At work who would you report a dangerous occurrence to?
+
+A. The emergency services
+B. Your supervisor or employer
+C. Another employee
+D. The client for the project
+
+Right Answer: B
+
+Under RIDDOR. an employer has a legal duty to report certain work-related accidents, but to do this they will need to know that an accident has occurred.
+
+QUESTION 3.14
+
+Following a reportable dangerous occurrence when must the enforcing authority be informed?
+
+A. Within 5 days
+B. Within 48 hours
+C. Without delay
+D. Within 24 hours
+
+Right Answer: C
+
+The enforcing authority must be notified by the quickest practicable means.
+
+QUESTION 3.15
+
+Accidents causing any injury should always be recorded in:
+
+A. The site engineer's day book
+B. Your employer's accident recording system
+C. Your personal diary
+D. The main contractor's diary
+
+Right Answer: B
+
+All accidents should be recorded in the accident book (Bl 510).
+
+QUESTION 3.16
+
+Which one of the following is classified as a reportable occupational disease under RIDDOR?
+
+A. Mental disorder
+B. Occupational asthma
+C. Amputation
+D. Influenza
+
+Right Answer: B
+
+Certain occupational diseases likely to have been caused or made worse by work are reportable under RIDDOR. This would include occupational asthma where the person's work includes significant or regular exposure to a known respiratory sensitizer.
+
+QUESTION 3.17
+
+When a person is injured at work, who should enter the details in the accident book?
+
+A. The injured person's supervisor
+B. The injured person or anyone acting for them
+C. The site manager or engineer
+D. The site safety manager
+
+Right Answer: B
+
+This is the procedure for recording accidents internally in the accident book (Bl 510).
+
+QUESTION 3.18
+
+If you are involved in a minor accident at work, whose duty is it to report it to site management?
+
+A. Any witness to the accident
+B. The police, fire or ambulance who attend
+C. It is your own responsibility
+D. The site foreman should report it
+
+Right Answer: C
+
+Employers rely on employees to advise them of occurrences at work.
+
+QUESTION 3.19
+
+You have suffered an accident at work which has made you incapable of your normal work for over 7 days. Which of the following actions MUST be taken by your employer?
+
+A. The emergency services are asked to attend the site
+B. The local hospital is informed
+C. The relevant enforcing authority is informed
+D. A deduction is made from your wages for days lost
+
+Right Answer: C
+
+An over-seven-day injury is one which is not a specified injury but results in the injured person being away from work or unable to do the full range of their normal duties for more than seven days (including any days they wouldn't normally be expected to work such as weekends, rest days or holidays) not counting the day of the injury itself.
+
+QUESTION 3.20
+
+The collapse of scaffolding is only notifiable to the enforcing authority as a reportable dangerous occurrence when the scaffolding is which one of the following?
+
+A. Over 15 metres in height
+B. Any height
+C. Over 10 metres in height
+D. Over 5 metres in height
+
+Right Answer: D
+
+This is one of the requirements of RIDDOR.
+
+QUESTION 3.21
+
+If there is a fatal accident on site, when must the Health and Safety Executive be informed?
+
+A. Without delay
+B. Within 10 days
+C. Within 7 days
+D. Within 5 days
+
+Right Answer: A
+
+The enforcing authority must be notified by the quickest practicable means.
+
+QUESTION 3.22
+
+Under which of the following circumstances should an accident be recorded in the site's accident book?
+
+A. When an accident causes damage to plant or equipment
+B. Only when a person is injured and will be off work for more than seven days
+C. When the injury is serious enough for first aid to be needed
+D. When an accident causes injury to an employee while at work
+
+Right Answer: D
+
+An accident causing an injury to an employee at work should be recorded in the accident book (Bl 510).
+
+QUESTION 3.23
+
+Which of the following have to be entered into the accident book?
+
+A. All accidents causing any damage
+B. All accidents causing an injury
+C. Only accidents causing serious injury
+D. Only accidents causing time off work
+
+Right Answer: B
+
+An accident causing an injury to an employee at work should be recorded in the accident book (Bl 510).
+
+QUESTION 3.24
+
+Under which of the following circumstances must injury accidents be recorded in the accident book?
+
+A. Only if you break a bone
+B. Only if you have time off work
+C. Any time they occur
+D. Only if you need to go to hospital
+
+Right Answer: C
+
+An accident causing an injury to an employee at work should be recorded in the accident book (Bl 510).
+
+QUESTION 3.25
+
+An entry must be made in the accident book when:
+
+A. The person has been off sick for over seven days
+B. Management thinks it is appropriate
+C. An accident causes personal injury to an employee
+D. The severity of the accident may result in a compensation claim
+
+Right Answer: C
+
+An accident causing an injury to an employee at work should be recorded in the accident book (Bl 510).
+
+QUESTION 3.26
+
+Which of the following MUST be recorded in an accident book after you have had an accident?
+
+A. Your National Insurance number
+B. Your date of birth
+C. Your occupation
+D. Your phone number
+
+Right Answer: C
+
+The information to be entered in an accident book (Bl 510) includes when and where the accident happened, the name, address and occupation of the person who had the accident and details of how the accident happened and the injuries suffered.
+
+QUESTION 3.27
+
+Which of the following can you learn from an accident?
+
+A. A combination of human error and mechanical failure always causes injury
+B. Ideas on how you would prevent it happening again
+C. That mechanical failures are most dangerous
+D. How human error is always a cause
+
+Right Answer: B
+
+An accident investigation should not only assess the cause, but also how similar accidents can be prevented in the future.
+
+QUESTION 3.28
+
+Could making an entry in the accident book help you if you later make a claim for compensation?
+
+A. Only if it is a serious injury
+B. No
+C. Only in the event of a fatality
+D. Yes
+
+Right Answer: D
+
+This is laid down in Social Security Legislation.
+
+QUESTION 3.29
+
+Why is it important to report 'near miss' accidents to your employer?
+
+A. It's the law
+B. To make the figures look good
+C. So lessons can be learned, preventing an accident next time
+D. So that someone can be disciplined
+
+Right Answer: C
+
+HSE advises that 'near misses' should be investigated to prevent their recurrence.
+
+QUESTION 3.30
+
+Who should you report serious accidents to?
+
+A. Your workmate
+B. Your employer or supervisor
+C. The police
+D. The ambulance service
+
+Right Answer: B
+
+If the supervisor is aware of an accident he can take steps to prevent a recurrence. The employer also has legal duties to report certain incidents to the enforcing authority.
+
+QUESTION 3.31
+
+What is the aim of carrying out an accident investigation?
+
+A. To determine the cause(s) and prevent similar accidents
+B. To establish what injuries were sustained
+C. To find out who is at fault
+D. To establish the cost of any damage incurred
+
+Right Answer: A
+
+An accident investigation should not only assess the cause, but also how similar accidents can be prevented in the future.
+
+QUESTION 3.32
+
+You have witnessed a serious accident on your site and are interviewed by an HSE inspector. You should:
+
+A. Tell the inspector what your mates said you should say
+B. Ask your supervisor what you should say to the inspector
+C. Co-operate fully with the inspector and tell them exactly what you saw
+D. Don't tell them anything
+
+Right Answer: C
+
+This is good practice, but it can also be an offence to withhold important information from an inspector.
+
+QUESTION 4.1
+
+When working in dusty conditions, what of the following would give the LEAST level of protection?
+
+A. Compressed airline breathing helmet
+B. Positive pressure powered respirator
+C. Self-contained breathing apparatus
+D. Half mask dust respirator
+
+Right Answer: D
+
+Protection factors are given in HSE publication HSG53 Respiratory protective equipment at work - A practical guide.
+
+QUESTION 4.2
+
+In hot weather which one of the following is correct with regard to safety helmets?
+
+A. You can take off your helmet while working inside the building
+B. You must continue to wear your helmet
+C. You can drill holes in your safety hat for ventilation
+D. You do not need to wear your helmet
+
+Right Answer: B
+
+On construction sites, despite controls being put in place, there will always be situations where a risk of head injury remains. Taking off your helmet would put you at a much greater risk of a head injury and any unauthorised modification would be in breach of legal requirements and could render the helmet next to useless.
+
+QUESTION 4.3
+
+Which one of the following should you do if your personal protective equipment (PPE) is damaged?
+
+A. Obtain new equipment when available
+B. Report to your Supervisor without delay
+C. Reduce the amount of time you use it
+D. Carry on working
+
+Right Answer: B
+
+Employees are required to report any defective PPE to their employer (PPE at Work Regulations 1992, Regulation 7).
+
+QUESTION 4.4
+
+If personal protective equipment (PPE) is defective, what should you do?
+
+A. Complain to the Health and Safety Inspector
+B. Get your workmate to mend it if possible
+C. Report it to your supervisor
+D. Repair if possible and continue to use it
+
+Right Answer: C
+
+Employees are required to report any defective PPE to their employer (PPE at Work Regulations 1992, Regulation 7).
+
+QUESTION 4.5
+
+In normal use, what item of PPE is NOT essential for the operator of a cartridge-operated tool, such as a nail gun?
+
+A. Safety eye wear
+B. Hearing protection
+C. Wellington boots
+D. Safety helmet
+
+Right Answer: C
+
+Wellingtons do not offer protection against the specific risks associated with the use of a cartridge-operated tool, although safety footwear must always be work when there is a risk of a foot injury.
+
+QUESTION 4.6
+
+Can you opt out of wearing personal protective equipment (PPE)?
+
+A. Yes, by informing the site supervisor
+B. Yes, by writing officially to your employer
+C. No, you cannot opt out
+D. Yes, if it is uncomfortable
+
+Right Answer: C
+
+You cannot legally 'opt out' of being protected from significant risks at work. This includes wearing the necessary PPE.
+
+QUESTION 4.7
+
+What is the most important item of personal protective equipment (PPE) when working on or near a highway?
+
+A. Safety footwear
+B. Waterproof clothing
+C. Hard hat
+D. High visibility vest
+
+Right Answer: D
+
+A high visibility vest is the most important of PPE however, the other items of PPE may also be required.
+
+QUESTION 4.8
+
+If you are drilling into concrete with a masonry drill, in which one of the following circumstances will you need to wear eye protection?
+
+A. Always
+B. Only when drilling overhead
+C. Only if the drill is bigger than 10mm
+D. Not if drilling into the floor
+
+Right Answer: A
+
+Suitable eye protection must always be worn when working with power-driven tools where chippings are likely to fly or abrasive materials could be propelled.
+
+QUESTION 4.9
+
+When must you wear all personal protective equipment (PPE) provided by your employer?
+
+A. As instructed by your employer
+B. Only if it fits
+C. When you want to
+D. Only when you need to
+
+Right Answer: A
+
+Under the PPE at Work Regulations 1992, employees must wear PPE as instructed.
+
+QUESTION 4.10
+
+When MUST an employer provide their employees with personal protective equipment (PPE)?
+
+A. When they may be exposed to a risk to their health and safety which cannot be controlled another way
+B. Twice a year
+C. If the client or main contractor specifies it in the contract
+D. Every 5 years
+
+Right Answer: A
+
+As required by regulation 4 of the PPE Regulations.
+
+QUESTION 4.11
+
+What type of eye protection would you wear when using a cartridge-operated tool, such as a nail gun?
+
+A. Impact goggles
+B. Sun glasses
+C. Safety spectacles
+D. Chemical protection glasses
+
+Right Answer: A
+
+When using a cartridge-operated tool, such as a nail gun, shatter proof goggles should be worn.
+
+QUESTION 4.12
+
+Which of the following must your safety helmet comply with to meet with the requirements of the Personal Protective Equipment at Work Regulations?
+
+A. It can be adjusted to suit your head size
+B. It is a good visible colour
+C. It has a label with your name on it
+D. It is less than 1 year old
+
+Right Answer: A
+
+An assessment of the suitability of head protection would include consideration of whether it can be adjusted to suit the individual who is to wear it, that it is compatible with the work to be done and that it is comfortable to wear.
+
+QUESTION 4.13
+
+In which of the following ways should you wear your safety helmet?
+
+A. With the peak raised to deflect falling material
+B. With the helmet back to front
+C. With the peak raised to give good vision
+D. Square on your head, properly adjusted
+
+Right Answer: D
+
+Any item of personal protective equipment must be used in accordance with the manufacturer's instructions, which will include how to correctly fit and wear it and what its limitations are.
+
+QUESTION 4.14
+
+When an employee has been issued with eye protection, what are their duties under the Personal Protective Equipment at Work Regulations?
+
+A. To ensure that they are the right type of protector
+B. Not to loan the equipment to other operatives
+C. To use the protection in accordance with training and instruction
+D. To pay for replacement of lost eye protection
+
+Right Answer: C
+
+Regulation 10(2) requires that every employee shall use any PPE in accordance with the training and instruction received.
+
+QUESTION 4.15
+
+When should you wear safety footwear on site?
+
+A. Only when working on scaffolds
+B. When there is a risk of a foot injury
+C. Only when working outdoors
+D. Only if the site conditions are wet
+
+Right Answer: B
+
+Suitable safety footwear should be worn if there is a risk of injury from objects falling onto the foot or sharp objects, such as nails, penetrating the sole.
+
+QUESTION 4.16
+
+With regard to the use of personal protective equipment (PPE), which one of the following statements is true?
+
+A. If you do not use the personal protective equipment (PPE) provided you will probably not come to any harm
+B. Personal protective equipment (PPE) protects only the user from the dangers present
+C. Personal protective equipment (PPE) need only be provided if it is not too expensive
+D. Personal protective equipment (PPE) need only be used if it is available
+
+Right Answer: B
+
+PPE is there to protect the individual. Wearing PPE does not protect other people nearby.
+
+QUESTION 4.17
+
+Which of the following statements is TRUE when an employer issues personal protective equipment (PPE)?
+
+A. The employer can charge you for the full cost of it
+B. The employer cannot charge you for it
+C. The employer can charge you for up to half the cost of it
+D. The employer can only charge you for it if you lose or damage it
+
+Right Answer: B
+
+Employers cannot charge for PPE such as hard hats, gloves, required by law (and the bulk of PPE is required by law).
+
+QUESTION 4.18
+
+Which one of the following must apply to any hard hat provided?
+
+A. It is CE or UKCA marked
+B. It is less than 5 years old
+C. It is less than 1 year old
+D. It is less than 2 years old
+
+Right Answer: A
+
+All PPE should be CE - marked, indicating that it meets the basic health and safety requirements.
+
+QUESTION 4.19
+
+When using personal protective equipment (PPE) legally you must do which of the following?
+
+A. Not interfere with it or misuse it
+B. Replace it at your own expense if it is damaged
+C. Return it to the manufacturer when damaged
+D. Clean it properly once a week
+
+Right Answer: A
+
+Interfering with or misusing items provided in the interests of health, safety or welfare is an offence under the HSW Act 1974 (Section 8).
+
+QUESTION 4.20
+
+If it is necessary for an employee to use personal protective equipment, who has a duty to provide it?
+
+A. The trade union
+B. The employee
+C. The employer
+D. The principal contractor
+
+Right Answer: C
+
+This is a requirement of the PPE at Work Regulations 1992 (Regulation 4).
+
+QUESTION 4.21
+
+When should a safety helmet be worn on site?
+
+A. At all times unless there is no foreseeable risk of injury to the head other than by falling
+B. When you are out in the open air
+C. When walking to and from a place of work
+D. Only when something may fall
+
+Right Answer: A
+
+The circumstances when there is no foreseeable risk of head injury from falling or swinging objects or striking the head against something will be very limited in most construction work.
+
+QUESTION 4.22
+
+A colleague has drilled holes in the top of their safety helmet because the weather is hot. Is this:
+
+A. Acceptable if the holes are small
+B. Their choice
+C. Acceptable
+D. In breach of legal requirements
+
+Right Answer: D
+
+Interfering with or misusing items provided in the interests of health, safety or welfare is an offence under the HSW Act 1974 (section 8).
+
+QUESTION 4.23
+
+Who has a duty to provide PPE (Personal Protective Equipment) for use by an employee?
+
+A. The employer
+B. The principal contractor
+C. The employee
+D. The client
+
+Right Answer: A
+
+This is a requirement of the PPE at Work Regulations 1992 (Regulation 4).
+
+QUESTION 4.24
+
+When would it be appropriate to wear a bump-cap instead of a safety helmet?
+
+A. When there is no foreseeable risk of injury from falling or swinging objects
+B. In warm weather
+C. When working in excavations
+D. When working on a ladder
+
+Right Answer: A
+
+Industrial scalp protectors (bump caps) can protect against striking fixed obstacles, scalping or entanglements. They do not provide suitable protection against falling or swinging objects.
+
+QUESTION 4.25
+
+How can you protect your eyesight while working on site?
+
+A. By squinting
+B. By not looking directly at what you are doing
+C. By wearing the correct type of eye protection
+D. By wearing sunglasses
+
+Right Answer: C
+
+QUESTION 4.26
+
+When is head protection required to be worn on a construction site to comply with the Personal Protective Equipment at Work Regulations?
+
+A. At all times except by those who are self employed
+B. Only when you feel like it
+C. At all times unless you are working on scaffold
+D. At all times unless there is no foreseeable risk of injury to the head other than by falling
+
+Right Answer: D
+
+If there is no risk of injury to the head, then hard hats are not required by law. However, on construction sites, despite controls being in place, there will almost always be situations where a risk of head injury remains and require head protection to be worn. Site rules will also require the wearing of head protection other than in any designated safe areas.
+
+QUESTION 4.27
+
+Why should a high visibility vest be worn when working on roads?
+
+A. So road users and plant operators can see you
+B. Because you were told to do so
+C. Because it will keep you warm
+D. So that your mates can see you
+
+Right Answer: A
+
+Many workers are struck and injured, often seriously, by moving vehicles.
+
+QUESTION 4.28
+
+When considering what measures to take to protect people's health and safety, PPE should always be regarded as:
+
+A. The last resort
+B. The first line of defence
+C. The best way to tackle the job
+D. The only practical measure
+
+Right Answer: A
+
+Engineering controls and safe systems of work should always be considered first.
+
+QUESTION 5.1
+
+Exposure to asbestos fibres may cause which one of the following?
+
+A. Dermatitis
+B. Asthma
+C. Glandular fever
+D. Asbestosis
+
+Right Answer: D
+
+Breathing in asbestos fibres can also lead to a number of other diseases, including lung cancer and mesothelioma.
+
+QUESTION 5.2
+
+Asbestos is suspected in the workplace, during renovation do you:
+
+A. Remove it
+B. Paint it
+C. Ignore it
+D. Seek guidance immediately
+
+Right Answer: D
+
+Competent advice must be sought, to prevent exposure to the worker or others, either at the time, or subsequently.
+
+QUESTION 5.3
+
+Which of the following statements about asbestos is TRUE?
+
+A. Asbestos is not really a hazard to health
+B. White asbestos is safe to use
+C. All asbestos can be a hazard to health
+D. Only brown and blue asbestos are a hazard to health
+
+Right Answer: C
+
+All forms of asbestos can cause fatal diseases.
+
+QUESTION 5.4
+
+While working you discover material you think could be asbestos. What should you do?
+
+A. Clear any dust and fragments, put them in a bin then carry on working
+B. Inform the site nurse
+C. Stop working immediately and report your suspicions to your supervisor
+D. Dampen the material to prevent further dust being created, then carry on working
+
+Right Answer: C
+
+It is essential to stop work if asbestos is found or suspected, and await competent advice on what to do next.
+
+QUESTION 5.5
+
+Can you tell by the smell of a product whether it is likely to cause harm?
+
+A. No
+B. Only within an enclosed space
+C. Yes
+D. Only if you have been trained
+
+Right Answer: A
+
+Many harmful substances have no smell.
+
+QUESTION 5.6
+
+How would you recognise a hazardous substance?
+
+A. By a symbol on the container
+B. By its smell
+C. The colour of the label on the container
+D. It will be in a suitable container
+
+Right Answer: A
+
+A supplier of a packaged hazardous substance must include a label on the packaging incorporating one or more hazard symbols alerting users to the dangers posed by the chemical.
+
+QUESTION 5.7
+
+Which of the following does NOT cause skin problems?
+
+A. Bitumens
+B. Solvents
+C. Asbestos
+D. Epoxy resins
+
+Right Answer: C
+
+Asbestos is potentially very harmful if inhaled, but does not affect the skin significantly.
+
+QUESTION 5.8
+
+When an assessment of hazardous substances has been carried out under the COSHH Regulations, the risks and control measures should be explained to:
+
+A. The operatives using the substance
+B. All employees on site
+C. The accounts department
+D. The person in charge of the stores
+
+Right Answer: A
+
+All those working with the hazardous substances in question need to know about any risks.
+
+QUESTION 5.9
+
+If your hands are very dirty, what should you use to get them clean?
+
+A. White Spirit
+B. Paraffin
+C. Soap and water
+D. Thinners
+
+Right Answer: C
+
+The other substances can remove natural oils from the skin.
+
+QUESTION 5.10
+
+The presence of rats on site creates a risk of catching Weil's disease. What is the EASIEST PRACTICAL MEASURE that you can take to discourage the presence of rats?
+
+A. Avoid leaving scraps of food lying about
+B. Lay traps containing rat poison
+C. Contact the local Environmental Health Officer
+D. Bring a large cat on site
+
+Right Answer: A
+
+The easiest solution is to avoid leaving food around, since this is what attracts vermin.
+
+QUESTION 5.11
+
+Why is personal hygiene so important?
+
+A. So you don't smell
+B. Because the COSHH regulations require it
+C. To protect your own and others' health
+D. To stop you catching something nasty
+
+Right Answer: C
+
+QUESTION 5.12
+
+If you have been handling lead, how is it most likely to get into your blood stream?
+
+A. By not wearing safety goggles
+B. By not reporting the matter to the HSE
+C. By not using the correct safety footwear
+D. By not washing your hands before eating
+
+Right Answer: D
+
+The route into the body is ingestion, normally from lead contamination on the hands.
+
+QUESTION 5.13
+
+The number of toilets provided on site depends on:
+
+A. The type of work being completed
+B. The ratio of male and female workers on site
+C. The duration of the work on site
+D. The number of personnel on site
+
+Right Answer: D
+
+Guidance on the provision of welfare facilities is given in HSE publication 'Health and Safety in Construction'.
+
+QUESTION 5.14
+
+Which of the following is not required to be provided under the Construction (Design and Management) Regulations?
+
+A. Toilet facilities
+B. Washing facilities
+C. Hot food
+D. Drinking water
+
+Right Answer: C
+
+Guidance on the provision of welfare facilities as required by COM is given in HSE publication 'Health and Safety in Construction'.
+
+QUESTION 5.15
+
+The extended use of powered hand-held tools and equipment may lead to which medical condition?
+
+A. Vibration white finger
+B. Weil's disease
+C. Asbestosis
+D. Dermatitis
+
+Right Answer: A
+
+Hand-arm vibration can cause a range of conditions (including vibration white finger) collectively known as hand-arm vibration syndrome, as well as diseases such as carpal tunnel syndrome.
+
+QUESTION 5.16
+
+What must your employer do if the daily personal noise exposure is at or exceeds 85 db(A)?
+
+A. Provide hearing protection to those employees who ask for it
+B. Issue hearing protection to those exposed and ensure that it is worn
+C. Tell employees to buy their own hearing protection
+D. Report it to the Health and Safety Executive
+
+Right Answer: B
+
+This is an interim measure under the Control of Noise at Work Regulations 2005 when the daily personal noise exposure is at or exceeds the upper exposure action value of 85 dB(A). Exposure should subsequently be reduced by implementing organizational or technical measures.
+
+QUESTION 5.17
+
+What are the lower and upper action values with regard to daily personal noise exposure, as defined in the Control of Noise at Work Regulations 2005?
+
+A. 85 dB(A) and 90 dB(A)
+B. 80 dB(A) and 85 dB(A)
+C. 70 dB(A) and 80 dB(A)
+D. 75 dB(A) and 85dB(A)
+
+Right Answer: B
+
+Daily personal noise exposure is the average noise level experienced by an individual over an 8 hour period.
+
+QUESTION 5.18
+
+At or above what level of daily personal noise exposure does an employer have to provide hearing protection if it is requested by an employee?
+
+A. 90 dB(A)
+B. 95 dB(A)
+C. 80 dB(A)
+D. 85 dB(A)
+
+Right Answer: C
+
+This is one of the duties of employers under the Control of Noise at Work Regulations 2005 when the lower exposure action value of 80 dB(A) is reached or exceeded.
+
+QUESTION 5.19
+
+The effects of damage to your hearing by long-term exposure to high noise levels:
+
+A. Can be corrected by an operation
+B. Are permanent
+C. Will be reduced when you change jobs
+D. Can be reversed to near normal with time
+
+Right Answer: B
+
+Hearing damage due to long-term noise exposure is irreversible.
+
+QUESTION 5.20
+
+Hearing protection should be worn:
+
+A. In designated areas
+B. In noisy internal areas only
+C. At any workplace
+D. Only on building sites
+
+Right Answer: A
+
+Employees must wear hearing protectors when exposed at or above the upper exposure action values and within hearing protection zones.
+
+QUESTION 5.21
+
+Wearing suitable hearing protection:
+
+A. Stops you hearing distracting conversations
+B. Stops you hearing all noise
+C. Brings noise down to an acceptable level
+D. Repairs damaged hearing
+
+Right Answer: C
+
+Hearing protection still allows some noise to reach the ear, but, if it has been correctly chosen, will reduce noise levels to an acceptable level.
+
+QUESTION 5.22
+
+Which of the following is one of the recommended means of protecting your hearing?
+
+A. Rolled tissue paper
+B. Cotton wool pads
+C. Soft cloth pads
+D. Ear defenders
+
+Right Answer: D
+
+The others are not considered to be suitable types of hearing protection.
+
+QUESTION 5.23
+
+Which of the following would NOT reduce the risks from hand-arm vibration when using a hammer action tool?
+
+A. Selecting the lowest vibration tool that is suitable and which can do the work efficiently
+B. Wearing gloves to keep the hands warm
+C. Working as a team to share the work out
+D. Making sure one person does all the work with the tool
+
+Right Answer: D
+
+Where tools require constant or frequent use, rotas will avoid individuals having long exposure to vibration. The use of low-vibration tools and keeping the hands warm in cold conditions will also reduce the risks.
+
+QUESTION 5.24
+
+Which of the following animals can carry Weil's disease?
+
+A. Snake
+B. Sheep
+C. Rat
+D. Pig
+
+Right Answer: C
+
+Weil's disease is a serious and sometimes fatal infection that can be transmitted to humans by contact with infected rats. Another form of Leptospirosis infection can be transmitted from cattle to humans.
+
+QUESTION 5.25
+
+You are most likely to catch Weil's disease (Leptospirosis) if you:
+
+A. Work near wet ground, waterways or sewers
+B. Work near air conditioning units
+C. Fix showers or baths
+D. Drink water from a standpipe
+
+Right Answer: A
+
+Anyone who is exposed to rat urine is at risk, particularly sewer workers and farmers. Those in contact with canal or river water are also at risk.
+
+QUESTION 5.26
+
+What should you do if the toilets on your site are continually dirty?
+
+A. Ignore the problem - its normal on a construction site
+B. Make sure you tell someone who can sort it out
+C. Find some cleaning materials and clean it up yourself
+D. Ask in a nearby cafe or pub if you can use their toilets
+
+Right Answer: B
+
+How often welfare facilities on site require cleaning will depend on the number of people on site and how quickly they get dirty. The person in control of the site should make sure someone is responsible for keeping the facilities clean and tidy.
+
+QUESTION 5.27
+
+Excessive sunlight on bare skin can cause which serious health problem?
+
+A. Dermatitis
+B. Rickets
+C. Acne
+D. Skin cancer
+
+Right Answer: D
+
+Ultraviolet rays in sunlight can cause sunburn and premature ageing of the skin. The most serious effect, however, is an increased chance of developing skin cancer.
+
+QUESTION 6.1
+
+An emergency route(s) must be provided on construction sites to ensure:
+
+A. Safe passage to the open air
+B. Safe passage to the rest area
+C. Safe passage to a secure place of safety
+D. Safe passage to the ground from height
+
+Right Answer: C
+
+QUESTION 6.2
+
+What action should you take if you discover a fire?
+
+A. Leave it because you will get the blame
+B. Raise the alarm
+C. Carry on working if it is safe to do so
+D. Extinguish the fire without raising the alarm
+
+Right Answer: B
+
+Raising the alarm will reduce the risk to others, particularly if the fire spreads.
+
+QUESTION 6.3
+
+If there had been a small fire, who should you report it to?
+
+A. Your supervisor
+B. The main contractor's site agent
+C. The site's fire marshal
+D. The resident site engineer
+
+Right Answer: A
+
+The supervisor should be aware, so that further preventative measures can be considered.
+
+QUESTION 6.4
+
+If you discover a fire at work, what should you do first:
+
+A. Telephone 999
+B. Use a fire extinguisher to put it out
+C. Run around looking for an alarm to sound
+D. Raise the alarm and warn fellow workers
+
+Right Answer: D
+
+Raising the alarm will reduce the risk to others, particularly if the fire spreads.
+
+QUESTION 6.5
+
+What is a fire assembly point?
+
+A. The place to go when the fire alarm sounds
+B. A place where the fire brigade goes to
+C. A place where fire extinguishers are kept
+D. The place where the fire alarm is
+
+Right Answer: A
+
+It is essential that people go to a place of safety, where supervisors or fire marshals know where they are, in the event of a fire.
+
+QUESTION 6.6
+
+Where would you go in the event of a fire?
+
+A. To the canteen for a cup of tea
+B. To the fire assembly point
+C. To the site hut
+D. To the fire to see what is going on
+
+Right Answer: B
+
+It is essential that people go to a place of safety, where supervisors or fire marshals know where they are, in the event of a fire.
+
+QUESTION 6.7
+
+What should you do if you hear the fire alarm?
+
+A. Ignore it because it might be someone playing around
+B. Leave work for the day
+C. Evacuate the premises to a designated place of safety
+D. Go towards the sound to find out what is going on
+
+Right Answer: C
+
+It is essential that people go to a place of safety, where supervisors or fire marshals know where they are, in the event of a fire.
+
+QUESTION 6.8
+
+All new fire extinguishers are coloured red or of bright self-coloured metal. How do you know the difference between types?
+
+A. A different colour panel or band is on the body of the extinguishers
+B. During site induction, you will be told where the different types of extinguishers are
+C. The weight and shape of the extinguisher
+D. The type of extinguisher is written on a sign next to it
+
+Right Answer: A
+
+Different coloured bands show extinguisher types e.g. black for CO2 and blue for dry powder.
+
+QUESTION 6.9
+
+A black-labelled fire extinguisher contains:
+
+A. Dry powder
+B. Water
+C. Foam
+D. Carbon dioxide
+
+Right Answer: D
+
+QUESTION 6.10
+
+What is a blue-labelled fire extinguisher filled with?
+
+A. Water
+B. Foam
+C. Dry powder
+D. Carbon dioxide
+
+Right Answer: C
+
+QUESTION 6.11
+
+Which fire extinguisher should not be used on flammable liquid fires?
+
+A. Carbon dioxide
+B. Powder
+C. Water
+D. Foam
+
+Right Answer: C
+
+Flammable liquids spread if attacked by water extinguishers.
+
+QUESTION 6.12
+
+What colour is a water filled fire extinguisher, or its label?
+
+A. Black
+B. Cream
+C. Red
+D. Green
+
+Right Answer: C
+
+QUESTION 6.13
+
+When discharging carbon dioxide fire extinguishers, the nozzle:
+
+A. Becomes warm
+B. Becomes very hot
+C. Becomes very cold
+D. Doesn't change temperature
+
+Right Answer: C
+
+The expansion of CO2 gas coming out of the nozzle causes rapid cooling.
+
+QUESTION 6.14
+
+For fires involving spilled petrol, which types of fire extinguisher could you use?
+
+A. Water, carbon dioxide or foam
+B. Water, foam or dry powder
+C. Foam, carbon dioxide or dry powder
+D. Water, carbon dioxide or dry powder
+
+Right Answer: C
+
+Flammable liquids, such as petrol, spread if attacked by water extinguishers.
+
+QUESTION 6.15
+
+Which types of fire extinguishers should be used on electrical fires?
+
+A. Foam and water
+B. Carbon dioxide and dry powder
+C. Dry powder and foam
+D. Water and carbon dioxide
+
+Right Answer: B
+
+Liquids should not be used, since they may conduct electricity.
+
+QUESTION 6.16
+
+A red-labelled fire extinguisher should NOT be used:
+
+A. On wood fires
+B. Where there is a risk of electrocution
+C. On burning clothes
+D. On burning furniture
+
+Right Answer: B
+
+Red denotes water. Liquids should not be used on electrical fires, since they can conduct electricity.
+
+QUESTION 6.17
+
+A workmate burns their hand on a piece of very hot metal. What should you do first?
+
+A. Rub some cream or Vaseline into the burn
+B. Cover the burn with something dry
+C. Warn other people about the piece of hot metal
+D. Put their hand in cold water if it is available
+
+Right Answer: D
+
+Burns need immediate and sustained cooling.
+
+QUESTION 6.18
+
+Which of the following items should not be in a first aid box?
+
+A. Safety pins
+B. Pain killers
+C. Disposable gloves
+D. Triangular bandages
+
+Right Answer: B
+
+Drugs must not be kept in a first aid box (Health and Safety guidance note INDG 214).
+
+QUESTION 6.19
+
+How often should a first-aider qualified in First Aid at Work (FAW) or Emergency First Aid at Work (EFAW) receive retraining?
+
+A. Every six months
+B. Every two years
+C. Every three years
+D. Every four years
+
+Right Answer: C
+
+First Aid at Work (FAW) and Emergency First Aid at Work (EFAW) certificates are valid for three years and first-aiders are required to undertake retraining at the end of this period. However, the HSE also strongly recommends that first-aiders undertake annual (half-day) refresher training.
+
+QUESTION 6.20
+
+If you came across an injury on site, what is the first thing you should do?
+
+A. Tell the casualty to visit their doctor
+B. Inform the HSE
+C. Contact a first-aider
+D. Try and find out what happened
+
+Right Answer: C
+
+Competent first-aid treatment is essential, and should be summoned immediately.
+
+QUESTION 6.21
+
+An employee has a fall and is obviously unconscious. What is the FIRST thing you should do?
+
+A. Send someone for the first-aider
+B. Find out if there were any witnesses
+C. Try to protect them from any further injury
+D. Put them in the recovery position
+
+Right Answer: A
+
+Competent first-aid treatment is essential, and should be summoned immediately.
+
+QUESTION 6.22
+
+A labourer gets an electric shock; looks a bit pale but says they are alright. What should you do?
+
+A. Send someone for the first-aider
+B. Tell them to report it to their supervisor
+C. Go and check the electrics so it cannot happen again
+D. See if they want a drink or a cigarette
+
+Right Answer: A
+
+Competent first-aid treatment is essential, and should be summoned immediately.
+
+QUESTION 6.23
+
+Which of the following must an employer consider when making provisions for first aid?
+
+A. How much working space will be wasted
+B. How much will it cost
+C. Whether the local ambulance service can be used
+D. The likely types of injury
+
+Right Answer: D
+
+Employers must match first-aid provision to the nature of risks at work.
+
+QUESTION 6.24
+
+In an on-site emergency, which of the following must a first-aider NOT do?
+
+A. Treat an unconscious patient
+B. Control bleeding
+C. Give resuscitation
+D. Give medicines to patients without authorisation
+
+Right Answer: D
+
+First-aid is concerned with preserving life and limb, and first-aiders are not trained to dispense medical treatments.
+
+QUESTION 6.25
+
+If someone has fallen over and has stopped breathing, what is the first thing you should do?
+
+A. Send for help
+B. Attend to any broken bones
+C. Try to give the casualty a drink
+D. Try to start the casualty breathing
+
+Right Answer: A
+
+Do not delay in sending for help; then try to start the casualty breathing.
+
+QUESTION 6.26
+
+If someone has fallen off a ladder and they say their leg is broken, what should you do?
+
+A. Send for the first-aider
+B. Help them to the cabin or mess hut
+C. Move the ladder so no-one trips over it
+D. Bandage their legs together
+
+Right Answer: A
+
+Competent first-aid treatment is essential, and should be summoned immediately.
+
+QUESTION 6.27
+
+Your workmate suddenly gets a foreign body in the eye. What should you do?
+
+A. Take your workmate to the supervisor
+B. Use a clean handkerchief to try and remove it
+C. Wash your hands before touching your mate's face
+D. Send someone for the first-aider
+
+Right Answer: D
+
+Competent first-aid treatment is essential, and should be summoned immediately.
+
+QUESTION 6.28
+
+A person nearly collapses complaining of stomach pains. What should you do?
+
+A. Send someone for the first-aider
+B. Go and find them something to drink
+C. Help them to find somewhere comfortable to sit
+D. Ask them if they want something to eat
+
+Right Answer: A
+
+Competent first-aid treatment is essential, and should be summoned immediately.
+
+QUESTION 6.29
+
+A workmate lifting a big box suddenly shouts 'oh, my back' and drops the box. What should you do?
+
+A. Tell them to leave it for someone else to lift
+B. Send for the first-aider
+C. Help them to lift the box
+D. Find them somewhere comfortable to sit and rest
+
+Right Answer: B
+
+The priority for any back injury is to obtain first-aid advice, in order to prevent further damage.
+
+QUESTION 6.30
+
+What should you do immediately if you get a small cut on a finger whilst at work?
+
+A. Carry on working
+B. Get first-aid
+C. Ask your employer to report it to the HSE
+D. Just wash it clean
+
+Right Answer: B
+
+It is important to obtain first-aid to prevent further harm (e.g. through infection). It should also be recorded in the accident book (Bl 510).
+
+QUESTION 6.31
+
+In an emergency situation at work you should do what?
+
+A. Phone the HSE Inspectorate
+B. Obey the site emergency procedure
+C. Ensure your work mates are all accounted for
+D. Leave the site immediately
+
+Right Answer: B
+
+A site emergency plan should have been drawn up and you should be familiar with the emergency procedure.
+
+QUESTION 6.32
+
+What does the sound of a siren on-site normally indicate?
+
+A. A fire
+B. A toxic escape
+C. An explosion
+D. An emergency
+
+Right Answer: D
+
+QUESTION 6.33
+
+The purpose of fire-stopping in a building is to:
+
+A. Prevent a fire starting
+B. Delay the passage of fire and smoke through openings in walls and floors
+C. Activate fire sprinklers
+D. Set off the fire alarm
+
+Right Answer: B
+
+Fire-stopping is a passive fire protection measure used to seal any openings created in a fire resistance-rated wall or floor assembly, e.g. to allow pipes or wiring systems to pass through. During fire conditions this will impede the spread of fire and smoke.
+
+QUESTION 6.34
+
+What are fire-stops designed to do?
+
+A. Extinguish a fire
+B. Protect services (such as wiring systems) against fire damage
+C. Close fire doors automatically
+D. Delay the passage of fire and smoke through openings in walls and floors
+
+Right Answer: D
+
+Fire-stops are designed to maintain the fireproofing of a wall or floor assembly. Fire-stopping delays the spread of fire and, generally, the spread of smoke as well.
+
+QUESTION 6.35
+
+In addition to preserving fire separation between areas of a building, which other important fire safety function can fire-stopping achieve?
+
+A. Preventing premature structural collapse
+B. Reducing nuisance fire alarms
+C. Reducing noise transmission
+D. Saving energy
+
+Right Answer: A
+
+During a fire it is essential that the load-bearing capacity of elements of the building structure are maintained until occupants have escaped. Timber studs, joists or 'I' beams, for example, may only have a short survival time if exposed to fire and may rely on linings, such as a plasterboard ceiling, for fire-resistance. Services passing through such linings should therefore be fire-stopped.
+
+QUESTION 6.36
+
+Intumescent materials used to provide fire-stopping are designed to:
+
+A. Expand when subjected to smoke
+B. Shrink when subjected to heat
+C. Expand when subjected to heat
+D. Prevent noise transmission
+
+Right Answer: C
+
+A limited number of fire-resistant materials may be used to provide fire-stopping. These include intumescent products, which are designed to expand and provide fire-stopping when subjected to heat. Examples include intumescent 'pillows'.
+
+QUESTION 6.37
+
+What should you do if you disturb fire-stopping around a wiring system penetrating a wall or floor whilst carrying out work?
+
+A. Nail a piece of wood over any gaps
+B. Ensure that the fire-stopping is reinstated to the necessary standard as soon as possible
+C. Highlight this on any certification
+D. Fill any holes or gaps with squashed newspaper
+
+Right Answer: B
+
+It is essential that the integrity of fire compartments is maintained during the construction of buildings and on their completion. Compromising compartmentation, such as failing to adequately fire-stop (seal) openings for services to pass through, can undermine fire precautions catastrophically. Only a limited range of products are suitable and they must be correctly applied to provide the required degree of fire-stopping.
+
+QUESTION 6.38
+
+If you discover a hole or gap in a fire rated wall or floor that has not been fire-stopped, what should you do?
+
+A. Report it to your supervisor without delay
+B. Ignore it unless it is causing a draught
+C. Cover the hole or gap with insulating tape
+D. Use decorators' sealant to fill the gap
+
+Right Answer: A
+
+Supervisors need to be made aware of any observed inadequacies in fire-stopping - which can undermine fire precautions catastrophically during the construction of buildings and on their completion. Only a limited range of products are suitable and they must be correctly applied to provide the required degree of fire-stopping.
+
+QUESTION 6.39
+
+Which one of the following is associated with a Higher Risk Building (HRBs) in England?
+
+A. At least 18 metres in height or seven storeys
+B. At least 15 metres in height or seven storeys
+C. At least 15 metres in height or six storeys
+D. At least 18 metres in height or six storeys
+
+Right Answer: A
+
+At least 18 meters in height or seven storeys is the height at which the Building Safety Regulator regime will apply in England.
+
+QUESTION 6.40
+
+For a holistic approach to fire safety - to plan for all aspects of fire safety - the three main areas that need to be considered are design, construction and...
+
+A. Occupation
+B. Fire stopping
+C. Maintenance
+D. Demolition
+
+Right Answer: C
+
+Design, construction and maintenance are the main aspects to be considered as part of a holistic view to fire safety covering all elements to cover all aspects.
+
+QUESTION 6.41
+
+Which of the following materials provide the least effective fire resistance?
+
+A. Brick
+B. Concrete
+C. Timber
+D. Steel
+
+Right Answer: C
+
+Timber or wood has a low ignition point and can be highly flammable, generally considered to have poor fire resistance.
+
+QUESTION 6.42
+
+When man-made substances, such as rubber, burn, the colour of the smoke is typically:
+
+A. White
+B. Black
+C. Grey
+D. Yellow
+
+Right Answer: B
+
+The black colour of smoke from burning man-made substances, including rubber, is primarily due to incomplete combustion of carbon-based materials, and soot particles suspended in the air making the smoke appear black.
+
+QUESTION 6.43
+
+Which one of the following is a benefit of a 'stay put' strategy for fire evacuation in high risk buildings?
+
+A. It slows the fire fighters' response to a fire
+B. It reduces communication between occupants and emergency services
+C. You reduce the risk of entering a smoky corridor and being overcome by smoke
+D. It allows lifts to be used more effectively
+
+Right Answer: C
+
+A 'stay-put' strategy is designed to prevent injury, reduce panic, and reduce smoke inhalation which could cause injury or fatalities.
+
+QUESTION 6.44
+
+Which one of the following is not a requirement of a protected escape route?
+
+A. Leads to a safe place
+B. Protection from smoke
+C. Infra-red lights
+D. Protection from fire
+
+Right Answer: C
+
+Although emergency lighting systems are mandated to provide adequate illumination in escape routes, this does not include infra-red lights specifically.
+
+QUESTION 6.45
+
+Which one of the following is not an area of competence?
+
+A. Skills
+B. Resilience
+C. Knowledge
+D. Behaviours
+
+Right Answer: B
+
+Competence is broadly defined as the skills, knowledge, experience, and behaviours of an individual.
+
+QUESTION 6.46
+
+What is a key consideration for individuals to ensure safety at work?
+
+A. Pushing personal limits to complete a job at any cost
+B. Having a go at jobs without proper training
+C. Recognising the limitations of competence and not exceeding your own limitations
+D. Ignoring boundaries to complete a job in the quickest manner possible
+
+Right Answer: C
+
+Competence includes the recognition and awareness of the limitations of your own competence, and not undertaking jobs or tasks for which you haven't received proper training as this will lead to unsafe and potentially dangerous practices.
+
+QUESTION 6.47
+
+Which one of the following is a consequence of poor workmanship?
+
+A. Improved fire safety
+B. A good reputation
+C. Increase in hazard and servicing
+D. Increased structural stability
+
+Right Answer: C
+
+A lack of competence and poor workmanship can lead to increased servicing and maintenance requirements, and increased hazards as a result.
+
+QUESTION 6.48
+
+What is CROSS-UK?
+
+A. A branch of the British Red Cross for Construction Workers
+B. An online forum for workers to complain about their employers
+C. A confidential reporting system to report on fire and structural safety issues
+D. A charity that supplies work equipment to apprentices
+
+Right Answer: C
+
+CROSS-UK is Collaborative Reporting for Safer Structures UK - a confidential reporting system which allows professionals working in the built environment to report on fire or structural safety issues.
+
+QUESTION 7.1
+
+Most deaths on site are caused by:
+
+A. Vehicle movements
+B. Falling from height
+C. Solvent inhalation
+D. Chemical burns
+
+Right Answer: B
+
+Although the other dangers can kill or cause injury, falling from height is the bigger cause of fatalities.
+
+QUESTION 7.2
+
+The type of accident that kills most construction site workers is:
+
+A. Being hit by falling objects
+B. Falling from heights
+C. Trench collapses
+D. Electrical accident
+
+Right Answer: B
+
+Although the other dangers can kill or cause injury, falling from height is the biggest cause of fatalities.
+
+QUESTION 7.3
+
+The main cause of deaths on construction sites is
+
+A. Fire
+B. Falls from height
+C. Being run over by plant
+D. Excavation collapse
+
+Right Answer: B
+
+QUESTION 7.4
+
+How many people should be working on a ladder at one time?
+
+A. One on each section of an extension ladder
+B. One
+C. Two
+D. Three if it is long enough
+
+Right Answer: B
+
+Only one person should be working on a ladder, although another person may be footing it, for extra stability.
+
+QUESTION 7.5
+
+Ladders should be set at a slope of approximately:
+
+A. 1 out for every 3 up
+B. 4 out for every 1 up
+C. 1 out for every 1 up
+D. 1 out for every 4 up
+
+Right Answer: D
+
+QUESTION 7.6
+
+Why should aluminium ladders be kept away from wet lime or cement?
+
+A. It will stain your clothes
+B. The ladder may become statically charged
+C. It may corrode the ladder
+D. It will stain the aluminium
+
+Right Answer: C
+
+Aluminium can corrode in certain situations, notably if in prolonged contact with lime or cement.
+
+QUESTION 7.7
+
+Before being used, a ladder should be inspected:
+
+A. By the foreman
+B. By the user
+C. By the manufacturer
+D. By the Safety Officer
+
+Right Answer: B
+
+The user needs to be satisfied that the ladder is in a safe condition before using it.
+
+QUESTION 7.8
+
+Ladders should be:
+
+A. In good condition
+B. Tied or footed
+C. Tied or footed AND at the right angle AND in good condition
+D. At the right angle
+
+Right Answer: C
+
+All the measures listed are required to reduce the risk of falls.
+
+QUESTION 7.9
+
+A ladder giving access to a scaffold can generally be safely used, provided that:
+
+A. The foot of the ladder is firmly wedged
+B. It does not move when you climb up it
+C. Any broken rungs are clearly marked
+D. It is tied and extends at least 1 metre above the platform
+
+Right Answer: D
+
+Access ladders should extend at least 1 metre above the landing point to provide a safe handhold.
+
+QUESTION 7.10
+
+What is the ideal angle for a ladder against a wall and floor?
+
+A. One metre up for every metre out from the wall
+B. One metre up for every two metres out from the wall
+C. Two metres up for every metre out from the wall
+D. Four metres up for every metre out from the wall
+
+Right Answer: D
+
+The correct angle for a ladder is 75 degrees, which can be judged using the angle indicator marked on the stiles of some ladders or using the 1 in 4 rule.
+
+QUESTION 7.11
+
+The rung of a wooden ladder has started to split, what should you do?
+
+A. Do not use it, tell your supervisor
+B. Cut the bad bit out
+C. Tape it up
+D. Jump on it to see if it holds your weight
+
+Right Answer: A
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 7.12
+
+Ladders should not be painted because:
+
+A. Regular repainting will be necessary
+B. The paint will make them slippery to use
+C. The paint may not be suitable on metal parts of the ladder
+D. The paint may cover a defect or damaged part of the ladder
+
+Right Answer: D
+
+QUESTION 7.13
+
+When can you work from a ladder?
+
+A. For short periods and then only if it is safe to do so
+B. When it is long enough
+C. When it is available
+D. When not being used for access
+
+Right Answer: A
+
+Ladders are primarily means of access, not workplaces. They can be worked from, but only if the use of other, more suitable, work equipment is not appropriate and the task is of low risk and of short duration.
+
+QUESTION 7.14
+
+When working above public areas, what should be considered?
+
+A. Preventing complaints from the public
+B. The danger of falling materials
+C. Keeping the job going
+D. Keeping the areas open to the public
+
+Right Answer: B
+
+There is a significant risk to the public from falling materials, if this is not considered before and during work.
+
+QUESTION 7.15
+
+A scaffold tower must be erected by:
+
+A. A trained and competent person
+B. The hire company who supply it
+C. The site foreman
+D. Senior site staff
+
+Right Answer: A
+
+There are a number of organizations that provide training for the safe erection and use of scaffold towers.
+
+QUESTION 7.16
+
+What is the minimum height of the top guard-rail of a scaffold above the edge from which someone is liable to fall?
+
+A. 470mm
+B. 910mm
+C. 950mm
+D. 2 metres
+
+Right Answer: C
+
+This is a requirement of the Work at Height Regulations 2005.
+
+QUESTION 7.17
+
+A working platform used for construction work, and from which a person could fall 2 metres or more, must not be used unless it has been inspected (and a report is subsequently prepared) by a competent person:
+
+A. Only after an accident
+B. That day
+C. Within the previous seven days
+D. Within the previous month
+
+Right Answer: C
+
+Under these specific circumstances a report is required to be prepared by the competent person and given to the person for whom the inspection was done (e.g. the site manager). This is in addition to the more general requirement to inspect equipment for work at height: prior to use in that position (or site if it is mobile); following exceptional circumstances (e.g. high winds); and at suitable intervals.
+
+QUESTION 7.18
+
+On a mobile elevating work platform, what should you attach your safety harness to?
+
+A. A secure anchorage point inside the platform
+B. A strong part of the structure you are working on
+C. The boom of the machine
+D. A nearby pipe or scaffold
+
+Right Answer: A
+
+The priority is to stay within the platform (which is the safest place) and in any event you cannot be sure of the strength of other fixtures.
+
+QUESTION 7.19
+
+You have been asked to operate a cherry-picker (mobile elevated work platform) when it is very windy. What should your FIRST consideration be?
+
+A. Wear a safety harness and clip it to the structure that you are working on
+B. Does the wind-speed make it unsafe to use the machine
+C. Wear an extra layer of clothing to keep warm
+D. Tie all light-weight objects to the hand-rails of the basket
+
+Right Answer: B
+
+The priority in safety is eliminating risk at source in this case by not working in dangerous conditions rather than trying to stay safe by using protective equipment.
+
+QUESTION 7.20
+
+If you have to work at height and it is not possible to erect a scaffold, or use any other type of working platform or mobile elevating work platform, then you should:
+
+A. Work without fall protection, provided you have a mate with you
+B. Wear a harness and lanyard at all times
+C. Work without fall protection, provided the weather is not too windy
+D. Work without fall protection at all times when no one else is about
+
+Right Answer: B
+
+The harness will greatly reduce the likelihood of injury if you fall.
+
+QUESTION 7.21
+
+When working on a roof that has fragile, clear-plastic panels, what is the best way of preventing falls through the panels?
+
+A. Make sure that everyone is told where the panels are and to avoid treading on them
+B. Cover the fragile panels with a strong material and secure the covers to stop them being dislodged
+C. Remove the panels carefully to leave an open space.
+D. It shouldn't be necessary to do anything, everyone knows the dangers
+
+Right Answer: B
+
+Protection from falling through openings and fragile roof lights can be provided by barriers or with covers which can be secured or labelled with a warning.
+
+QUESTION 7.22
+
+When working on a roof that has fragile, clear-plastic panels, what is the best way of preventing falls through the panels?
+
+A. It is safe to walk on the purlins
+B. Walk straight across the roof to where you need to get to
+C. As long as you avoid any fragile areas it is safe
+D. Crawling boards should always be used
+
+Right Answer: D
+
+Fragile roofs must be made safe to work on, before work commences.
+
+QUESTION 7.23
+
+Half the deaths on construction sites are caused by which one of the following?
+
+A. Falls from heights
+B. Electrical misuse
+C. Working in trenches/confined spaces
+D. Misuse of plant and machinery
+
+Right Answer: A
+
+This is shown by HSE statistics.
+
+QUESTION 7.24
+
+What should you do if your work activity requires you to wear a full body safety harness and one is not available?
+
+A. Make a harness from items found on site
+B. Carry on working and hope that everything will be alright
+C. Borrow a harness from a colleague
+D. Stop work immediately and tell your supervisor that you do not have the correct PPE
+
+Right Answer: D
+
+Always advise the supervisor if you do not have the correct PPE.
+
+QUESTION 7.25
+
+Under what circumstances do the Work at Height Regulations permit a stepladder to be used on site?
+
+A. Never stepladders are banned
+B. At any time
+C. Provided you can't fall 2 metres or more
+D. Only when a risk assessment shows that safer alternatives have been ruled out and the task is of low risk and of short duration
+
+Right Answer: D
+
+The WAH Regulations have not banned the use of ladders or stepladders, but they should be used sensibly.
+
+QUESTION 7.26
+
+What is the best method of securing a ladder?
+
+A. Tying it to a suitable point
+B. Using an effective ladder stability device
+C. Wedging the ladder (e.g. against a wall)
+D. Having the ladder footed
+
+Right Answer: A
+
+Tying the ladder is the safest option, making sure both stiles are tied.
+
+QUESTION 7.27
+
+Of the following, which is the POOREST method of securing a ladder?
+
+A. Securing the base of the ladder
+B. Tying the ladder
+C. Having someone foot the ladder
+D. Using a ladder stability device
+
+Right Answer: C
+
+Footing a ladder is the last resort and should be avoided. Other more suitable access equipment should be used where practicable.
+
+QUESTION 7.28
+
+Prior to moving a mobile tower scaffold, the platform height should reduced to a maximum of:
+
+A. 2 metres
+B. 3 metres
+C. 4 metres
+D. 5 metres
+
+Right Answer: C
+
+This figure is quoted in guidance published by the HSE and PASMA. Checks should also be made that there are no obstructions overhead, the ground is firm, level and free from potholes, it is not too windy and there are no people or materials on the tower.
+
+QUESTION 8.1
+
+What do the letters SWL stand for?
+
+A. Safe working level
+B. Satisfactory weight limit
+C. Satisfactory working limit
+D. Safe working load
+
+Right Answer: D
+
+Machinery and accessories for lifting loads should be clearly marked to indicate their safe working loads.
+
+QUESTION 8.2
+
+Who should operate plant and equipment on site?
+
+A. Only people over 18 years of age
+B. Trained and authorised employees only
+C. An employee holding a full driving licence
+D. Any experienced employee
+
+Right Answer: B
+
+Never operate plant or equipment unless you have been trained and are authorised to do so.
+
+QUESTION 8.3
+
+What hazard is created when the head of a cold chisel mushrooms?
+
+A. Reduced striking area
+B. Softens the impact
+C. Flying steel splinters
+D. Damage to the hammer head
+
+Right Answer: C
+
+This question is looking for the hazard, which is the situation that can cause harm to people.
+
+QUESTION 8.4
+
+Any damaged equipment must be:
+
+A. Reported to your supervisor
+B. Thrown away immediately
+C. Labelled as damaged before use
+D. Locked up so no one can use it
+
+Right Answer: A
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.5
+
+The electric drill you are about to use has a faulty on/off switch. What action should you take?
+
+A. Try and fix the fault
+B. Find another machine and carry on working
+C. Remove it from use and tell your supervisor
+D. Tape the switch on to keep it running and carry on working
+
+Right Answer: C
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.6
+
+The power hand tool you are about to use has burn marks visible on the cable. What should you do?
+
+A. Tape over the affected area and continue
+B. Tell your supervisor about the defect and do not use the tool
+C. Obtain another machine and carry on, but don't tell anyone
+D. Carry on and get the job done
+
+Right Answer: B
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.7
+
+Your supervisor asks you to use a powered hand-tool which has a rotating blade. You notice that the guard is missing from the blade. What do you do?
+
+A. Use the tool anyway, you haven't had an accident with it before
+B. Remove it from use and tell your supervisor
+C. Try to make an improvised guard yourself
+D. Contact the manufacturer of the tool
+
+Right Answer: B
+
+It is essential that supervisors are aware of faulty or damaged equipment.
+
+QUESTION 8.8
+
+Hand and power tools must be:
+
+A. The best that you can buy
+B. Made available when needed
+C. In the company's colours
+D. Suitable for the task and regularly inspected
+
+Right Answer: D
+
+Tools must not create a risk to the user or others. This means they must be suitable and kept in good condition. This requires inspection before use.
+
+QUESTION 8.9
+
+When should visual checks of portable hand-held equipment be made by the user?
+
+A. When a replacement is needed
+B. Monthly
+C. Weekly
+D. Each time it is used
+
+Right Answer: D
+
+The user needs to be satisfied that the tool has no obvious defect before use.
+
+QUESTION 8.10
+
+What precaution should you take before adjusting an electrical tool?
+
+A. Check the lead is not twisted or knotted
+B. Wear safety footwear with steel toe caps
+C. Disconnect from the power source
+D. Wear the correct personal protective equipment
+
+Right Answer: C
+
+Do not adjust tools which could still be live or operate.
+
+QUESTION 8.11
+
+An electric drill is to be used. Before use, who should carry out a check on the tool?
+
+A. Storeman
+B. Electrician
+C. Foreman
+D. User
+
+Right Answer: D
+
+The user needs to be satisfied that the tool has no obvious defect before use.
+
+QUESTION 8.12
+
+What action should you take if an electric drill cuts out while you are using it?
+
+A. Shake it about a bit
+B. Put it back into the tool box
+C. Switch the power off and on
+D. Remove it from use and tell your supervisor
+
+Right Answer: D
+
+The drill may be faulty. If so, tell your supervisor and remove the drill from service.
+
+QUESTION 8.13
+
+If an electric drill gives off blue smoke from the motor, you should:
+
+A. Pour water over it
+B. Use a CO2 extinguisher
+C. Switch it off and report it
+D. Stop work for 30 minutes
+
+Right Answer: C
+
+Defective electric hand tools must not be used. Stop what you are doing and inform your supervisor.
+
+QUESTION 8.14
+
+How often should user (visual) checks be carried out on portable electrical equipment?
+
+A. Every time you use it
+B. Every day
+C. Once a week
+D. At least once a year
+
+Right Answer: A
+
+All items of portable electrical equipment should be visually checked for safety by the user before being put into use.
+
+QUESTION 8.15
+
+What is the preferred nominal voltage for portable hand lamps for general use on construction sites?
+
+A. 110 volts
+B. 150 volts
+C. 230 volts
+D. 400 volts
+
+Right Answer: A
+
+110 volt reduced low voltage systems are strongly preferred for the supply to such equipment.
+
+QUESTION 8.16
+
+What is the preferred nominal voltage for portable hand tools on construction sites?
+
+A. 12 volts
+B. 24 volts
+C. 110 volts
+D. 230 volts
+
+Right Answer: C
+
+110 volt reduced low voltage systems are strongly preferred for the supply to such equipment.
+
+QUESTION 8.17
+
+What is the preferred nominal voltage for local lighting up to 2 kW on construction sites?
+
+A. 55 volts
+B. 110 volts
+C. 400 volts
+D. 230 volts
+
+Right Answer: B
+
+110 volt reduced low voltage systems are strongly preferred for the supply to such equipment.
+
+QUESTION 8.18
+
+What is the recommended maximum voltage for portable hand lamps when working in confined or damp locations?
+
+A. 50 volts
+B. 110 volts
+C. 230 volts
+D. 400 volts
+
+Right Answer: A
+
+Where the environment is damp, or restricting and conductive, the magnitude of any electric shock will be higher than under normal conditions. Hand lamps in such locations should therefore be supplied from a SELV (separated extra-low voltage) system, i.e. having a maximum voltage of 50 volts and which is electrically separated from earth.
+
+QUESTION 8.19
+
+If you only have a mains voltage (230 V) hand drill and you want to use it on a construction site which only has yellow (110 V) socket-outlets, what should you do?
+
+A. Use a transformer to boost the voltage
+B. Cut the plug off and fit a yellow one instead
+C. Obtain a 110 V drill or a cordless one for the work
+D. Make up an extension cable with a yellow plug on one end and a standard socket on the other end
+
+Right Answer: C
+
+Electrical equipment must not be modified or operated at voltages other than their design voltage.
+
+QUESTION 8.20
+
+What is most commonly used to reduce 230 volts to 110 volts on site?
+
+A. Residual current device
+B. Transformer
+C. Circuit breaker
+D. Step-down generator
+
+Right Answer: B
+
+A transformer, usually coloured yellow, will transform 230 volts (mains voltage) down to a relatively safe 110 volts.
+
+QUESTION 8.21
+
+When using an extension cable reel, which of the following statements is correct?
+
+A. Leave as much as possible coiled up on the reel
+B. Uncoil it fully every time
+C. Do not exceed the reeled or unreeled rating as appropriate
+D. Only uncoil what you need
+
+Right Answer: C
+
+The rating of a partially unreeled extension cable is much lower than when fully unreeled. Overheating of the cable will occur if the rating is exceeded. Care should also be taken to prevent extension cables becoming a tripping hazard.
+
+QUESTION 8.22
+
+If an extension cable is to be run across a site road, what action should you take?
+
+A. Throw wooden boards over it
+B. Place a rubber protection ramp over it and put up a sign stating Ramp Ahead
+C. Don't do anything to protect the cable
+D. Lay the cable over wooden boards
+
+Right Answer: B
+
+It is essential that the cable is protected from damage caused by passing traffic. A sign will warn road traffic of the ramp.
+
+QUESTION 8.23
+
+To operate a powered hand tool you must be:
+
+A. 16 years old or over
+B. 18 years old or over
+C. 21 years old or over
+D. Trained and competent
+
+Right Answer: D
+
+There are no general age restrictions in legislation relating to the use of work equipment. Any person using work equipment. however, must be competent to do so, which will require initial and refresher training.
+
+QUESTION 8.24
+
+If you are about to use a power tool and discover the guard is missing, you should:
+
+A. Make up a temporary guard yourself
+B. Use the tool but try to work quickly
+C. Not use the tool until a proper guard has been fitted
+D. Use the tool but work carefully and slowly
+
+Right Answer: C
+
+Visual checks should be carried out before using equipment. Any faults should be reported immediately and rectified before use.
+
+QUESTION 9.1
+
+Why may a confined space be dangerous to work in?
+
+A. There may not be sufficient working space
+B. Air in the space may be unbreathable due to poisonous gas
+C. Temperature and poor ventilation may affect the worker
+D. All of the hazards mentioned
+
+Right Answer: D
+
+There can be a range of hazards associated with confined spaces, and these can include all of those mentioned.
+
+QUESTION 9.2
+
+What must be considered first when planning to carry out work in a confined space?
+
+A. Has the job been priced properly
+B. Have the correct tools been arranged
+C. Has sufficient manpower been allocated
+D. Can the work be done from the outside
+
+Right Answer: D
+
+Working outside will remove the risks of working in the confined space.
+
+QUESTION 9.3
+
+When working in a confined space, such as a sewer, what danger may occur?
+
+A. Getting wet through
+B. Boredom
+C. Not enough time for the job to be done
+D. Build-up of harmful gases
+
+Right Answer: D
+
+Sewer gases can be inflammable and suffocating.
+
+QUESTION 9.4
+
+To determine the safety of the atmosphere in an excavation, which of the following is essential.
+
+A. Sniffing the atmosphere after entry
+B. Using a gas detector
+C. Only entering for a short period to enable a quick escape
+D. Looking for toxic gases
+
+Right Answer: B
+
+Use a suitable detector. Many dangerous gases have no smell and cannot be seen. Workers can be overcome in seconds in dangerous atmospheres.
+
+QUESTION 9.5
+
+Before entering an excavation to start work, it must first be:
+
+A. Inspected by a competent person
+B. Covered over and left overnight
+C. Filled with water then drained
+D. Inspected by the HSE
+
+Right Answer: A
+
+Excavation work is hazardous. A competent person, knowledgeable about how to reduce risks, notably from collapse of the walls, must inspect the excavation first.
+
+QUESTION 9.6
+
+What is the purpose of using a permit to work system?
+
+A. To ensure the job is carried out by the quickest method
+B. To help ensure a safe system of work
+C. To ensure that the client will pay for the work
+D. To enable tools and equipment to be properly checked before the commencement of work
+
+Right Answer: B
+
+A permit to work is a written system used to control certain types of hazardous work. They allow work to start only when site procedures have been clarified.
+
+QUESTION 9.7
+
+Why may young people be more at risk on site?
+
+A. There is no specific legislation applying to them
+B. They are usually left to work alone to gain experience
+C. There is no requirement to provide PPE to young people
+D. They are inexperienced and may not recognise danger
+
+Right Answer: D
+
+Health and Safety guidance lists young people as often being at particular risk , due to their lack of practical experience.
+
+QUESTION 9.8
+
+You have to enter a manhole in which you know there are toxic gases. You have all the PPE but there does not appear to be a rescue plan in place. What should you do?
+
+A. Just get on and do the job, it will probably be alright
+B. Plan to carry out the job in short bursts
+C. Do not enter the manhole until a rescue plan and rescue equipment are in place
+D. Ask your mate to stand-by at the top of the manhole with a length of rope
+
+Right Answer: C
+
+A rescue plan must be in place before anyone enters a confined space. This is one of the requirements of the Confined Spaces Regulations 1997.
+
+QUESTION 9.9
+
+You have to enter a manhole in which you believe there could be toxic gases. You have not been provided with any Respiratory Protective Equipment (RPE). What should you do?
+
+A. Tell your supervisor that you will need RPE, and if necessary, training in confined space working
+B. Sniff the atmosphere in the manhole to see if you can smell harmful gases
+C. Look into the manhole to see if you can see any harmful gases
+D. Just get on with the job, and accept the risks
+
+Right Answer: A
+
+An employer must provide all necessary personal protective equipment and respiratory protective equipment when an employee is required to enter a confined space. This is one of the requirements of the Confined Spaces Regulations 1997.
+
+QUESTION 9.10
+
+While digging a trench, you uncover a length of yellow marker tape at a depth of about 150mm. What does the presence of the marker tape mean?
+
+A. The area has a high water-table and precautions must be taken to prevent an in-rush of water
+B. There is a buried electrical cable and further excavation must be carried out with care
+C. There is contaminated soil below the level of the marker tape and all excavation must stop
+D. The excavation has reached a depth where the sides must now be supported
+
+Right Answer: B
+
+The coloured tape indicates that there are buried services below the route of the tape.
+
+QUESTION 9.11
+
+A Cable Avoidance Tool (C.A.T.) and a Genny (generator) can be used successfully to locate underground cables by whom:
+
+A. Anyone
+B. A competent person after training
+C. Any electricity company employee
+D. The site foreman
+
+Right Answer: B
+
+Equipment used to locate buried services must only be used by people who have been trained to use it.
+
+QUESTION 9.12
+
+When exposing underground power cables, which method of excavation should you use?
+
+A. A 360 degree excavator with rubber tyres
+B. A pickaxe
+C. Hand digging
+D. A kango hammer
+
+Right Answer: C
+
+Hand-held power tools and mechanical excavators should not be used too close to underground services and hand digging should be carried out with care.
+
+QUESTION 9.13
+
+When do special precautions need to be taken when working near overhead electric power lines?
+
+A. Only if cranes etc. are being used
+B. Only if someone could touch a line with their bare hands
+C. Only if plant has to pass under the lines
+D. Whenever work areas will be near or beneath the lines
+
+Right Answer: D
+
+Actual contact with a power line is not necessary to result in an electric shock as a close approach may allow flashover to occur. HSE publication GS6 gives advice on procedures to avoid such danger.
+
+QUESTION 9.14
+
+When working alone:
+
+A. Make sure someone responsible knows where you are
+B. You can do away with protective equipment
+C. Don't bother anyone if you have a problem, always sort it out yourself
+D. Wear headphones, it will make the day go more quickly
+
+Right Answer: A
+
+Employees should adhere to safe working arrangements put in place by their employer. When working alone, such arrangements should include informing a responsible person of your location periodically.
+
+QUESTION 9.15
+
+You have to walk across a site several times a day, but have to dodge a lot of site traffic. The first thing you should do is:
+
+A. Have word with the drivers
+B. Walk around the edges of the site to keep out of the way
+C. Tell your supervisor about the danger
+D. Jump on the back of a vehicle if you can, it's safer than walking
+
+Right Answer: C
+
+Pedestrian routes should have been set up to keep people and vehicles apart, so inform your employer if the system is not working. Don't hitch rides on vehicles unless safe seating is provided.
+
+QUESTION 9.16
+
+A mobile plant operator can let you ride in the machine:
+
+A. If you have a long way to go
+B. If it is raining
+C. If it is designed to carry passengers
+D. At any time
+
+Right Answer: C
+
+Don't hitch rides on vehicles unless safe seating is provided.
+
+QUESTION 10.1
+
+In accordance with the Electricity at Work regulations, when considering whether to work live a responsible person should:
+
+A. Carry out a risk assessment
+B. Only work dead
+C. Only work live
+D. Do as the client demands
+
+Right Answer: A
+
+To identify and assess the risks involved and the methods of controlling them.
+
+QUESTION 10.2
+
+The normal procedure for working on electrical equipment should be which one of the following?
+
+A. Dead working
+B. Wearing insulated gloves
+C. Using insulated tools
+D. Live working
+
+Right Answer: A
+
+Dead working should be considered as the norm and work on or near live conductors should rarely be permitted.
+
+QUESTION 10.3
+
+Test instruments used for working on electrical systems should:
+
+A. Be yellow in colour
+B. Be less than 10 years old
+C. Have non-insulated test probes
+D. Have insulated test probes
+
+Right Answer: D
+
+To protect the user from electric shock whilst using the instrument. i.e. handling the probes.
+
+QUESTION 10.4
+
+Under the Electricity at Work Regulations, live working is considered:
+
+A. As entirely acceptable
+B. To be normally permitted
+C. Only to be allowed in exceptional circumstances
+D. Never to be allowed
+
+Right Answer: C
+
+Extra controls must be employed, including training, supervision and use of suitable tools and protective equipment.
+
+QUESTION 10.5
+
+Which of the following would you use to replace the fuse in a plug if fuses were NOT available?
+
+A. A nail
+B. A piece of silver paper
+C. A bit of wire
+D. None of the options listed
+
+Right Answer: D
+
+A fuse is often the main safety device in an electrical circuit. A blown fuse must only be replaced by a fuse of the correct type and rating.
+
+QUESTION 10.6
+
+To prove a circuit or equipment is dead after isolation what is the FIRST activity in the sequence of events?
+
+A. Make sure equipment is not working
+B. Check between line and earth
+C. Check that the voltage detector is working on a proving device, known live source or in built test feature
+D. Check between line and neutral
+
+Right Answer: C
+
+This will prove that that the voltage detector (such as a two-pole voltage detector or proprietary test lamp) is working, i.e. indicating voltage.
+
+QUESTION 10.7
+
+The nominal single phase voltage in the UK is?
+
+A. 230 volts
+B. 240 volts
+C. 415 volts
+D. 400 volts
+
+Right Answer: A
+
+This is the nominal voltage for public electricity supply systems within Europe.
+
+QUESTION 10.8
+
+When is live working permissible?
+
+A. When the person carrying out the work is a competent person
+B. When it is unreasonable in all circumstances for the equipment to be made dead and suitable precautions are taken
+C. When the means of isolation cannot be identified
+D. When the person working on the equipment is wearing rubber gloves
+
+Right Answer: B
+
+This is a requirement under r.14 of the EAW Regulations. However, it does not mean that live working is then safe.
+
+QUESTION 10.9
+
+Which of the following is NOT a requirement of low voltage safe isolation practice?
+
+A. Ensuring that the correct point of isolation is identified
+B. The person carrying out the work is issued with insulating gloves
+C. A caution notice should be applied at the point of isolation
+D. The conductors are proved to be dead at the point of work
+
+Right Answer: B
+
+Safe isolation practice refers to dead working. The use of insulating gloves will generally only be applicable to live working.
+
+QUESTION 10.10
+
+The specific effects on the human body of a major electric shock are one of the following:
+
+A. Dermatitis
+B. Burns and cardiac arrest
+C. Broken bones
+D. Chest pains
+
+Right Answer: B
+
+QUESTION 10.11
+
+The lowest level of electrical current which can harm the human body is normally measured in:
+
+A. Microamps
+B. Kiloamps
+C. Amps
+D. Milliamps
+
+Right Answer: D
+
+Research has shown that a person is in serious danger of a fatal electric shock at. or above, approximately 30 milliamps.
+
+QUESTION 10.12
+
+With regard to the effect of electrical current on the human body, one of the following is correct:
+
+A. A 6 amp circuit breaker should prevent a person receiving a fatal electric shock
+B. A 3 amp fuse should prevent a person receiving a fatal electric shock
+C. A 30 mA Residual Current Device (RCD) should prevent a person receiving a fatal electric shock
+D. A 5 amp rewireable fuse should prevent a person receiving a fatal electric shock
+
+Right Answer: C
+
+An RCD is a mechanical switching device intended to cause the opening of the contacts when the residual current attains a given value under specified conditions.
+
+QUESTION 10.13
+
+Where mains voltage is used to supply portable equipment on a construction site, what additional protection is required?
+
+A. Step-down transformer
+B. Step-down generator
+C. Cable avoidance tool
+D. Residual current device (RCD)
+
+Right Answer: D
+
+Reduced low voltage systems (e.g. 110 volt centre point earthed) are strongly preferred in such circumstances. Where only mains voltage (230 V) equipment is available, however, a 30 mA RCD will give additional protection against fatal electric shock.
+
+QUESTION 10.14
+
+What colour cable USUALLY signifies 110 volt power supply on site?
+
+A. Black
+B. Red
+C. Blue
+D. Yellow
+
+Right Answer: D
+
+Yellow is the usual colour of cables, socket outlets, plugs and transformers etc which are used with a 110 volt supply.
+
+QUESTION 10.15
+
+A portable electric generator on site has two power outlets, 110 volts and 230 volts. What colour would the 110 volt outlet be?
+
+A. Black
+B. Yellow
+C. Red
+D. Blue
+
+Right Answer: B
+
+Yellow is the usual colour of cables, socket outlets, plugs and transformers etc which are used with a 110 volt supply.
+
+QUESTION 10.16
+
+Where there is no local means of isolation for equipment or circuits to be worked on, which of the following is the preferred method of isolation?
+
+A. Use a suitable device such as a circuit breaker
+B. Isolation of the individual circuit breaker or fuse
+C. Pulling out the distributor's cut-out fuse
+D. Disconnecting the individual circuit from the DB
+
+Right Answer: A
+
+Isolating the whole installation or distribution board is the safest method.
+
+QUESTION 10.17
+
+What action should you take if a workmate gets an electric shock?
+
+A. Phone the electricity board immediately
+B. Dial 999 and ask for the fire brigade
+C. Cut off the power and call for help
+D. Try to pull them to safety
+
+Right Answer: C
+
+If you can switch the power off, the electric hazard will be removed. First aid assistance will then probably be required. Do not touch someone who is still in contact with live electrical cables as you could also receive an electric shock.
+
+QUESTION 10.18
+
+A residual current device is designed to operate in the event of one of the following:
+
+A. Overload
+B. Earth fault
+C. Lightning strike on the supply
+D. Short-circuit
+
+Right Answer: B
+
+An RCD provides additional protection against the risk of electric shock.
+
+QUESTION 10.19
+
+Electrical installations on construction sites should be periodically inspected and tested:
+
+A. Every 3 months
+B. Every year
+C. Every 6 months
+D. Every month
+
+Right Answer: A
+
+Three monthly inspections of construction site installations are recommended in IET Guidance Note 3.
+
+QUESTION 10.20
+
+The maximum AC voltage which the human body can withstand without long term physiological effects in dry conditions is:
+
+A. 110 volts
+B. 230 volts
+C. 50 volts
+D. 400 volts
+
+Right Answer: C
+
+Regarded as a non-fatal voltage level.
+
+QUESTION 10.21
+
+Which of the following statements is true with regard to the dangers of electricity?
+
+A. Electricity is perfectly safe so long as you wear cotton gloves
+B. Electricity is only dangerous if you are not wearing wellington boots
+C. Electricity is only dangerous in wet weather
+D. Electricity is dangerous at any time because you cannot tell by looking at a cable whether or not it is live
+
+Right Answer: D
+
+The features which make electricity so dangerous are that you cannot see, hear or smell it. It can give you a very unpleasant surprise. Always assume that cables are live.
+
+QUESTION 10.22
+
+What is the most serious effect that electric shock can have if you come into contact with a live part?
+
+A. The electric current can cause a slight tingling in the fingers
+B. The electric current can cause burn marks on the fingers
+C. The electric current can cause the heart to stop, resulting in death
+D. The electric current can cause the finger muscles to twitch
+
+Right Answer: C
+
+Contact with live electrical parts can be fatal. If you do not know otherwise, always assume that electrical parts are live.
+
+QUESTION 10.23
+
+Your job involves you working near to hanging electrical cables which have bare ends. What should you do?
+
+A. Touch the cables to see if they are live
+B. Carry on working, as there shouldn't be a problem
+C. Inform your supervisor and keep well away
+D. Attempt to push the cables back into the ceiling void so that you can start work
+
+Right Answer: C
+
+You must always assume that exposed cables are live until you know they are not. Contact with live electrical cables can kill.
+
+QUESTION 10.24
+
+For all live working activities it is necessary to:
+
+A. Carry out a risk assessment as required by the EAW Regulations.
+B. Wear rubber gloves only
+C. Be accompanied
+D. Keep your fingers crossed
+
+Right Answer: A
+
+QUESTION 10.25
+
+An electrical Permit to Work is primarily a statement that:
+
+A. Someone else has taken responsibility for the work
+B. The circuit or equipment is live
+C. Certain instructions need to be followed
+D. The circuit or equipment has been isolated and is safe to work on
+
+Right Answer: D
+
+Permits to work describe the procedures that prevent a major hazard, such as electricity or moving machinery, from causing harm, usually by isolation to effectively ensure (in the case of electricity) dead working with no chance of it going live.
+
+QUESTION 10.26
+
+The probes of voltage detectors and test instruments used on electrical systems should be:
+
+A. Manufactured in the UK
+B. Accompanied by a calibration certificate
+C. Shaped or have barriers to prevent finger contact with the tips
+D. Coloured red
+
+Right Answer: C
+
+In addition, to protect against damage by overcurrent whilst in use, the probes or instrument should incorporate suitable high breaking capacity (hbc) fuses with a low current rating (usually not exceeding 500 mA). or current-limiting resistors.
+
+QUESTION 10.27
+
+Which of the following does the Electricity at Work (EAW) regulations apply to?
+
+A. All persons engaged for work purposes
+B. Self employed persons only
+C. Employees only
+D. Employers only
+
+Right Answer: A
+
+The EAW Regulations impose duties on employers, employees and the self employed.
+
+QUESTION 10.28
+
+The Electricity at Work Regulations require that:
+
+A. Persons working with electricity must have the appropriate level of knowledge and experience
+B. A training course is necessary before anyone can work with electricity
+C. Only electricians can work with electricity
+D. Anyone supervised can work with electricity
+
+Right Answer: A
+
+Competency is a requirement of r.16 of the EAW Regulations.
+
+QUESTION 10.29
+
+The Electricity at Work Regulations apply to:
+
+A. Only low voltage systems
+B. Only extra-low voltage systems
+C. All voltage systems
+D. Only high voltage systems
+
+Right Answer: C
+
+The EAW Regulations cover the safe use of electricity in work activities, irrespective of voltage.
+
+QUESTION 10.30
+
+Which of the following should be used to prove a circuit or equipment is dead after isolation?
+
+A. A lamp holder with a length of flex attached
+B. A proprietary test lamp or two-pole voltage detector
+C. A voltage stick
+D. A multimeter
+
+Right Answer: B
+
+Accident history has shown that using incorrectly set multimeters or makeshift devices for voltage detection has often caused accidents. The use of non-contact voltage indicators (voltage sticks) is also not advised as the sole means of proving dead.
+
+QUESTION 10.31
+
+Which of the following is NOT a suitable means of isolating a circuit?
+
+A. Removing a fuse and locking the distribution board
+B. Putting insulating tape over the circuit breaker
+C. Padlocking the isolating switch
+D. Fitting a padlocked circuit breaker lockout
+
+Right Answer: B
+
+The isolating device should be switched off or the fuse removed. The switch, circuit breaker or enclosure should then be locked and the key removed. A notice or label should also be posted to warn that someone is working on the circuit or apparatus.
+
+QUESTION 10.32
+
+Which of the following work procedures on electrical systems will always require a permit-to-work to be issued?
+
+A. Dead working on low-voltage systems
+B. Live working on low-voltage systems
+C. Dead working on high-voltage systems
+D. Live working on high-voltage systems
+
+Right Answer: C
+
+An electrical permit-to-work should state what circuit or equipment has been made safe, how that has been achieved and what work is to be done. A permit should not, therefore, be used for live working. Such a permit is always required for work on high-voltage systems, but can also be used for low-voltage systems.
+
+QUESTION 10.33
+
+Optical fibre cable remnants should not be left lying around on site because:
+
+A. They can be hot and burn upon contact
+B. Laser beams still exist in the cut pieces
+C. They can pierce the skin or eyes
+D. They are toxic
+
+Right Answer: C
+
+Fibre fragments can enter the bloodstream and cause infections in the skin or eyes. All fibre waste, particularly small pieces, should be placed in suitable receptacles.
+
+QUESTION 10.34
+
+Why should the end of an optical fibre cable never be pointed towards your own or anyone else's eyes?
+
+A. The beam can transfer a strong electric current
+B. The colour of the beam is very hypnotic
+C. The beam can bore a hole through the skin
+D. The beam can damage the eyes
+
+Right Answer: D
+
+Exposure to light sources such as lasers or highly concentrated visible or infrared light beams, associated with the testing or use of optical fibres, can cause damage to the eyes, or even blindness.
+
+QUESTION 10.35
+
+The use of a multi-lock hasp with the appropriate number of padlocks is a recommended method of safe isolation where:
+
+A. Individual circuit breaker locking off devices are not available
+B. Individual circuit breakers are not identified at the distribution board
+C. More than one person will be working on circuits supplied from the same distribution board
+D. You know the health and safety inspector is in the area
+
+Right Answer: C
+
+A multi-lock hasp can be used to prevent operation of the isolator until such time that all persons working on the electrical installation have completed their work and removed their padlocks from the hasp.
+
+QUESTION 10.36
+
+Which of the following procedures should be used when more than one person will be working on circuits supplied from a distribution board which has been switched off?
+
+A. The use of a multi-lock hasp on the isolator with a padlock for each operative
+B. Blowing a horn before the power is switched on again
+C. Giving each operative a volt stick
+D. Telling everyone what time the power will be switched on again
+
+Right Answer: A
+
+A multi-lock hasp can be used to prevent operation of the isolator until such time that all persons working on the electrical installation have completed their work and removed their padlocks from the hasp.
+
+QUESTION 11.1
+
+You are on site and you need to dispose of some waste liquid which has oil in it and you are not sure what to do with it. What should you do?
+
+A. Dispose of it in a sealed container into the site skip
+B. Pour it onto the ground, it will soak away
+C. Take it outside and set light to it
+D. Ask your supervisor about the correct way to deal with this waste.
+
+Right Answer: D
+
+Dealing with hazardous/special waste will include proper storage and segregation before it is taken away by an authorised waste carrier as required by environmental legislation. An oil spillage could also get into the ground or drains, which may also be an offence under environmental law. Burning waste on site is also an offence, under air pollution legislation, and can lead to local complaints.
+
+QUESTION 11.2
+
+How should you get rid of hazardous/special waste?
+
+A. Put it at the bottom of any site skip
+B. In accordance with the correct site waste rules
+C. Take it home, they wont want it on site
+D. Take it to the nearest local authority waste tip
+
+Right Answer: B
+
+The Hazardous Waste Regulations (Special Waste Regulations in Scotland) require hazardous/special waste to be properly segregated or otherwise treated, and then recovered or disposed of in an officially approved way.
+
+QUESTION 11.3
+
+Which of the following is classed as hazardous/special waste?
+
+A. Non-asbestos Insulation
+B. Polythene and shrink wrap
+C. Empty cement bags
+D. Fluorescent light tubes
+
+Right Answer: D
+
+Hazardous wastes (special wastes in Scotland) are specified in waste legislation. Fluorescent tubes are included because of their mercury content.
+
+QUESTION 11.4
+
+Which of the following should be disposed of as hazardous/special waste?
+
+A. Timber, plywood and MDF off-cuts
+B. Glass fibre insulation
+C. Aerosol sealant canisters
+D. Used nuisance dust masks
+
+Right Answer: C
+
+Hazardous wastes (special wastes in Scotland) are specified in waste legislation. Aerosol sealants are included because they can explode if not recovered or disposed of properly, and they may still contain hazardous solvents.
+
+QUESTION 11.5
+
+You need to clean up some oil that has leaked from machinery onto the ground. What is the right way to do this?
+
+A. Put the oily contaminated soil into the general waste skip
+B. Put the oily contaminated soil into a suitable container that takes hazardous waste
+C. Put it under some off-cuts so that the oil cannot be seen
+D. Wash the oil away with water and detergent
+
+Right Answer: B
+
+Oil-contaminated wastes are classified as hazardous/ special waste in waste legislation. The Hazardous Waste Regulations (Special Waste Regulations in Scotland) require such waste to be properly segregated or otherwise treated, and then recovered or disposed of in an approved way. Following the other options would be an offence under waste legislation.
+
+QUESTION 11.6
+
+Other site workers are complaining that you are generating too much dust. What should you do?
+
+A. Tell them you have nearly finished
+B. Stop work and inform your supervisor
+C. Ignore them it's none of their business
+D. Issue the other site workers with dust masks
+
+Right Answer: B
+
+Excessive dust may be a health hazard to you and those around you, but even if it is not a health hazard, excessive dust can be a statutory nuisance (under the Environmental Protection Act). Even when it is not a statutory nuisance, it can lead to complaints from neighbours and possible damage to neighbouring property.
+
+QUESTION 11.7
+
+Who needs to understand relevant environmental risks on a construction site?
+
+A. Only the principal contractor
+B. Only the subcontractors
+C. Everyone working on the site
+D. Only the environmental clerk of works
+
+Right Answer: C
+
+The actions of everyone on site determine how well the risks to the environment (such as water pollution, or creating a local nuisance) are controlled.
+
+QUESTION 11.8
+
+Under environmental law, which statement is true?
+
+A. Companies and individuals can be prosecuted if they do not follow the law
+B. Companies can be prosecuted, but not individuals
+C. It is legal to transport business waste without proper paperwork
+D. It is legal to disturb protected species habitats
+
+Right Answer: A
+
+Most environmental law is enforced against companies, but the regulator in the relevant part of the UK (the Environment Agency, SEPA or NIEA) can also prosecute company officers and even have powers to prosecute employees if they wilfully contribute to environmental harm.
+
+QUESTION 11.9
+
+Do individuals have any responsibility for sustainability when on site?
+
+A. No, it is dealt with by the site manager
+B. No, it is a matter for the Environment Agency/NIEA/SEPA
+C. Only on sites where there is asbestos
+D. Yes, on every site
+
+Right Answer: D
+
+Your responsibility is to follow the site and company rules aimed at environmental protection and sustainability, and to help your company to comply with relevant legal requirements, such as the need to segregate waste properly (e.g. so that it can be recovered).
+
+QUESTION 11.10
+
+Which of the following is NOT best practice from a sustainability point of view?
+
+A. Saving materials, fuel, water and energy
+B. Looking after the people working on or near the site
+C. Protecting the environment
+D. Sending unused and waste copper cables to landfill
+
+Right Answer: D
+
+Option D would be wasting a valuable natural resource (copper) that could be effectively recovered for later use or recycling. Reusing or recycling copper has less environmental impact than mining and extracting new copper reserves.
+
+QUESTION 11.11
+
+Which of the following does NOT help sustainability during construction projects?
+
+A. Leaving engines and motors running when they are not needed
+B. Segregating waste
+C. Vehicle sharing or using public transport to get to work
+D. Avoiding overheating site huts
+
+Right Answer: A
+
+Option A generates local air pollution and carbon dioxide emissions (which contribute to global warming), and also increases the noise nuisance.
+
+QUESTION 11.12
+
+Which of the following should you do on site in the interest of sustainability?
+
+A. Run plant and equipment when they are not needed
+B. Bury waste material
+C. Comply with site instructions on handling waste materials
+D. Pour waste liquids down a drain off-site
+
+Right Answer: C
+
+Your actions will help your company, and others working on site, to achieve more sustainable work practices, such as waste recovery.
+
+QUESTION 11.13
+
+Which of the following is NOT part of environmentally-friendly construction?
+
+A. Creating a dust nuisance to residents in neighbouring properties
+B. Preventing water and soil pollution
+C. Saving energy
+D. Minimising the amount of waste you create during a job
+
+Right Answer: A
+
+Neighbours outside the site are an important part of the wider environment. They may be affected by nuisance (such as noise, dust or even light at night), and they may complain to the client, main contractor or the local enforcing authority. Creating certain types of nuisance is an offence under the Environmental Protection Act.
+
+QUESTION 11.14
+
+From an environmental point of view, why should materials be reused, where possible?
+
+A. To save the client money
+B. A lot of energy and raw materials go into making most construction products
+C. It makes less mess on site
+D. Its a European Union Law
+
+Right Answer: B
+
+Although reducing the amount of waste is the first priority, the re-use of materials can also contribute to effective waste management.
+
+QUESTION 11.15
+
+Which action will help to minimise waste?
+
+A. Only take or open what you need and return or reseal anything left over
+B. Use new materials/packs at the beginning of each day
+C. Leave materials unprotected in the rain
+D. Always order much more than usually required just in case you need it
+
+Right Answer: A
+
+The hierarchy for managing waste is to reduce/reuse/recover. Reducing the amount of waste is therefore the first priority.
+
+QUESTION 11.16
+
+Which of the following is good environmental practice?
+
+A. Over-ordering materials
+B. Segregating waste into different types
+C. Leaving skips uncovered in wet weather
+D. Leaving motors running when they are not needed
+
+Right Answer: B
+
+This is good practice, since it will help with waste recovery. If the waste is classified as hazardous waste (special waste in Scotland) proper segregation is also a legal requirement.
+
+QUESTION 11.17
+
+Do individuals have any responsibility for minimising the amount of waste created on site?
+
+A. Only if asbestos removal is being carried out
+B. Yes, everyone on site has this responsibility
+C. No, it's the responsibility of the client
+D. Only during site clean-up, at the end of the project
+
+Right Answer: B
+
+Your actions will help your company, and others on site, to procure sensibly and to organise the job so that materials and substances are not wasted. Waste reduction is the best option when trying to manage site waste.
+
+QUESTION 11.18
+
+If you have unused material left, what should you do before you consider putting non-hazardous waste items into a skip?
+
+A. Make sure there is a label on it
+B. Put it in a plastic bag and put it in a skip
+C. Check whether someone else on your team can make use of it
+D. Weigh it
+
+Right Answer: C
+
+Although reducing the amount of waste is the first priority, the reuse of waste materials is much better than disposal, which is the most expensive option and which should be the last resort. Reuse is a better waste management option than recovery.
+
+QUESTION 11.19
+
+Why should different types of waste be separated on site?
+
+A. It will take up less room in the skip
+B. So the local council can charge Landfill Tax
+C. So the main contractor can check what's being thrown away
+D. So waste can be recovered more easily
+
+Right Answer: D
+
+This is good practice, since waste recovery can save both energy and materials, compared to creating brand new materials or items. It will also cut the amount of waste that goes to landfill. If the waste is classed as hazardous (special waste in Scotland) then the effective separation of different wastes is a legal requirement.
+
+QUESTION 11.20
+
+When storing liquids (such as oils, fuels or chemicals) on-site, what must you do?
+
+A. Always use the nearest container
+B. Use a transparent container so you can check how much liquid is in it
+C. Ensure the liquid material is stored safely and securely, and out of the way of site traffic
+D. Keep the tops off, to prevent pressure from building up
+
+Right Answer: C
+
+Any spillage could get into the ground or drains, which is likely to be an offence under environmental legislation.
+
+QUESTION 11.21
+
+What can help to prevent harm to the environment from oil spillages?
+
+A. A supply of water to flush the spill away
+B. Cover the spillage with soil
+C. Turning liquid containers upside down so the top can't come off
+D. Store oils in an area that can catch any spills, such as a bund or a drip tray.
+
+Right Answer: D
+
+The use of a bund (fully walled storage area) or a drip tray will help any spillage to be contained in a small area for clear up. Any spillage could get into the ground or drains, which is likely to be an offence under environmental legislation.
