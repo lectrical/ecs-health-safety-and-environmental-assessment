@@ -28,7 +28,6 @@ For ECS Health, Safety and Environmental Assessments from 6 May 2024
 
 - Revision info : https://www.ecscard.org.uk/content/Preparation-and-Revision
 - Revision guide pdf: https://www.ecscard.org.uk/getmedia/2bfce807-2289-4a51-a23e-b1c6f801f3e3/ECS-HSE-Revision-Guide-24-pdf.pdf
--
 
 ## What does this project do?
 
