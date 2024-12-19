@@ -1,6 +1,10 @@
 name: Build Binary
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "utilities/quiz.py"
 
 permissions:
   contents: write
