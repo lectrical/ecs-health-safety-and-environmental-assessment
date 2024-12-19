@@ -80,15 +80,13 @@ jobs:
             Build Date: ${{ env.BUILD_DATE }}
 
             SHA-256 Checksum:
-
             ```
-            $(cat SHA256SUMS)
+            $((Get-Content -Path SHA256SUMS))
             ```
 
             SHA-512 Checksum:
-
             ```
-            $(cat SHA512SUMS)
+            $((Get-Content -Path SHA512SUMS))
             ```
           draft: false
           prerelease: false
