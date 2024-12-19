@@ -1,0 +1,341 @@
+{
+  "section_number": 7,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Most deaths on site are caused by:",
+      "options": {
+        "A": "Vehicle movements",
+        "B": "Falling from height",
+        "C": "Solvent inhalation",
+        "D": "Chemical burns"
+      },
+      "correct_answer": "B",
+      "explanation": "Although the other dangers can kill or cause injury, falling from height is the bigger cause of fatalities."
+    },
+    {
+      "question_number": 2,
+      "question": "The type of accident that kills most construction site workers is:",
+      "options": {
+        "A": "Being hit by falling objects",
+        "B": "Falling from heights",
+        "C": "Trench collapses",
+        "D": "Electrical accident"
+      },
+      "correct_answer": "B",
+      "explanation": "Although the other dangers can kill or cause injury, falling from height is the biggest cause of fatalities."
+    },
+    {
+      "question_number": 3,
+      "question": "The main cause of deaths on construction sites is",
+      "options": {
+        "A": "Fire",
+        "B": "Falls from height",
+        "C": "Being run over by plant",
+        "D": "Excavation collapse"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 4,
+      "question": "How many people should be working on a ladder at one time?",
+      "options": {
+        "A": "One on each section of an extension ladder",
+        "B": "One",
+        "C": "Two",
+        "D": "Three if it is long enough"
+      },
+      "correct_answer": "B",
+      "explanation": "Only one person should be working on a ladder, although another person may be footing it, for extra stability."
+    },
+    {
+      "question_number": 5,
+      "question": "Ladders should be set at a slope of approximately:",
+      "options": {
+        "A": "1 out for every 3 up",
+        "B": "4 out for every 1 up",
+        "C": "1 out for every 1 up",
+        "D": "1 out for every 4 up"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 6,
+      "question": "Why should aluminium ladders be kept away from wet lime or cement?",
+      "options": {
+        "A": "It will stain your clothes",
+        "B": "The ladder may become statically charged",
+        "C": "It may corrode the ladder",
+        "D": "It will stain the aluminium"
+      },
+      "correct_answer": "C",
+      "explanation": "Aluminium can corrode in certain situations, notably if in prolonged contact with lime or cement."
+    },
+    {
+      "question_number": 7,
+      "question": "Before being used, a ladder should be inspected:",
+      "options": {
+        "A": "By the foreman",
+        "B": "By the user",
+        "C": "By the manufacturer",
+        "D": "By the Safety Officer"
+      },
+      "correct_answer": "B",
+      "explanation": "The user needs to be satisfied that the ladder is in a safe condition before using it."
+    },
+    {
+      "question_number": 8,
+      "question": "Ladders should be:",
+      "options": {
+        "A": "In good condition",
+        "B": "Tied or footed",
+        "C": "Tied or footed AND at the right angle AND in good condition",
+        "D": "At the right angle"
+      },
+      "correct_answer": "C",
+      "explanation": "All the measures listed are required to reduce the risk of falls."
+    },
+    {
+      "question_number": 9,
+      "question": "A ladder giving access to a scaffold can generally be safely used, provided that:",
+      "options": {
+        "A": "The foot of the ladder is firmly wedged",
+        "B": "It does not move when you climb up it",
+        "C": "Any broken rungs are clearly marked",
+        "D": "It is tied and extends at least 1 metre above the platform"
+      },
+      "correct_answer": "D",
+      "explanation": "Access ladders should extend at least 1 metre above the landing point to provide a safe handhold."
+    },
+    {
+      "question_number": 10,
+      "question": "What is the ideal angle for a ladder against a wall and floor?",
+      "options": {
+        "A": "One metre up for every metre out from the wall",
+        "B": "One metre up for every two metres out from the wall",
+        "C": "Two metres up for every metre out from the wall",
+        "D": "Four metres up for every metre out from the wall"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct angle for a ladder is 75 degrees, which can be judged using the angle indicator marked on the stiles of some ladders or using the 1 in 4 rule."
+    },
+    {
+      "question_number": 11,
+      "question": "The rung of a wooden ladder has started to split, what should you do?",
+      "options": {
+        "A": "Do not use it, tell your supervisor",
+        "B": "Cut the bad bit out",
+        "C": "Tape it up",
+        "D": "Jump on it to see if it holds your weight"
+      },
+      "correct_answer": "A",
+      "explanation": "It is essential that supervisors are aware of faulty or damaged equipment."
+    },
+    {
+      "question_number": 12,
+      "question": "Ladders should not be painted because:",
+      "options": {
+        "A": "Regular repainting will be necessary",
+        "B": "The paint will make them slippery to use",
+        "C": "The paint may not be suitable on metal parts of the ladder",
+        "D": "The paint may cover a defect or damaged part of the ladder"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 13,
+      "question": "When can you work from a ladder?",
+      "options": {
+        "A": "For short periods and then only if it is safe to do so",
+        "B": "When it is long enough",
+        "C": "When it is available",
+        "D": "When not being used for access"
+      },
+      "correct_answer": "A",
+      "explanation": "Ladders are primarily means of access, not workplaces. They can be worked from, but only if the use of other, more suitable, work equipment is not appropriate and the task is of low risk and of short duration."
+    },
+    {
+      "question_number": 14,
+      "question": "When working above public areas, what should be considered?",
+      "options": {
+        "A": "Preventing complaints from the public",
+        "B": "The danger of falling materials",
+        "C": "Keeping the job going",
+        "D": "Keeping the areas open to the public"
+      },
+      "correct_answer": "B",
+      "explanation": "There is a significant risk to the public from falling materials, if this is not considered before and during work."
+    },
+    {
+      "question_number": 15,
+      "question": "A scaffold tower must be erected by:",
+      "options": {
+        "A": "A trained and competent person",
+        "B": "The hire company who supply it",
+        "C": "The site foreman",
+        "D": "Senior site staff"
+      },
+      "correct_answer": "A",
+      "explanation": "There are a number of organizations that provide training for the safe erection and use of scaffold towers."
+    },
+    {
+      "question_number": 16,
+      "question": "What is the minimum height of the top guard-rail of a scaffold above the edge from which someone is liable to fall?",
+      "options": {
+        "A": "470mm",
+        "B": "910mm",
+        "C": "950mm",
+        "D": "2 metres"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a requirement of the Work at Height Regulations 2005."
+    },
+    {
+      "question_number": 17,
+      "question": "A working platform used for construction work, and from which a person could fall 2 metres or more, must not be used unless it has been inspected (and a report is subsequently prepared) by a competent person:",
+      "options": {
+        "A": "Only after an accident",
+        "B": "That day",
+        "C": "Within the previous seven days",
+        "D": "Within the previous month"
+      },
+      "correct_answer": "C",
+      "explanation": "Under these specific circumstances a report is required to be prepared by the competent person and given to the person for whom the inspection was done (e.g. the site manager). This is in addition to the more general requirement to inspect equipment for work at height: prior to use in that position (or site if it is mobile); following exceptional circumstances (e.g. high winds); and at suitable intervals."
+    },
+    {
+      "question_number": 18,
+      "question": "On a mobile elevating work platform, what should you attach your safety harness to?",
+      "options": {
+        "A": "A secure anchorage point inside the platform",
+        "B": "A strong part of the structure you are working on",
+        "C": "The boom of the machine",
+        "D": "A nearby pipe or scaffold"
+      },
+      "correct_answer": "A",
+      "explanation": "The priority is to stay within the platform (which is the safest place) and in any event you cannot be sure of the strength of other fixtures."
+    },
+    {
+      "question_number": 19,
+      "question": "You have been asked to operate a cherry-picker (mobile elevated work platform) when it is very windy. What should your FIRST consideration be?",
+      "options": {
+        "A": "Wear a safety harness and clip it to the structure that you are working on",
+        "B": "Does the wind-speed make it unsafe to use the machine",
+        "C": "Wear an extra layer of clothing to keep warm",
+        "D": "Tie all light-weight objects to the hand-rails of the basket"
+      },
+      "correct_answer": "B",
+      "explanation": "The priority in safety is eliminating risk at source in this case by not working in dangerous conditions rather than trying to stay safe by using protective equipment."
+    },
+    {
+      "question_number": 20,
+      "question": "If you have to work at height and it is not possible to erect a scaffold, or use any other type of working platform or mobile elevating work platform, then you should:",
+      "options": {
+        "A": "Work without fall protection, provided you have a mate with you",
+        "B": "Wear a harness and lanyard at all times",
+        "C": "Work without fall protection, provided the weather is not too windy",
+        "D": "Work without fall protection at all times when no one else is about"
+      },
+      "correct_answer": "B",
+      "explanation": "The harness will greatly reduce the likelihood of injury if you fall."
+    },
+    {
+      "question_number": 21,
+      "question": "When working on a roof that has fragile, clear-plastic panels, what is the best way of preventing falls through the panels?",
+      "options": {
+        "A": "Make sure that everyone is told where the panels are and to avoid treading on them",
+        "B": "Cover the fragile panels with a strong material and secure the covers to stop them being dislodged",
+        "C": "Remove the panels carefully to leave an open space.",
+        "D": "It shouldn't be necessary to do anything, everyone knows the dangers"
+      },
+      "correct_answer": "B",
+      "explanation": "Protection from falling through openings and fragile roof lights can be provided by barriers or with covers which can be secured or labelled with a warning."
+    },
+    {
+      "question_number": 22,
+      "question": "When working on a roof that has fragile, clear-plastic panels, what is the best way of preventing falls through the panels?",
+      "options": {
+        "A": "It is safe to walk on the purlins",
+        "B": "Walk straight across the roof to where you need to get to",
+        "C": "As long as you avoid any fragile areas it is safe",
+        "D": "Crawling boards should always be used"
+      },
+      "correct_answer": "D",
+      "explanation": "Fragile roofs must be made safe to work on, before work commences."
+    },
+    {
+      "question_number": 23,
+      "question": "Half the deaths on construction sites are caused by which one of the following?",
+      "options": {
+        "A": "Falls from heights",
+        "B": "Electrical misuse",
+        "C": "Working in trenches/confined spaces",
+        "D": "Misuse of plant and machinery"
+      },
+      "correct_answer": "A",
+      "explanation": "This is shown by HSE statistics."
+    },
+    {
+      "question_number": 24,
+      "question": "What should you do if your work activity requires you to wear a full body safety harness and one is not available?",
+      "options": {
+        "A": "Make a harness from items found on site",
+        "B": "Carry on working and hope that everything will be alright",
+        "C": "Borrow a harness from a colleague",
+        "D": "Stop work immediately and tell your supervisor that you do not have the correct PPE"
+      },
+      "correct_answer": "D",
+      "explanation": "Always advise the supervisor if you do not have the correct PPE."
+    },
+    {
+      "question_number": 25,
+      "question": "Under what circumstances do the Work at Height Regulations permit a stepladder to be used on site?",
+      "options": {
+        "A": "Never stepladders are banned",
+        "B": "At any time",
+        "C": "Provided you can't fall 2 metres or more",
+        "D": "Only when a risk assessment shows that safer alternatives have been ruled out and the task is of low risk and of short duration"
+      },
+      "correct_answer": "D",
+      "explanation": "The WAH Regulations have not banned the use of ladders or stepladders, but they should be used sensibly."
+    },
+    {
+      "question_number": 26,
+      "question": "What is the best method of securing a ladder?",
+      "options": {
+        "A": "Tying it to a suitable point",
+        "B": "Using an effective ladder stability device",
+        "C": "Wedging the ladder (e.g. against a wall)",
+        "D": "Having the ladder footed"
+      },
+      "correct_answer": "A",
+      "explanation": "Tying the ladder is the safest option, making sure both stiles are tied."
+    },
+    {
+      "question_number": 27,
+      "question": "Of the following, which is the POOREST method of securing a ladder?",
+      "options": {
+        "A": "Securing the base of the ladder",
+        "B": "Tying the ladder",
+        "C": "Having someone foot the ladder",
+        "D": "Using a ladder stability device"
+      },
+      "correct_answer": "C",
+      "explanation": "Footing a ladder is the last resort and should be avoided. Other more suitable access equipment should be used where practicable."
+    },
+    {
+      "question_number": 28,
+      "question": "Prior to moving a mobile tower scaffold, the platform height should reduced to a maximum of:",
+      "options": {
+        "A": "2 metres",
+        "B": "3 metres",
+        "C": "4 metres",
+        "D": "5 metres"
+      },
+      "correct_answer": "C",
+      "explanation": "This figure is quoted in guidance published by the HSE and PASMA. Checks should also be made that there are no obstructions overhead, the ground is firm, level and free from potholes, it is not too windy and there are no people or materials on the tower."
+    }
+  ]
+}

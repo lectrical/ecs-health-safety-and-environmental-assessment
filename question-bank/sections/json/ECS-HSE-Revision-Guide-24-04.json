@@ -1,0 +1,341 @@
+{
+  "section_number": 4,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "When working in dusty conditions, what of the following would give the LEAST level of protection?",
+      "options": {
+        "A": "Compressed airline breathing helmet",
+        "B": "Positive pressure powered respirator",
+        "C": "Self-contained breathing apparatus",
+        "D": "Half mask dust respirator"
+      },
+      "correct_answer": "D",
+      "explanation": "Protection factors are given in HSE publication HSG53 Respiratory protective equipment at work - A practical guide."
+    },
+    {
+      "question_number": 2,
+      "question": "In hot weather which one of the following is correct with regard to safety helmets?",
+      "options": {
+        "A": "You can take off your helmet while working inside the building",
+        "B": "You must continue to wear your helmet",
+        "C": "You can drill holes in your safety hat for ventilation",
+        "D": "You do not need to wear your helmet"
+      },
+      "correct_answer": "B",
+      "explanation": "On construction sites, despite controls being put in place, there will always be situations where a risk of head injury remains. Taking off your helmet would put you at a much greater risk of a head injury and any unauthorised modification would be in breach of legal requirements and could render the helmet next to useless."
+    },
+    {
+      "question_number": 3,
+      "question": "Which one of the following should you do if your personal protective equipment (PPE) is damaged?",
+      "options": {
+        "A": "Obtain new equipment when available",
+        "B": "Report to your Supervisor without delay",
+        "C": "Reduce the amount of time you use it",
+        "D": "Carry on working"
+      },
+      "correct_answer": "B",
+      "explanation": "Employees are required to report any defective PPE to their employer (PPE at Work Regulations 1992, Regulation 7)."
+    },
+    {
+      "question_number": 4,
+      "question": "If personal protective equipment (PPE) is defective, what should you do?",
+      "options": {
+        "A": "Complain to the Health and Safety Inspector",
+        "B": "Get your workmate to mend it if possible",
+        "C": "Report it to your supervisor",
+        "D": "Repair if possible and continue to use it"
+      },
+      "correct_answer": "C",
+      "explanation": "Employees are required to report any defective PPE to their employer (PPE at Work Regulations 1992, Regulation 7)."
+    },
+    {
+      "question_number": 5,
+      "question": "In normal use, what item of PPE is NOT essential for the operator of a cartridge-operated tool, such as a nail gun?",
+      "options": {
+        "A": "Safety eye wear",
+        "B": "Hearing protection",
+        "C": "Wellington boots",
+        "D": "Safety helmet"
+      },
+      "correct_answer": "C",
+      "explanation": "Wellingtons do not offer protection against the specific risks associated with the use of a cartridge-operated tool, although safety footwear must always be work when there is a risk of a foot injury."
+    },
+    {
+      "question_number": 6,
+      "question": "Can you opt out of wearing personal protective equipment (PPE)?",
+      "options": {
+        "A": "Yes, by informing the site supervisor",
+        "B": "Yes, by writing officially to your employer",
+        "C": "No, you cannot opt out",
+        "D": "Yes, if it is uncomfortable"
+      },
+      "correct_answer": "C",
+      "explanation": "You cannot legally 'opt out' of being protected from significant risks at work. This includes wearing the necessary PPE."
+    },
+    {
+      "question_number": 7,
+      "question": "What is the most important item of personal protective equipment (PPE) when working on or near a highway?",
+      "options": {
+        "A": "Safety footwear",
+        "B": "Waterproof clothing",
+        "C": "Hard hat",
+        "D": "High visibility vest"
+      },
+      "correct_answer": "D",
+      "explanation": "A high visibility vest is the most important of PPE however, the other items of PPE may also be required."
+    },
+    {
+      "question_number": 8,
+      "question": "If you are drilling into concrete with a masonry drill, in which one of the following circumstances will you need to wear eye protection?",
+      "options": {
+        "A": "Always",
+        "B": "Only when drilling overhead",
+        "C": "Only if the drill is bigger than 10mm",
+        "D": "Not if drilling into the floor"
+      },
+      "correct_answer": "A",
+      "explanation": "Suitable eye protection must always be worn when working with power-driven tools where chippings are likely to fly or abrasive materials could be propelled."
+    },
+    {
+      "question_number": 9,
+      "question": "When must you wear all personal protective equipment (PPE) provided by your employer?",
+      "options": {
+        "A": "As instructed by your employer",
+        "B": "Only if it fits",
+        "C": "When you want to",
+        "D": "Only when you need to"
+      },
+      "correct_answer": "A",
+      "explanation": "Under the PPE at Work Regulations 1992, employees must wear PPE as instructed."
+    },
+    {
+      "question_number": 10,
+      "question": "When MUST an employer provide their employees with personal protective equipment (PPE)?",
+      "options": {
+        "A": "When they may be exposed to a risk to their health and safety which cannot be controlled another way",
+        "B": "Twice a year",
+        "C": "If the client or main contractor specifies it in the contract",
+        "D": "Every 5 years"
+      },
+      "correct_answer": "A",
+      "explanation": "As required by regulation 4 of the PPE Regulations."
+    },
+    {
+      "question_number": 11,
+      "question": "What type of eye protection would you wear when using a cartridge-operated tool, such as a nail gun?",
+      "options": {
+        "A": "Impact goggles",
+        "B": "Sun glasses",
+        "C": "Safety spectacles",
+        "D": "Chemical protection glasses"
+      },
+      "correct_answer": "A",
+      "explanation": "When using a cartridge-operated tool, such as a nail gun, shatter proof goggles should be worn."
+    },
+    {
+      "question_number": 12,
+      "question": "Which of the following must your safety helmet comply with to meet with the requirements of the Personal Protective Equipment at Work Regulations?",
+      "options": {
+        "A": "It can be adjusted to suit your head size",
+        "B": "It is a good visible colour",
+        "C": "It has a label with your name on it",
+        "D": "It is less than 1 year old"
+      },
+      "correct_answer": "A",
+      "explanation": "An assessment of the suitability of head protection would include consideration of whether it can be adjusted to suit the individual who is to wear it, that it is compatible with the work to be done and that it is comfortable to wear."
+    },
+    {
+      "question_number": 13,
+      "question": "In which of the following ways should you wear your safety helmet?",
+      "options": {
+        "A": "With the peak raised to deflect falling material",
+        "B": "With the helmet back to front",
+        "C": "With the peak raised to give good vision",
+        "D": "Square on your head, properly adjusted"
+      },
+      "correct_answer": "D",
+      "explanation": "Any item of personal protective equipment must be used in accordance with the manufacturer's instructions, which will include how to correctly fit and wear it and what its limitations are."
+    },
+    {
+      "question_number": 14,
+      "question": "When an employee has been issued with eye protection, what are their duties under the Personal Protective Equipment at Work Regulations?",
+      "options": {
+        "A": "To ensure that they are the right type of protector",
+        "B": "Not to loan the equipment to other operatives",
+        "C": "To use the protection in accordance with training and instruction",
+        "D": "To pay for replacement of lost eye protection"
+      },
+      "correct_answer": "C",
+      "explanation": "Regulation 10(2) requires that every employee shall use any PPE in accordance with the training and instruction received."
+    },
+    {
+      "question_number": 15,
+      "question": "When should you wear safety footwear on site?",
+      "options": {
+        "A": "Only when working on scaffolds",
+        "B": "When there is a risk of a foot injury",
+        "C": "Only when working outdoors",
+        "D": "Only if the site conditions are wet"
+      },
+      "correct_answer": "B",
+      "explanation": "Suitable safety footwear should be worn if there is a risk of injury from objects falling onto the foot or sharp objects, such as nails, penetrating the sole."
+    },
+    {
+      "question_number": 16,
+      "question": "With regard to the use of personal protective equipment (PPE), which one of the following statements is true?",
+      "options": {
+        "A": "If you do not use the personal protective equipment (PPE) provided you will probably not come to any harm",
+        "B": "Personal protective equipment (PPE) protects only the user from the dangers present",
+        "C": "Personal protective equipment (PPE) need only be provided if it is not too expensive",
+        "D": "Personal protective equipment (PPE) need only be used if it is available"
+      },
+      "correct_answer": "B",
+      "explanation": "PPE is there to protect the individual. Wearing PPE does not protect other people nearby."
+    },
+    {
+      "question_number": 17,
+      "question": "Which of the following statements is TRUE when an employer issues personal protective equipment (PPE)?",
+      "options": {
+        "A": "The employer can charge you for the full cost of it",
+        "B": "The employer cannot charge you for it",
+        "C": "The employer can charge you for up to half the cost of it",
+        "D": "The employer can only charge you for it if you lose or damage it"
+      },
+      "correct_answer": "B",
+      "explanation": "Employers cannot charge for PPE such as hard hats, gloves, required by law (and the bulk of PPE is required by law)."
+    },
+    {
+      "question_number": 18,
+      "question": "Which one of the following must apply to any hard hat provided?",
+      "options": {
+        "A": "It is CE or UKCA marked",
+        "B": "It is less than 5 years old",
+        "C": "It is less than 1 year old",
+        "D": "It is less than 2 years old"
+      },
+      "correct_answer": "A",
+      "explanation": "All PPE should be CE - marked, indicating that it meets the basic health and safety requirements."
+    },
+    {
+      "question_number": 19,
+      "question": "When using personal protective equipment (PPE) legally you must do which of the following?",
+      "options": {
+        "A": "Not interfere with it or misuse it",
+        "B": "Replace it at your own expense if it is damaged",
+        "C": "Return it to the manufacturer when damaged",
+        "D": "Clean it properly once a week"
+      },
+      "correct_answer": "A",
+      "explanation": "Interfering with or misusing items provided in the interests of health, safety or welfare is an offence under the HSW Act 1974 (Section 8)."
+    },
+    {
+      "question_number": 20,
+      "question": "If it is necessary for an employee to use personal protective equipment, who has a duty to provide it?",
+      "options": {
+        "A": "The trade union",
+        "B": "The employee",
+        "C": "The employer",
+        "D": "The principal contractor"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a requirement of the PPE at Work Regulations 1992 (Regulation 4)."
+    },
+    {
+      "question_number": 21,
+      "question": "When should a safety helmet be worn on site?",
+      "options": {
+        "A": "At all times unless there is no foreseeable risk of injury to the head other than by falling",
+        "B": "When you are out in the open air",
+        "C": "When walking to and from a place of work",
+        "D": "Only when something may fall"
+      },
+      "correct_answer": "A",
+      "explanation": "The circumstances when there is no foreseeable risk of head injury from falling or swinging objects or striking the head against something will be very limited in most construction work."
+    },
+    {
+      "question_number": 22,
+      "question": "A colleague has drilled holes in the top of their safety helmet because the weather is hot. Is this:",
+      "options": {
+        "A": "Acceptable if the holes are small",
+        "B": "Their choice",
+        "C": "Acceptable",
+        "D": "In breach of legal requirements"
+      },
+      "correct_answer": "D",
+      "explanation": "Interfering with or misusing items provided in the interests of health, safety or welfare is an offence under the HSW Act 1974 (section 8)."
+    },
+    {
+      "question_number": 23,
+      "question": "Who has a duty to provide PPE (Personal Protective Equipment) for use by an employee?",
+      "options": {
+        "A": "The employer",
+        "B": "The principal contractor",
+        "C": "The employee",
+        "D": "The client"
+      },
+      "correct_answer": "A",
+      "explanation": "This is a requirement of the PPE at Work Regulations 1992 (Regulation 4)."
+    },
+    {
+      "question_number": 24,
+      "question": "When would it be appropriate to wear a bump-cap instead of a safety helmet?",
+      "options": {
+        "A": "When there is no foreseeable risk of injury from falling or swinging objects",
+        "B": "In warm weather",
+        "C": "When working in excavations",
+        "D": "When working on a ladder"
+      },
+      "correct_answer": "A",
+      "explanation": "Industrial scalp protectors (bump caps) can protect against striking fixed obstacles, scalping or entanglements. They do not provide suitable protection against falling or swinging objects."
+    },
+    {
+      "question_number": 25,
+      "question": "How can you protect your eyesight while working on site?",
+      "options": {
+        "A": "By squinting",
+        "B": "By not looking directly at what you are doing",
+        "C": "By wearing the correct type of eye protection",
+        "D": "By wearing sunglasses"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 26,
+      "question": "When is head protection required to be worn on a construction site to comply with the Personal Protective Equipment at Work Regulations?",
+      "options": {
+        "A": "At all times except by those who are self employed",
+        "B": "Only when you feel like it",
+        "C": "At all times unless you are working on scaffold",
+        "D": "At all times unless there is no foreseeable risk of injury to the head other than by falling"
+      },
+      "correct_answer": "D",
+      "explanation": "If there is no risk of injury to the head, then hard hats are not required by law. However, on construction sites, despite controls being in place, there will almost always be situations where a risk of head injury remains and require head protection to be worn. Site rules will also require the wearing of head protection other than in any designated safe areas."
+    },
+    {
+      "question_number": 27,
+      "question": "Why should a high visibility vest be worn when working on roads?",
+      "options": {
+        "A": "So road users and plant operators can see you",
+        "B": "Because you were told to do so",
+        "C": "Because it will keep you warm",
+        "D": "So that your mates can see you"
+      },
+      "correct_answer": "A",
+      "explanation": "Many workers are struck and injured, often seriously, by moving vehicles."
+    },
+    {
+      "question_number": 28,
+      "question": "When considering what measures to take to protect people's health and safety, PPE should always be regarded as:",
+      "options": {
+        "A": "The last resort",
+        "B": "The first line of defence",
+        "C": "The best way to tackle the job",
+        "D": "The only practical measure"
+      },
+      "correct_answer": "A",
+      "explanation": "Engineering controls and safe systems of work should always be considered first."
+    }
+  ]
+}
