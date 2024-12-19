@@ -39,24 +39,18 @@ jobs:
         with:
           path: venv
           key: venv-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            venv-${{ runner.os }}-
+          restore-keys: venv-${{ runner.os }}-
 
       - name: Set up Virtual Environment
         run: |
-          if not exist venv (
-            python -m venv venv
-            .\venv\Scripts\activate
-            python -m pip install --upgrade pip
-            pip install -r requirements.txt
-          )
-          .\venv\Scripts\activate
+          python -m venv venv
+          .\venv\Scripts\Activate.ps1
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Create Binary
         id: create-binary
-        run: |
-          .\venv\Scripts\python utilities/create-binary.py
-          if not exist ecs-quiz.exe (exit 1)
+        run: .\venv\Scripts\python utilities/create-binary.py
 
       - name: Generate checksums
         run: |
@@ -71,10 +65,7 @@ jobs:
         uses: crazy-max/ghaction-virustotal@v4
         with:
           vt_api_key: ${{ secrets.VT_API_KEY }}
-          files: |
-            ecs-quiz.exe
-            SHA256SUMS
-            SHA512SUMS
+          files: ecs-quiz.exe
 
       - name: Generate Version
         id: version
@@ -117,15 +108,3 @@ jobs:
           git tag -a v${{ env.VERSION }} -m "Release v${{ env.VERSION }}"
           git push origin v${{ env.VERSION }}
           git push
-
-      - name: Upload Build Artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: ecs-quiz-${{ env.VERSION }}
-          path: |
-            ecs-quiz.exe
-            SHA256SUMS
-            SHA512SUMS
-          if-no-files-found: error
-          retention-days: 90
