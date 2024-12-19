@@ -5,6 +5,12 @@ on:
   push:
     paths:
       - "utilities/quiz.py"
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -14,6 +20,7 @@ permissions:
 jobs:
   build:
     runs-on: windows-latest
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -25,20 +32,36 @@ jobs:
         with:
           python-version: "3.13"
           cache: "pip"
+          check-latest: true
+
+      - name: Cache virtual environment
+        uses: actions/cache@v4
+        with:
+          path: venv
+          key: venv-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            venv-${{ runner.os }}-
 
       - name: Set up Virtual Environment
         run: |
-          python -m venv venv
+          if not exist venv (
+            python -m venv venv
+            .\venv\Scripts\activate
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+          )
           .\venv\Scripts\activate
-          python -m pip install --upgrade pip
-
-      - name: Install Dependencies
-        run: |
-          .\venv\Scripts\pip install -r requirements.txt
 
       - name: Create Binary
+        id: create-binary
         run: |
           .\venv\Scripts\python utilities/create-binary.py
+          if not exist ecs-quiz.exe (exit 1)
+
+      - name: Generate checksums
+        run: |
+          certutil -hashfile ecs-quiz.exe SHA256 > SHA256SUMS
+          certutil -hashfile ecs-quiz.exe SHA512 > SHA512SUMS
 
       - uses: actions/attest-build-provenance@v2
         with:
@@ -48,20 +71,61 @@ jobs:
         uses: crazy-max/ghaction-virustotal@v4
         with:
           vt_api_key: ${{ secrets.VT_API_KEY }}
-          files: ecs-quiz.exe
+          files: |
+            ecs-quiz.exe
+            SHA256SUMS
+            SHA512SUMS
 
       - name: Generate Version
-        run: echo "version=$(date +'%Y.%m.%d.%H%M')" >> $GITHUB_ENV
+        id: version
+        run: |
+          echo "VERSION=$(date -u +'%Y.%m.%d.%H%M')" >> $GITHUB_ENV
+          echo "BUILD_DATE=$(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
 
-      - name: Commit binary
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        if: success()
+        with:
+          files: |
+            ecs-quiz.exe
+            SHA256SUMS
+            SHA512SUMS
+          tag_name: v${{ env.VERSION }}
+          name: Release v${{ env.VERSION }}
+          body: |
+            Build Date: ${{ env.BUILD_DATE }}
+
+            SHA-256 Checksum:
+            ```
+            $(cat SHA256SUMS)
+            ```
+
+            SHA-512 Checksum:
+            ```
+            $(cat SHA512SUMS)
+            ```
+          draft: false
+          prerelease: false
+
+      - name: Commit and Push
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add ecs-quiz.exe
-          git commit -m "Auto-build binary v${{ env.version }}"
+          git add ecs-quiz.exe SHA256SUMS SHA512SUMS
+          git commit -m "Auto-build binary v${{ env.VERSION }}"
+          git tag -a v${{ env.VERSION }} -m "Release v${{ env.VERSION }}"
+          git push origin v${{ env.VERSION }}
+          git push
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Upload Build Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          name: ecs-quiz-${{ env.VERSION }}
+          path: |
+            ecs-quiz.exe
+            SHA256SUMS
+            SHA512SUMS
+          if-no-files-found: error
+          retention-days: 90
