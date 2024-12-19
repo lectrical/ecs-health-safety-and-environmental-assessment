@@ -357,10 +357,10 @@ def create_score_table(score, wrong_answers, current_index, total_questions, que
     score_width = len(str(total_questions)) * 2 + 3  # Width for score/total
     pct_width = 10   # Fixed width for percentages
 
-    # Calculate stats
+    # Simple percentage calculations
     progress_pct = (questions_answered / total_questions) * 100
-    score_pct = (score / questions_answered) * \
-        100 if questions_answered > 0 else 0
+    correct_pct = (score / total_questions) * 100
+    wrong_pct = ((questions_answered - score) / total_questions) * 100
     projected_score = int((score / questions_answered) *
                           total_questions) if questions_answered > 0 else 0
 
@@ -370,12 +370,17 @@ def create_score_table(score, wrong_answers, current_index, total_questions, que
         f"┌{'─' * left_width}┬{'─' * score_width}┬{'─' * pct_width}┐",
         f"│ {title:<{left_width-2}} │{' Score ':^{score_width}}│{'   %  ':^{pct_width}}│",
         f"├{'─' * left_width}┼{'─' * score_width}┼{'─' * pct_width}┤",
-        f"│ Progress    │{f'{questions_answered}/{total_questions}':^{score_width}}│{progress_pct:>7.1f}%  │",
-        f"│ Correct     │{Fore.GREEN}{f'{score}/{total_questions}':^{score_width}}{Style.RESET_ALL}│{Fore.GREEN}{score_pct:>7.1f}%  {Style.RESET_ALL}│",
-        f"│ Wrong       │{Fore.RED}{f'{len(wrong_answers)}/{total_questions}':^{score_width}}{Style.RESET_ALL}│{Fore.RED}{100-score_pct:>7.1f}%  {Style.RESET_ALL}│",
+        f"│ Progress    │{
+            f'{questions_answered}/{total_questions}':^{score_width}}│{progress_pct:>7.1f}%  │",
+        f"│ Correct     │{Fore.GREEN}{f'{score}/{total_questions}':^{score_width}}{
+            Style.RESET_ALL}│{Fore.GREEN}{correct_pct:>7.1f}%  {Style.RESET_ALL}│",
+        f"│ Wrong       │{Fore.RED}{f'{questions_answered - score}/{total_questions}':^{
+            score_width}}{Style.RESET_ALL}│{Fore.RED}{wrong_pct:>7.1f}%  {Style.RESET_ALL}│",
         f"├{'─' * left_width}┼{'─' * score_width}┼{'─' * pct_width}┤",
-        f"│ Projected   │{Fore.YELLOW}{f'{projected_score}/{total_questions}':^{score_width}}{Style.RESET_ALL}│{Fore.YELLOW}{(projected_score/total_questions*100):>7.1f}%  {Style.RESET_ALL}│",
-        f"│ Target      │{Fore.GREEN}{f'{config["pass_score"]}/{total_questions}':^{score_width}}{Style.RESET_ALL}│{Fore.GREEN}{(config["pass_score"]/total_questions*100):>7.1f}%  {Style.RESET_ALL}│",
+        f"│ Projected   │{Fore.YELLOW}{f'{projected_score}/{total_questions}':^{score_width}}{
+            Style.RESET_ALL}│{Fore.YELLOW}{(projected_score/total_questions*100):>7.1f}%  {Style.RESET_ALL}│",
+        f"│ Target      │{Fore.GREEN}{f'{config["pass_score"]}/{total_questions}':^{score_width}}{
+            Style.RESET_ALL}│{Fore.GREEN}{(config["pass_score"]/total_questions*100):>7.1f}%  {Style.RESET_ALL}│",
         f"└{'─' * left_width}┴{'─' * score_width}┴{'─' * pct_width}┘"
     ]
 
@@ -499,7 +504,8 @@ def run_full_test(questions):
             print(f"{Fore.GREEN}Correct!{Style.RESET_ALL}")
         else:
             print(
-                f"{Fore.RED}Incorrect. The correct answer was {chr(65 + q['correct'])}{Style.RESET_ALL}"
+                f"{Fore.RED}Incorrect. The correct answer was {
+                    chr(65 + q['correct'])}{Style.RESET_ALL}"
             )
 
     percentage = (score / total) * 100
