@@ -1,0 +1,207 @@
+QUESTION 9.1
+
+Why may a confined space be dangerous to work in?
+
+A. There may not be sufficient working space
+B. Air in the space may be unbreathable due to poisonous gas
+C. Temperature and poor ventilation may affect the worker
+D. All of the hazards mentioned
+
+Right Answer: D
+
+There can be a range of hazards associated with confined spaces, and these can include all of those mentioned.
+
+QUESTION 9.2
+
+What must be considered first when planning to carry out work in a confined space?
+
+A. Has the job been priced properly
+B. Have the correct tools been arranged
+C. Has sufficient manpower been allocated
+D. Can the work be done from the outside
+
+Right Answer: D
+
+Working outside will remove the risks of working in the confined space.
+
+QUESTION 9.3
+
+When working in a confined space, such as a sewer, what danger may occur?
+
+A. Getting wet through
+B. Boredom
+C. Not enough time for the job to be done
+D. Build-up of harmful gases
+
+Right Answer: D
+
+Sewer gases can be inflammable and suffocating.
+
+QUESTION 9.4
+
+To determine the safety of the atmosphere in an excavation, which of the following is essential.
+
+A. Sniffing the atmosphere after entry
+B. Using a gas detector
+C. Only entering for a short period to enable a quick escape
+D. Looking for toxic gases
+
+Right Answer: B
+
+Use a suitable detector. Many dangerous gases have no smell and cannot be seen. Workers can be overcome in seconds in dangerous atmospheres.
+
+QUESTION 9.5
+
+Before entering an excavation to start work, it must first be:
+
+A. Inspected by a competent person
+B. Covered over and left overnight
+C. Filled with water then drained
+D. Inspected by the HSE
+
+Right Answer: A
+
+Excavation work is hazardous. A competent person, knowledgeable about how to reduce risks, notably from collapse of the walls, must inspect the excavation first.
+
+QUESTION 9.6
+
+What is the purpose of using a permit to work system?
+
+A. To ensure the job is carried out by the quickest method
+B. To help ensure a safe system of work
+C. To ensure that the client will pay for the work
+D. To enable tools and equipment to be properly checked before the commencement of work
+
+Right Answer: B
+
+A permit to work is a written system used to control certain types of hazardous work. They allow work to start only when site procedures have been clarified.
+
+QUESTION 9.7
+
+Why may young people be more at risk on site?
+
+A. There is no specific legislation applying to them
+B. They are usually left to work alone to gain experience
+C. There is no requirement to provide PPE to young people
+D. They are inexperienced and may not recognise danger
+
+Right Answer: D
+
+Health and Safety guidance lists young people as often being at particular risk , due to their lack of practical experience.
+
+QUESTION 9.8
+
+You have to enter a manhole in which you know there are toxic gases. You have all the PPE but there does not appear to be a rescue plan in place. What should you do?
+
+A. Just get on and do the job, it will probably be alright
+B. Plan to carry out the job in short bursts
+C. Do not enter the manhole until a rescue plan and rescue equipment are in place
+D. Ask your mate to stand-by at the top of the manhole with a length of rope
+
+Right Answer: C
+
+A rescue plan must be in place before anyone enters a confined space. This is one of the requirements of the Confined Spaces Regulations 1997.
+
+QUESTION 9.9
+
+You have to enter a manhole in which you believe there could be toxic gases. You have not been provided with any Respiratory Protective Equipment (RPE). What should you do?
+
+A. Tell your supervisor that you will need RPE, and if necessary, training in confined space working
+B. Sniff the atmosphere in the manhole to see if you can smell harmful gases
+C. Look into the manhole to see if you can see any harmful gases
+D. Just get on with the job, and accept the risks
+
+Right Answer: A
+
+An employer must provide all necessary personal protective equipment and respiratory protective equipment when an employee is required to enter a confined space. This is one of the requirements of the Confined Spaces Regulations 1997.
+
+QUESTION 9.10
+
+While digging a trench, you uncover a length of yellow marker tape at a depth of about 150mm. What does the presence of the marker tape mean?
+
+A. The area has a high water-table and precautions must be taken to prevent an in-rush of water
+B. There is a buried electrical cable and further excavation must be carried out with care
+C. There is contaminated soil below the level of the marker tape and all excavation must stop
+D. The excavation has reached a depth where the sides must now be supported
+
+Right Answer: B
+
+The coloured tape indicates that there are buried services below the route of the tape.
+
+QUESTION 9.11
+
+A Cable Avoidance Tool (C.A.T.) and a Genny (generator) can be used successfully to locate underground cables by whom:
+
+A. Anyone
+B. A competent person after training
+C. Any electricity company employee
+D. The site foreman
+
+Right Answer: B
+
+Equipment used to locate buried services must only be used by people who have been trained to use it.
+
+QUESTION 9.12
+
+When exposing underground power cables, which method of excavation should you use?
+
+A. A 360 degree excavator with rubber tyres
+B. A pickaxe
+C. Hand digging
+D. A kango hammer
+
+Right Answer: C
+
+Hand-held power tools and mechanical excavators should not be used too close to underground services and hand digging should be carried out with care.
+
+QUESTION 9.13
+
+When do special precautions need to be taken when working near overhead electric power lines?
+
+A. Only if cranes etc. are being used
+B. Only if someone could touch a line with their bare hands
+C. Only if plant has to pass under the lines
+D. Whenever work areas will be near or beneath the lines
+
+Right Answer: D
+
+Actual contact with a power line is not necessary to result in an electric shock as a close approach may allow flashover to occur. HSE publication GS6 gives advice on procedures to avoid such danger.
+
+QUESTION 9.14
+
+When working alone:
+
+A. Make sure someone responsible knows where you are
+B. You can do away with protective equipment
+C. Don't bother anyone if you have a problem, always sort it out yourself
+D. Wear headphones, it will make the day go more quickly
+
+Right Answer: A
+
+Employees should adhere to safe working arrangements put in place by their employer. When working alone, such arrangements should include informing a responsible person of your location periodically.
+
+QUESTION 9.15
+
+You have to walk across a site several times a day, but have to dodge a lot of site traffic. The first thing you should do is:
+
+A. Have word with the drivers
+B. Walk around the edges of the site to keep out of the way
+C. Tell your supervisor about the danger
+D. Jump on the back of a vehicle if you can, it's safer than walking
+
+Right Answer: C
+
+Pedestrian routes should have been set up to keep people and vehicles apart, so inform your employer if the system is not working. Don't hitch rides on vehicles unless safe seating is provided.
+
+QUESTION 9.16
+
+A mobile plant operator can let you ride in the machine:
+
+A. If you have a long way to go
+B. If it is raining
+C. If it is designed to carry passengers
+D. At any time
+
+Right Answer: C
+
+Don't hitch rides on vehicles unless safe seating is provided.

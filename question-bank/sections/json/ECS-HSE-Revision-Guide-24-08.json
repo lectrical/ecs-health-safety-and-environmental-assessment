@@ -1,0 +1,293 @@
+{
+  "section_number": 8,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What do the letters SWL stand for?",
+      "options": {
+        "A": "Safe working level",
+        "B": "Satisfactory weight limit",
+        "C": "Satisfactory working limit",
+        "D": "Safe working load"
+      },
+      "correct_answer": "D",
+      "explanation": "Machinery and accessories for lifting loads should be clearly marked to indicate their safe working loads."
+    },
+    {
+      "question_number": 2,
+      "question": "Who should operate plant and equipment on site?",
+      "options": {
+        "A": "Only people over 18 years of age",
+        "B": "Trained and authorised employees only",
+        "C": "An employee holding a full driving licence",
+        "D": "Any experienced employee"
+      },
+      "correct_answer": "B",
+      "explanation": "Never operate plant or equipment unless you have been trained and are authorised to do so."
+    },
+    {
+      "question_number": 3,
+      "question": "What hazard is created when the head of a cold chisel mushrooms?",
+      "options": {
+        "A": "Reduced striking area",
+        "B": "Softens the impact",
+        "C": "Flying steel splinters",
+        "D": "Damage to the hammer head"
+      },
+      "correct_answer": "C",
+      "explanation": "This question is looking for the hazard, which is the situation that can cause harm to people."
+    },
+    {
+      "question_number": 4,
+      "question": "Any damaged equipment must be:",
+      "options": {
+        "A": "Reported to your supervisor",
+        "B": "Thrown away immediately",
+        "C": "Labelled as damaged before use",
+        "D": "Locked up so no one can use it"
+      },
+      "correct_answer": "A",
+      "explanation": "It is essential that supervisors are aware of faulty or damaged equipment."
+    },
+    {
+      "question_number": 5,
+      "question": "The electric drill you are about to use has a faulty on/off switch. What action should you take?",
+      "options": {
+        "A": "Try and fix the fault",
+        "B": "Find another machine and carry on working",
+        "C": "Remove it from use and tell your supervisor",
+        "D": "Tape the switch on to keep it running and carry on working"
+      },
+      "correct_answer": "C",
+      "explanation": "It is essential that supervisors are aware of faulty or damaged equipment."
+    },
+    {
+      "question_number": 6,
+      "question": "The power hand tool you are about to use has burn marks visible on the cable. What should you do?",
+      "options": {
+        "A": "Tape over the affected area and continue",
+        "B": "Tell your supervisor about the defect and do not use the tool",
+        "C": "Obtain another machine and carry on, but don't tell anyone",
+        "D": "Carry on and get the job done"
+      },
+      "correct_answer": "B",
+      "explanation": "It is essential that supervisors are aware of faulty or damaged equipment."
+    },
+    {
+      "question_number": 7,
+      "question": "Your supervisor asks you to use a powered hand-tool which has a rotating blade. You notice that the guard is missing from the blade. What do you do?",
+      "options": {
+        "A": "Use the tool anyway, you haven't had an accident with it before",
+        "B": "Remove it from use and tell your supervisor",
+        "C": "Try to make an improvised guard yourself",
+        "D": "Contact the manufacturer of the tool"
+      },
+      "correct_answer": "B",
+      "explanation": "It is essential that supervisors are aware of faulty or damaged equipment."
+    },
+    {
+      "question_number": 8,
+      "question": "Hand and power tools must be:",
+      "options": {
+        "A": "The best that you can buy",
+        "B": "Made available when needed",
+        "C": "In the company's colours",
+        "D": "Suitable for the task and regularly inspected"
+      },
+      "correct_answer": "D",
+      "explanation": "Tools must not create a risk to the user or others. This means they must be suitable and kept in good condition. This requires inspection before use."
+    },
+    {
+      "question_number": 9,
+      "question": "When should visual checks of portable hand-held equipment be made by the user?",
+      "options": {
+        "A": "When a replacement is needed",
+        "B": "Monthly",
+        "C": "Weekly",
+        "D": "Each time it is used"
+      },
+      "correct_answer": "D",
+      "explanation": "The user needs to be satisfied that the tool has no obvious defect before use."
+    },
+    {
+      "question_number": 10,
+      "question": "What precaution should you take before adjusting an electrical tool?",
+      "options": {
+        "A": "Check the lead is not twisted or knotted",
+        "B": "Wear safety footwear with steel toe caps",
+        "C": "Disconnect from the power source",
+        "D": "Wear the correct personal protective equipment"
+      },
+      "correct_answer": "C",
+      "explanation": "Do not adjust tools which could still be live or operate."
+    },
+    {
+      "question_number": 11,
+      "question": "An electric drill is to be used. Before use, who should carry out a check on the tool?",
+      "options": {
+        "A": "Storeman",
+        "B": "Electrician",
+        "C": "Foreman",
+        "D": "User"
+      },
+      "correct_answer": "D",
+      "explanation": "The user needs to be satisfied that the tool has no obvious defect before use."
+    },
+    {
+      "question_number": 12,
+      "question": "What action should you take if an electric drill cuts out while you are using it?",
+      "options": {
+        "A": "Shake it about a bit",
+        "B": "Put it back into the tool box",
+        "C": "Switch the power off and on",
+        "D": "Remove it from use and tell your supervisor"
+      },
+      "correct_answer": "D",
+      "explanation": "The drill may be faulty. If so, tell your supervisor and remove the drill from service."
+    },
+    {
+      "question_number": 13,
+      "question": "If an electric drill gives off blue smoke from the motor, you should:",
+      "options": {
+        "A": "Pour water over it",
+        "B": "Use a CO2 extinguisher",
+        "C": "Switch it off and report it",
+        "D": "Stop work for 30 minutes"
+      },
+      "correct_answer": "C",
+      "explanation": "Defective electric hand tools must not be used. Stop what you are doing and inform your supervisor."
+    },
+    {
+      "question_number": 14,
+      "question": "How often should user (visual) checks be carried out on portable electrical equipment?",
+      "options": {
+        "A": "Every time you use it",
+        "B": "Every day",
+        "C": "Once a week",
+        "D": "At least once a year"
+      },
+      "correct_answer": "A",
+      "explanation": "All items of portable electrical equipment should be visually checked for safety by the user before being put into use."
+    },
+    {
+      "question_number": 15,
+      "question": "What is the preferred nominal voltage for portable hand lamps for general use on construction sites?",
+      "options": {
+        "A": "110 volts",
+        "B": "150 volts",
+        "C": "230 volts",
+        "D": "400 volts"
+      },
+      "correct_answer": "A",
+      "explanation": "110 volt reduced low voltage systems are strongly preferred for the supply to such equipment."
+    },
+    {
+      "question_number": 16,
+      "question": "What is the preferred nominal voltage for portable hand tools on construction sites?",
+      "options": {
+        "A": "12 volts",
+        "B": "24 volts",
+        "C": "110 volts",
+        "D": "230 volts"
+      },
+      "correct_answer": "C",
+      "explanation": "110 volt reduced low voltage systems are strongly preferred for the supply to such equipment."
+    },
+    {
+      "question_number": 17,
+      "question": "What is the preferred nominal voltage for local lighting up to 2 kW on construction sites?",
+      "options": {
+        "A": "55 volts",
+        "B": "110 volts",
+        "C": "400 volts",
+        "D": "230 volts"
+      },
+      "correct_answer": "B",
+      "explanation": "110 volt reduced low voltage systems are strongly preferred for the supply to such equipment."
+    },
+    {
+      "question_number": 18,
+      "question": "What is the recommended maximum voltage for portable hand lamps when working in confined or damp locations?",
+      "options": {
+        "A": "50 volts",
+        "B": "110 volts",
+        "C": "230 volts",
+        "D": "400 volts"
+      },
+      "correct_answer": "A",
+      "explanation": "Where the environment is damp, or restricting and conductive, the magnitude of any electric shock will be higher than under normal conditions. Hand lamps in such locations should therefore be supplied from a SELV (separated extra-low voltage) system, i.e. having a maximum voltage of 50 volts and which is electrically separated from earth."
+    },
+    {
+      "question_number": 19,
+      "question": "If you only have a mains voltage (230 V) hand drill and you want to use it on a construction site which only has yellow (110 V) socket-outlets, what should you do?",
+      "options": {
+        "A": "Use a transformer to boost the voltage",
+        "B": "Cut the plug off and fit a yellow one instead",
+        "C": "Obtain a 110 V drill or a cordless one for the work",
+        "D": "Make up an extension cable with a yellow plug on one end and a standard socket on the other end"
+      },
+      "correct_answer": "C",
+      "explanation": "Electrical equipment must not be modified or operated at voltages other than their design voltage."
+    },
+    {
+      "question_number": 20,
+      "question": "What is most commonly used to reduce 230 volts to 110 volts on site?",
+      "options": {
+        "A": "Residual current device",
+        "B": "Transformer",
+        "C": "Circuit breaker",
+        "D": "Step-down generator"
+      },
+      "correct_answer": "B",
+      "explanation": "A transformer, usually coloured yellow, will transform 230 volts (mains voltage) down to a relatively safe 110 volts."
+    },
+    {
+      "question_number": 21,
+      "question": "When using an extension cable reel, which of the following statements is correct?",
+      "options": {
+        "A": "Leave as much as possible coiled up on the reel",
+        "B": "Uncoil it fully every time",
+        "C": "Do not exceed the reeled or unreeled rating as appropriate",
+        "D": "Only uncoil what you need"
+      },
+      "correct_answer": "C",
+      "explanation": "The rating of a partially unreeled extension cable is much lower than when fully unreeled. Overheating of the cable will occur if the rating is exceeded. Care should also be taken to prevent extension cables becoming a tripping hazard."
+    },
+    {
+      "question_number": 22,
+      "question": "If an extension cable is to be run across a site road, what action should you take?",
+      "options": {
+        "A": "Throw wooden boards over it",
+        "B": "Place a rubber protection ramp over it and put up a sign stating Ramp Ahead",
+        "C": "Don't do anything to protect the cable",
+        "D": "Lay the cable over wooden boards"
+      },
+      "correct_answer": "B",
+      "explanation": "It is essential that the cable is protected from damage caused by passing traffic. A sign will warn road traffic of the ramp."
+    },
+    {
+      "question_number": 23,
+      "question": "To operate a powered hand tool you must be:",
+      "options": {
+        "A": "16 years old or over",
+        "B": "18 years old or over",
+        "C": "21 years old or over",
+        "D": "Trained and competent"
+      },
+      "correct_answer": "D",
+      "explanation": "There are no general age restrictions in legislation relating to the use of work equipment. Any person using work equipment. however, must be competent to do so, which will require initial and refresher training."
+    },
+    {
+      "question_number": 24,
+      "question": "If you are about to use a power tool and discover the guard is missing, you should:",
+      "options": {
+        "A": "Make up a temporary guard yourself",
+        "B": "Use the tool but try to work quickly",
+        "C": "Not use the tool until a proper guard has been fitted",
+        "D": "Use the tool but work carefully and slowly"
+      },
+      "correct_answer": "C",
+      "explanation": "Visual checks should be carried out before using equipment. Any faults should be reported immediately and rectified before use."
+    }
+  ]
+}
