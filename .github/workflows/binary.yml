@@ -87,7 +87,7 @@ jobs:
           body: |
             Build Date: ${{ env.BUILD_DATE }}
 
-            Attestation: ${{ steps.attest_url.outputs.attestation_url }}
+            Attestation: ${{ steps.attest_url.outputs.attestation-url }}
 
             Virustotal: https://www.virustotal.com/gui/file/${{ env.SHA256SUMS }}/detection
 
