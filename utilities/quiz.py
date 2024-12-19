@@ -31,7 +31,6 @@ TEST_CONFIG = {
 
 
 def get_script_dir():
-    """Get absolute path to script directory"""
     return os.path.dirname(os.path.abspath(__file__))
 
 
@@ -43,7 +42,6 @@ def get_base_path():
 
 def get_resource_path(relative_path):
     if getattr(sys, "frozen", False):
-        # PyInstaller creates a temp folder and stores path in _MEIPASS
         base_path = sys._MEIPASS
     else:
         base_path = os.getcwd()
@@ -54,7 +52,7 @@ def find_valid_path(possible_paths):
     for path in possible_paths:
         if os.path.exists(path):
             return path
-    return possible_paths[0]  # Default to first path
+    return possible_paths[0]
 
 
 # Define base path
@@ -62,7 +60,6 @@ base_path = get_base_path()
 
 
 def convert_path(path):
-    """Convert path separators to backslashes on Windows"""
     return path.replace("/", "\\") if os.name == "nt" else path
 
 
@@ -83,7 +80,6 @@ def resolve_path(file_name: str, base_dir: str = None, create_dirs: bool = False
 
     paths = []
 
-    # Handle base directory paths first
     if base_dir:
         if parent_dir == "utilities":
             paths.append(os.path.join(script_dir, "..", base_dir, file_name))
@@ -92,12 +88,9 @@ def resolve_path(file_name: str, base_dir: str = None, create_dirs: bool = False
         elif exe_parent_dir == "ecs-health-safety-and-environmental-assessment":
             paths.append(os.path.join(exe_dir, base_dir, file_name))
 
-    # Always check for bundled resources when frozen
     if getattr(sys, "frozen", False):
         paths.append(os.path.join(exe_dir, file_name))
-        # paths.append(os.path.join(sys._MEIPASS, file_name))
 
-    # Add CWD relative paths as fallbacks
     paths.extend([
         os.path.join(os.getcwd(), file_name),
         os.path.join(os.getcwd(), base_dir, file_name) if base_dir else None,
@@ -105,7 +98,6 @@ def resolve_path(file_name: str, base_dir: str = None, create_dirs: bool = False
                      file_name) if base_dir else None
     ])
 
-    # Filter and resolve path
     paths = [p for p in paths if p]
     resolved_path = next((p for p in paths if os.path.exists(p)), paths[0])
     resolved_path = resolved_path.replace(
@@ -118,12 +110,10 @@ def resolve_path(file_name: str, base_dir: str = None, create_dirs: bool = False
 
 
 def get_quiz_file_path(file_name, create_dirs=True):
-    """Get prioritized path for quiz files with directory creation option"""
     return resolve_path(file_name, "tests", create_dirs)
 
 
 def get_prioritized_paths(script_dir, base_dir, file_name):
-    """Get paths prioritized based on parent directory name"""
     return [
         resolve_path(file_name, base_dir),
         resolve_path(file_name, base_dir, create_dirs=True)
@@ -152,19 +142,12 @@ DATA_PATHS, TEST_PATHS = validate_paths()
 
 
 def find_data_file() -> str:
-    """
-    Locate the quiz data file by checking multiple possible locations.
-    Returns the path to the first valid file found.
-    Raises FileNotFoundError if no valid file is found.
-    """
-    # Check bundled path first if running as frozen executable
     if getattr(sys, "frozen", False):
         bundled_path = convert_path(
             get_resource_path("ECS-HSE-Revision-Guide-24.json"))
         if os.path.exists(bundled_path):
             return bundled_path
 
-    # Check configured data paths
     found_path = find_valid_path(DATA_PATHS)
     if os.path.exists(found_path):
         return convert_path(found_path)
@@ -184,7 +167,6 @@ def generate_test():
         print(Fore.RED + f"\nError: {e}" + Style.RESET_ALL)
         return []
 
-    # Define requirements for each section (index, count)
     requirements = [
         (0, 6),  # Section 1: 6 questions
         (1, 4),  # Section 2: 4 questions
@@ -199,7 +181,6 @@ def generate_test():
         (10, 3),  # Section 11: 3 questions
     ]
 
-    # Create test data
     test_data = []
     for section_index, num_questions in requirements:
         try:
@@ -215,13 +196,11 @@ def generate_test():
             print(f"Error processing section {section_index}: {e}")
             continue
 
-    # Save generated test
     test_path = find_valid_path(TEST_PATHS)
     os.makedirs(os.path.dirname(test_path), exist_ok=True)
     with open(test_path, "w", encoding="utf-8") as f:
         json.dump(test_data, f, indent=2, ensure_ascii=False)
 
-    # Return flattened questions
     questions = []
     for section in test_data:
         questions.extend(section["questions"])
@@ -256,10 +235,8 @@ def load_questions():
         choice = input(f"Enter choice (1-{max_choice}): " + Style.RESET_ALL)
 
         if choice == "1":
-            # Load full question database
             with open(find_data_file(), "r", encoding="utf-8") as f:
                 data = json.load(f)
-                # Flatten all questions into single list
                 questions = []
                 for section in data:
                     questions.extend(section["questions"])
@@ -335,9 +312,6 @@ def clear_terminal():
     os.system("cls" if os.name == "nt" else "clear")
 
 
-# Test type constants
-
-
 def get_test_config(total_questions):
     return (
         TEST_CONFIG[TestType.FULL]
@@ -347,17 +321,14 @@ def get_test_config(total_questions):
 
 
 def create_score_table(score, wrong_answers, current_index, total_questions, questions_answered):
-    """Create score table with progress tracking"""
     test_type = "full" if total_questions == 327 else "practice"
     config = TEST_CONFIG[TestType.FULL if test_type ==
                          "full" else TestType.PRACTICE]
 
-    # Calculate column widths
-    left_width = 13  # Fixed width for labels
-    score_width = len(str(total_questions)) * 2 + 3  # Width for score/total
-    pct_width = 10   # Fixed width for percentages
+    left_width = 13
+    score_width = len(str(total_questions)) * 2 + 3
+    pct_width = 10
 
-    # Simple percentage calculations
     progress_pct = (questions_answered / total_questions) * 100
     correct_pct = (score / total_questions) * 100
     wrong_pct = ((questions_answered - score) / total_questions) * 100
@@ -438,10 +409,8 @@ def quiz_user(questions, progress=None):
                 f"\n{create_score_table(progress.score, progress.wrong_answers, progress.current_index, len(questions), progress.questions_answered)}")
             input("\nPress Enter to continue...")
 
-        # Quiz completed - clear progress
         QuizProgress.clear()
 
-        # Return both score and wrong answers
         return progress.score, progress.wrong_answers
 
     except KeyboardInterrupt:
@@ -453,15 +422,15 @@ def quiz_user(questions, progress=None):
 def get_terminal_width():
     try:
         width = shutil.get_terminal_size().columns
-        return min(width - 4, 120)  # Cap at 120 chars, leave margin
+        return min(width - 4, 120)
     except:
-        return 76  # Fallback width
+        return 76
 
 
 def create_box(text):
     width = get_terminal_width()
     wrapper = textwrap.TextWrapper(
-        width=width - 4,  # Account for borders
+        width=width - 4,
         break_long_words=True,
         replace_whitespace=True,
     )
@@ -493,7 +462,6 @@ def run_full_test(questions):
 
     for i, q in enumerate(questions, 1):
         print(f"\nQuestion {i}/{total}")
-        # Format question with letter options
         options = [f"{chr(65+i)}. {opt}" for i, opt in enumerate(q["options"])]
         print(textwrap.fill(q["question"], width=80))
         print("\n".join(options))
@@ -515,7 +483,6 @@ def run_full_test(questions):
 
 
 def set_working_directory():
-    """Set working directory to script location"""
     try:
         script_dir = get_script_dir()
         os.chdir(script_dir)
@@ -531,7 +498,6 @@ class QuizProgress:
         return resolve_path("quiz_progress.json", "tests", create_dirs=True)
 
     def __init__(self, quiz_type):
-        """Initialize quiz progress with quiz type validation"""
         if quiz_type not in [TestType.FULL, TestType.PRACTICE]:
             raise ValueError(f"Invalid quiz type: {quiz_type}")
         self.quiz_type = quiz_type
@@ -543,7 +509,6 @@ class QuizProgress:
         self.timestamp = datetime.now().strftime("%d/%m/%Y %H:%M")
 
     def save(self):
-        """Save progress with quiz type"""
         data = {
             "quiz_type": self.quiz_type,
             "current_index": self.current_index,
@@ -560,7 +525,6 @@ class QuizProgress:
 
     @classmethod
     def load(cls):
-        """Load progress and validate quiz type"""
         save_path = cls.get_save_path()
         if not os.path.exists(save_path):
             return None
@@ -622,7 +586,6 @@ class QuizProgress:
 
 
 def load_full_questions():
-    """Load all questions from the full database"""
     with open(find_data_file(), "r", encoding="utf-8") as f:
         data = json.load(f)
         questions = []
@@ -630,21 +593,17 @@ def load_full_questions():
             questions.extend(section["questions"])
         return questions
 
-# Update main() function
-
 
 def main():
     try:
         init()
         args = parse_args()
 
-        # Check for existing progress first
         progress = QuizProgress.check_progress()
         if progress:
             if progress.quiz_type == TestType.FULL:
                 questions = load_full_questions()
             else:
-                # Load the existing practice test directly
                 test_path = find_valid_path(TEST_PATHS)
                 with open(test_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
@@ -652,7 +611,6 @@ def main():
                     for section in data:
                         questions.extend(section["questions"])
         else:
-            # No progress - determine quiz type and load questions
             quiz_type = TestType.FULL if args.full_test else None
             questions = load_full_questions() if quiz_type == TestType.FULL else load_questions()
             progress = QuizProgress(quiz_type or (TestType.FULL if len(questions) == 327
@@ -669,8 +627,6 @@ def main():
         print(Style.RESET_ALL)
         if os.name == "nt":
             os.system("color")
-
-# Remove start_quiz function as it's not used
 
 
 if __name__ == "__main__":
