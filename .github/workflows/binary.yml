@@ -1,11 +1,11 @@
 name: Build Binary
 
 on:
-  workflow_dispatch:
   push:
     paths:
       - "utilities/quiz.py"
       - ".github/workflows/binary.yml"
+  workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -35,7 +35,7 @@ jobs:
       - name: Set up Virtual Environment
         run: |
           python -m venv venv
-          .\venv\Scripts\Activate.ps1
+          .\venv\Scripts\activate
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
@@ -44,9 +44,16 @@ jobs:
         run: .\venv\Scripts\python utilities\create-binary.py
 
       - name: Generate checksums
+        shell: pwsh
         run: |
-          certutil -hashfile ecs-quiz.exe SHA256 > SHA256SUMS
-          certutil -hashfile ecs-quiz.exe SHA512 > SHA512SUMS
+          $sha256 = (Get-FileHash -Path "ecs-quiz.exe" -Algorithm SHA256).Hash
+          $sha512 = (Get-FileHash -Path "ecs-quiz.exe" -Algorithm SHA512).Hash
+
+          Set-Content -Path "SHA256SUMS" -Value $sha256
+          Set-Content -Path "SHA512SUMS" -Value $sha512
+
+          "SHA256SUMS=$sha256" | Out-File -FilePath $env:GITHUB_ENV -Append
+          "SHA512SUMS=$sha512" | Out-File -FilePath $env:GITHUB_ENV -Append
 
       - uses: actions/attest-build-provenance@v2
         with:
@@ -65,14 +72,6 @@ jobs:
           $buildDate = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm:ss UTC")
           "VERSION=$version" >> $env:GITHUB_ENV
           "BUILD_DATE=$buildDate" >> $env:GITHUB_ENV
-
-      - name: Process Checksums
-        shell: pwsh
-        run: |
-          $SHA256SUMS = Get-Content -Path "SHA256SUMS" -Raw
-          "SHA256SUMS=$SHA256SUMS" | Out-File -FilePath $env:GITHUB_ENV -Append
-          $SHA512SUMS = Get-Content -Path "SHA512SUMS" -Raw
-          "SHA512SUMS=$SHA512SUMS" | Out-File -FilePath $env:GITHUB_ENV -Append
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
