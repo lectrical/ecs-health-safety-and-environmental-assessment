@@ -1,0 +1,22 @@
+{
+  "name": "A quiz codespace",
+  "postAttachCommand": "reset && python utilities/quiz.py",
+  "settings": {
+    "workbench.panel.defaultLocation": "bottom",
+    "terminal.integrated.defaultLocation": "editor",
+    "window.menuBarVisibility": "toggle",
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "overrideName": true,
+        "icon": "terminal-powershell"
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.enablePersistentSessions": false,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.fontSize": 14,
+    "editor.minimap.enabled": false
+  }
+}

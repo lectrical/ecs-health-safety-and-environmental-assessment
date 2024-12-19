@@ -1,0 +1,8 @@
+# ...existing code...
+
+# Set LF line endings for all test files and scripts
+*.sh text eol=lf
+*.py text eol=lf
+*.bat text eol=lf
+test/** text eol=lf
+tests/** text eol=lf
