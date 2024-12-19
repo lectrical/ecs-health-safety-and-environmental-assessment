@@ -56,6 +56,7 @@ jobs:
           "SHA512SUMS=$sha512" | Out-File -FilePath $env:GITHUB_ENV -Append
 
       - uses: actions/attest-build-provenance@v2
+        id: attest_url
         with:
           subject-path: ecs-quiz.exe
 
@@ -85,6 +86,14 @@ jobs:
           name: Release v${{ env.VERSION }}
           body: |
             Build Date: ${{ env.BUILD_DATE }}
+
+            Attestation: ${{ steps.attest_url.outputs.attestation_url }}
+
+            Virustotal: https://www.virustotal.com/gui/file/${{ env.SHA256SUMS }}/detection
+
+            > [!NOTE]
+            > There are false positives on VirusTotal. The binary is safe to use and it is just flagged by some for being a generic pyinstaller exe. All the major vendors have marked it as safe.
+            > The code the exe is based on is opensource here via `quiz.py` and the build process is transparent.
 
             SHA-256 Checksum:
             ```
