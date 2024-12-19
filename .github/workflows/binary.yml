@@ -94,7 +94,7 @@ jobs:
             > [!NOTE]
             > There are false positives on VirusTotal. The binary is safe to use and it is just flagged by some for being a generic pyinstaller exe. All the major vendors have marked it as safe.
             >
-            > The code the exe is based on is opensource here via `quiz.py` and the build process is transparent.
+            > The code the exe is based on is opensource here via [quiz.py](https://github.com/lectrical/ecs-health-safety-and-environmental-assessment/blob/main/utilities/quiz.py) and the build process is transparent.
 
             SHA-256 Checksum:
             ```
