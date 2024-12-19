@@ -5,8 +5,7 @@ on:
   push:
     paths:
       - "utilities/quiz.py"
-    branches:
-      - main
+      - ".github/workflows/binary.yml"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -20,7 +19,6 @@ permissions:
 jobs:
   build:
     runs-on: windows-latest
-    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -34,13 +32,6 @@ jobs:
           cache: "pip"
           check-latest: true
 
-      - name: Cache virtual environment
-        uses: actions/cache@v4
-        with:
-          path: venv
-          key: venv-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: venv-${{ runner.os }}-
-
       - name: Set up Virtual Environment
         run: |
           python -m venv venv
@@ -50,7 +41,7 @@ jobs:
 
       - name: Create Binary
         id: create-binary
-        run: .\venv\Scripts\python utilities/create-binary.py
+        run: .\venv\Scripts\python utilities\create-binary.py
 
       - name: Generate checksums
         run: |
@@ -68,10 +59,12 @@ jobs:
           files: ecs-quiz.exe
 
       - name: Generate Version
-        id: version
+        shell: pwsh
         run: |
-          echo "VERSION=$(date -u +'%Y.%m.%d.%H%M')" >> $GITHUB_ENV
-          echo "BUILD_DATE=$(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
+          $version = (Get-Date).ToUniversalTime().ToString("yyyy.MM.dd.HHmm")
+          $buildDate = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm:ss UTC")
+          "VERSION=$version" >> $env:GITHUB_ENV
+          "BUILD_DATE=$buildDate" >> $env:GITHUB_ENV
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
@@ -87,11 +80,13 @@ jobs:
             Build Date: ${{ env.BUILD_DATE }}
 
             SHA-256 Checksum:
+
             ```
             $(cat SHA256SUMS)
             ```
 
             SHA-512 Checksum:
+
             ```
             $(cat SHA512SUMS)
             ```
