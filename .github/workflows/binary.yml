@@ -69,21 +69,10 @@ jobs:
       - name: Process Checksums
         shell: pwsh
         run: |
-          if (Test-Path SHA256SUMS -PathType Leaf) {
-            $SHA256SUMS = Get-Content -Path SHA256SUMS -Raw
-            "SHA256SUMS=$SHA256SUMS" >> $env:GITHUB_ENV
-          } else {
-            Write-Error "SHA256SUMS file not found"
-            exit 1
-          }
-
-          if (Test-Path SHA512SUMS -PathType Leaf) {
-            $SHA512SUMS = Get-Content -Path SHA512SUMS -Raw
-            "SHA512SUMS=$SHA512SUMS" >> $env:GITHUB_ENV
-          } else {
-            Write-Error "SHA512SUMS file not found"
-            exit 1
-          }
+          $SHA256SUMS = Get-Content -Path "SHA256SUMS" -Raw
+          "SHA256SUMS=$SHA256SUMS" | Out-File -FilePath $env:GITHUB_ENV -Append
+          $SHA512SUMS = Get-Content -Path "SHA512SUMS" -Raw
+          "SHA512SUMS=$SHA512SUMS" | Out-File -FilePath $env:GITHUB_ENV -Append
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
