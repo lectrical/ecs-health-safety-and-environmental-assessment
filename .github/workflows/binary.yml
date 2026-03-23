@@ -55,7 +55,7 @@ jobs:
           "SHA256SUMS=$sha256" | Out-File -FilePath $env:GITHUB_ENV -Append
           "SHA512SUMS=$sha512" | Out-File -FilePath $env:GITHUB_ENV -Append
 
-      - uses: actions/attest-build-provenance@v2
+      - uses: actions/attest-build-provenance@v4
         id: attest_url
         with:
           subject-path: ecs-quiz.exe
